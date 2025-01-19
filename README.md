@@ -54,7 +54,7 @@ Mass cores represent mass in space, including its quantized properties.
 
 #### **Light Shells**
 
-![Light]()​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
+![Light](https://raw.githubusercontent.com/ENSpunks/Causal-Relativity-Public-/refs/heads/main/Causal%20Sphere%20Diagrams/Assets/Light%20(Photons).png?token=GHSAT0AAAAAAC5KZXYUGJTICTRCKM7RIZEIZ4NI75Q)​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
 
 Light shells represent light propagation outward at c relative to mass, including its quantized nature.
 
