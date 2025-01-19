@@ -38,17 +38,17 @@ The paper proposes **Causal Relativity**, a novel interpretation of relativity w
 1. Laws of physics are frame independent.
 2. Mass is energy that causes space to curve and mass has quantum properties causing energy release as photons.
 3. Light and gravity, unless only gravity, propagate at a constant speed relative to curvature caused by mass.
-4. Mass, light, and gravity and their interactions unify casuality in space without time.
+4. Mass, light, and gravity and their interactions unify causality in space without time.
 
 ---
 
 ### **Causal Sphere Diagrams**
 
-**Causal Geometry** replaces spacetime geometry and lightcones with an equally intuitive and visual framework made of **Casual Spheres**.
+**Causal Geometry** replaces spacetime geometry and lightcones with an equally intuitive and visual framework made of **Causal Spheres**.
 
-1.  3 **Primary Casual Spheres** Mass, Light and Gravity representing Newtonian Mechanics without time.
-2.  3 **Primary Casual Spheres** can pair to form 3 **Elemental Casual Spheres** for Special Relativity and General Relativity in space without time.
-3.  **Causal Geometry** is thr measurement of unified **Casual Spheres** in space without time or. 
+1.  3 **Primary Causal Spheres**: Mass, Light and Gravity representing Newtonian Mechanics without time.
+2.  The 3 **Primary Causal Spheres**  pair to form 3 **Elemental Casual Spheres** for Special Relativity and General Relativity in space without time.
+3.  **Causal Geometry** is the measurement of unified **Causual Spheres** in space without time or. 
 
 #### **Mass Cores**
 
