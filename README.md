@@ -58,7 +58,9 @@ Light shells represent light propagation outward at c relative to mass, includin
 
 Gravity shells represent gravity, or 3D space curvature without a time dimension, and its propagation outward at c relatice to mass curvature.
 
-These spheres overlap to form an intrisic causal geometry in 3D space consistent with relativity.
+These spheres overlap to form the **Causal Geometry** framework in 3D space without time.
+
+![Causal Sphere Diagram](https://raw.githubusercontent.com/ENSpunks/Causal-Relativity-Public-/refs/heads/main/Causal%20Sphere%20Diagrams/Assets/Causal%20Relativity.png?token=GHSAT0AAAAAAC5KZXYVSRB6XBEJTXA6UGLSZ4NIRNA)​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
 
 ---
 
