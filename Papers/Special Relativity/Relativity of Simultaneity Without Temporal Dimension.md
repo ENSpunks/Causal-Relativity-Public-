@@ -1,5 +1,5 @@
 **Title:**  
-*Relativity of Simultaneity: A Unified Spatial Interpretation in Causal Relativity*
+*Relativity of Simultaneity Without Temporal Dimension*
 
 ---
 
