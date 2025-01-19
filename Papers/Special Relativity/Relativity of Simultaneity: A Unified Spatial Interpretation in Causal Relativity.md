@@ -36,6 +36,26 @@ In SR, the relativity of simultaneity challenges our intuitive understanding of 
 - **Causal Relativity**:
   - Proposes that all causality can be described through spatial interactions, removing the temporal dimension from these considerations.
 
+### **Causal Geometry Consistent with the Relativity of Simultaneity**
+
+In Causal Relativity, the relativity of simultaneity can be understood through the interactions of Causal Spheres. Consider two observers, Alice and Bob, each with their own set of Causal Spheres:
+
+- **Alice and Bob's Light Spheres:**
+
+  - **Initial Condition:** Alice and Bob are stationary relative to each other. Their Light Shells propagate outward from their respective Mass Cores at the speed of light, \(c\), illustrating the emission of light signals from their locations in space.
+
+  - **Relative Motion:** Alice begins to move relative to Bob. As Alice moves, her Light Shell's spatial distribution changes from Bob's perspective due to the relative velocity. 
+
+  - **Effect on Simultaneity:** When Alice sends two light signals from different spatial points (let's say from the front and back of her spaceship), these signals will reach Bob at different times if Bob is moving relative to Alice due to the altered spatial arrangement of Alice's Light Shell. From Alice's perspective, these signals were emitted simultaneously, but the spatial alignment from Bob's viewpoint makes them appear non-simultaneous.
+
+- **Gravitational Influence:**
+
+  - **Gravity Shells:** If Alice and Bob are in different gravitational fields, the curvature of space around them, represented by their Gravity Shells, distorts the paths of light signals. The spatial path light must travel to reach Bob from Alice is longer or shorter depending on the gravitational influence, affecting what is perceived as simultaneous.
+
+- **Unification in Spatial Terms:**
+
+  - **Spatial Alignment:** The key to understanding simultaneity in Causal Geometry is the spatial alignment of events. What we traditionally see as a temporal discrepancy is here seen as a spatial configuration where the geometry of space dictates what is 'simultaneous' based on the observer's position and motion.
+
 ---
 
 **Reinterpretation in Causal Relativity:**
