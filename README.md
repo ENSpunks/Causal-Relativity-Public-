@@ -44,17 +44,23 @@ The paper proposes **Causal Relativity**, a novel interpretation of relativity w
 
 ### **Causal Sphere Diagrams**
 
-**Causal Geometry** uses a visually  framework of overlapping spheres called Casual Spheres which create geometric causality in 3D space without time for any body or n-body relative.
+**Causal Geometry** replaces spacetime geometry with an equally visually intuitive framework and in place of spacetime graphs are **Casual Spheres** in 3D space without time.
 
 #### **Mass Cores**
+
+![Mass]()​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
 
 Mass cores represent mass in space, including its quantized properties.
 
 #### **Light Shells**
 
+![Light]()​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
+
 Light shells represent light propagation outward at c relative to mass, including its quantized nature.
 
 #### **Gravity Shells**
+
+![Gravity]()​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
 
 Gravity shells represent gravity, or 3D space curvature without a time dimension, and its propagation outward at c relatice to mass curvature.
 
