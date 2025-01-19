@@ -44,7 +44,9 @@ The paper proposes **Causal Relativity**, a novel interpretation of relativity w
 
 ### **Causal Sphere Diagrams**
 
-**Causal Geometry** replaces spacetime geometry with an equally visually intuitive framework and in place of spacetime graphs are **Casual Spheres** in 3D space without time.
+**Causal Geometry** replaces spacetime geometry lightcones with an equally intuitive and visual framework made of **Casual Spheres**.
+
+The 3 **Primary Casual Spheres** Mass, Light and Gravity representing Newtonian Mechanics without time.  The 3 **Primary Casual Spheres** can pair to form 3 **Elemental Casual Spheres** for Special Relativity and General Relativity in 3D space without time. Finally, the 3 **Primary Casual Spheres** unify as **Casual Spheres** in 3D space without time, or **Causal Geometry**. 
 
 #### **Mass Cores**
 
@@ -67,8 +69,6 @@ Gravity shells represent gravity, or 3D space curvature without a time dimension
 #### **Causal Spheres**
 
 ![Causal Sphere Diagram](https://raw.githubusercontent.com/ENSpunks/Causal-Relativity-Public-/refs/heads/main/Causal%20Sphere%20Diagrams/Assets/Causal%20Relativity.png?token=GHSAT0AAAAAAC5KZXYVSRB6XBEJTXA6UGLSZ4NIRNA)​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
-
-The 3 spheres unify and form the **Causal Geometry** framework in 3D space for relativistic effects traditionally dependent on spacetime.
 
 ---
 
