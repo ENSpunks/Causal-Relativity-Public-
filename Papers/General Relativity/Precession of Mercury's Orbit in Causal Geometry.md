@@ -87,4 +87,4 @@ We've shown that Mercury's orbital precession can be understood through the lens
 ---
 
 **Appendices:**  
-- [Theory of Causal Relativity: Unifying Relativity without Time]()
+- [Theory of Causal Relativity: Unifying Relativity without Time](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Papers/Causal%20Relativity/Theory%20of%20Causal%20Relativity%20(Published%2001-20-25))
