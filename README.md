@@ -138,7 +138,7 @@ Causal Geometry reinterprets relativity, offering potentially simpler models for
 ### **Appendix**
 
 - [Papers](https://github.com/ENSpunks/Causal-Relativity-Public-/tree/main/Papers)
-- [Causal Shell Diagrams](https://github.com/ENSpunks/Causal-Relativity-Public-/tree/main/Causal%20Sphere%20Diagrams))
+- [Causal Shell Diagrams](https://github.com/ENSpunks/Causal-Relativity-Public-/tree/main/Causal%20Sphere%20Diagrams)
 
 ### **References**
 
