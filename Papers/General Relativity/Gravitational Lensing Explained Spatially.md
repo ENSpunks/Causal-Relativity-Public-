@@ -83,5 +83,4 @@ We have shown that gravitational lensing can be conceptualized through spatial c
 ---
 
 **Appendices:**  
-- Detailed derivation of the deflection angle in Causal Geometry.
-- Comparison of lensing predictions between GR and Causal Relativity for known lensing events.
+- [Theory of Causal Relativity: Unifying Relativity without Time](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Papers/Causal%20Relativity/Theory%20of%20Causal%20Relativity%20(Published%2001-20-25))
