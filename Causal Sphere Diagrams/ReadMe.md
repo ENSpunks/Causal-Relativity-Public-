@@ -2,5 +2,4 @@
 
 ---
 
-![Causal Sphere Diagram](url-to-image "Image Title")
-```​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
+![Causal Sphere Diagram](url-to-image "Image Title")​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
