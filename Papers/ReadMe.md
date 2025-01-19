@@ -1,5 +1,3 @@
-Here are the lists of potential papers organized by Special Relativity and General Relativity:
-
 ### **Special Relativity Papers:**
 
 1. **Time Dilation Reinterpreted as Spatial Dilation**
