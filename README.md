@@ -116,7 +116,6 @@ Gravity shells represent gravity, or 3D space curvature without a time dimension
 | Mass + Gravity    | Relativistic Doppler Shift                | SR     | \( f' = f \sqrt{\frac{1 - \frac{v}{c}}{1 + \frac{v}{c}}} \)                                                                                                                                       | \( f' = f \sqrt{\frac{1 - \frac{v}{c}}{1 + \frac{v}{c}}} \) (spatial frequency shift)                |
 | Mass + Gravity    | Energy of Gravitational Waves             | GR     | \( E = \frac{1}{2} \rho v^2 \)                                                                                                                                                                       | \( E = \frac{1}{2} \rho v^2 \) (spatial energy density of gravitational waves)                        |
 
-Note that some concepts like the event horizon or the energy-momentum tensor are theoretical developments to indicate how they might be conceptualized spatially.
 
 ---
 
