@@ -40,6 +40,28 @@ Time dilation in SR arises from relative velocity, while in GR, it's due to grav
 - **Causal Relativity**: 
   - Proposes that all phenomena traditionally associated with time can be described through spatial interactions.
 
+### **Causal Geometry Consistent with Time Dilation**
+
+In Causal Relativity, time dilation can be understood through the interactions of Causal Spheres. Consider two observers, Alice and Bob, each with their own set of Causal Spheres:
+
+- **Alice and Bob's Mass Cores and Gravity Shells:**
+
+  - **Initial Condition:** Alice and Bob are in a flat space where their Mass Cores are at rest relative to each other. Their Gravity Shells represent the curvature of space around them due to their masses.
+
+  - **Motion or Gravitational Influence:** When Alice moves relative to Bob or when they are in different gravitational fields, the spatial geometry around them changes:
+
+    - **Special Relativity Context:** If Alice accelerates to a high speed, her Mass Core moves through space, causing her Gravity Shell to stretch in the direction of motion. From Bob's perspective, the spatial distance between events on Alice's path increases, which we would traditionally interpret as time dilation.
+
+    - **General Relativity Context:** If Alice is closer to a massive object than Bob, her Gravity Shell would be more curved. This curvature stretches the spatial intervals around Alice, leading to what we perceive as slower time passage for her from Bob's viewpoint.
+
+- **Effect on Light Shells:**
+
+  - **Light Propagation:** Alice's Light Shell, which represents light signals, will travel through this altered spatial geometry. For Bob, light emitted from Alice at regular intervals in her frame will appear to be spread out over a longer spatial interval, correlating with what we would call time dilation but explained here as spatial dilation.
+
+- **Unified Spatial Interpretation:**
+
+  - **Combined Effect:** The interaction of Mass Cores, Light Shells, and Gravity Shells in different scenarios (motion or gravitational field) results in a unified spatial effect where spatial distances are dilated or contracted. This spatial dilation is what we traditionally observe as time dilation.
+
 ---
 
 **Reinterpretation in Causal Relativity:**
