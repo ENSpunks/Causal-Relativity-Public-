@@ -48,7 +48,7 @@ The paper proposes **Causal Relativity**, a novel interpretation of relativity w
 
 1.  3 **Primary Casual Spheres** Mass, Light and Gravity representing Newtonian Mechanics without time.
 2.  3 **Primary Casual Spheres** can pair to form 3 **Elemental Casual Spheres** for Special Relativity and General Relativity in space without time.
-3.  **Primary Casual Spheres** unify as **Casual Spheres** in space without time or **Causal Geometry**. 
+3.  **Causal Geometry** is thr measurement of unified **Casual Spheres** in space without time or. 
 
 #### **Mass Cores**
 
