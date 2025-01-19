@@ -54,19 +54,19 @@ The paper proposes **Causal Relativity**, a novel interpretation of relativity w
 
 ![Mass](https://raw.githubusercontent.com/ENSpunks/Causal-Relativity-Public-/refs/heads/main/Causal%20Sphere%20Diagrams/Assets/Matter.png?token=GHSAT0AAAAAAC5KZXYVQBI2BSJVZNAKYSQGZ4NI6MQ)​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
 
-Mass cores represent mass in space, including its quantized properties.
+Mass Cores represent mass in space including its quantized properties.
 
 #### **Light Shells**
 
 ![Light](https://raw.githubusercontent.com/ENSpunks/Causal-Relativity-Public-/refs/heads/main/Causal%20Sphere%20Diagrams/Assets/Light%20(Photons).png?token=GHSAT0AAAAAAC5KZXYUGJTICTRCKM7RIZEIZ4NI75Q)​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
 
-Light shells represent light propagation outward at c relative to mass, including its quantized nature.
+Light Shells represent light propagation outward at c relative to mass, including its quantized nature.
 
 #### **Gravity Shells**
 
 ![Gravity](https://raw.githubusercontent.com/ENSpunks/Causal-Relativity-Public-/refs/heads/main/Causal%20Sphere%20Diagrams/Assets/Gravity.png?token=GHSAT0AAAAAAC5KZXYVQZDYYPHAYJNQT4KEZ4NJCJA)​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
 
-Gravity shells represent gravity, or 3D space curvature without a time dimension, and its propagation outward at c relatice to mass curvature.
+Gravity shells represent gravity, or space curvature without a time dimension, and its propagation outward at c relatice to mass curvature.
 
 #### **Causal Sphere Diagram**
 
