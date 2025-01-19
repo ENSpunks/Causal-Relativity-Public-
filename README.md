@@ -60,7 +60,7 @@ Light shells represent light propagation outward at c relative to mass, includin
 
 #### **Gravity Shells**
 
-![Gravity]()​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
+![Gravity](https://raw.githubusercontent.com/ENSpunks/Causal-Relativity-Public-/refs/heads/main/Causal%20Sphere%20Diagrams/Assets/Gravity.png?token=GHSAT0AAAAAAC5KZXYVQZDYYPHAYJNQT4KEZ4NJCJA)​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
 
 Gravity shells represent gravity, or 3D space curvature without a time dimension, and its propagation outward at c relatice to mass curvature.
 
