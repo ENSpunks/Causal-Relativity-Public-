@@ -142,6 +142,8 @@ Causal Geometry reinterprets relativity, offering potentially simpler models for
 
 ### **References**
 
+- Euclid. (~300 BCE). *Elements*. Translated by T. L. Heath (1908). Cambridge University Press.  
+
 - Abbott, E. A. (1884). *Flatland: A Romance of Many Dimensions*. London: Seeley & Co.
   
 - Newton, I. (1687). *Philosophiæ Naturalis Principia Mathematica*. London: Royal Society.
