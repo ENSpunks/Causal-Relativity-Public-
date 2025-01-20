@@ -1,5 +1,3 @@
-Here's the updated version of your paper with the **Causal Geometry** section inserted in the correct place:
-
 **Title:**  
 *Gravitational Lensing Explained Spatially*
 
