@@ -24,7 +24,7 @@ The paper proposes **Causal Relativity**, a novel interpretation of relativity w
 #### **Newton's Postulates**:
 
 1. Space and time are absolute and separate.
-2. Gravity acts instantaneously
+2. Gravity acts instantaneously.
 3. Light speed varies with observers.
 
 #### **Einstein's Postulates**:
@@ -50,19 +50,19 @@ The paper proposes **Causal Relativity**, a novel interpretation of relativity w
 2.  **3 Elemental Spheres**: Light+Gravity (l+g), Mass+Light (m+l), and Mass+Gravity. The 3 Primary Spheres pair into 3 Elemental Spheres, or Elements, and create a geometry framework for Special Relativity and General Relativity in space without time.
 3.  **3 Elemental Spheres**: Mass+Light+Gravity (m+l+g). The 3 Primary Spheres and 3 Element Spheres unite into **Causual Spheres** creating **Causal Geometry** relative to any observer or source in space without time.
 
-#### **Mass Cores**
+#### **Mass**
 
 ![Mass](https://raw.githubusercontent.com/ENSpunks/Causal-Relativity-Public-/refs/heads/main/Causal%20Sphere%20Diagrams/Assets/Matter.png?token=GHSAT0AAAAAAC5KZXYVQBI2BSJVZNAKYSQGZ4NI6MQ)​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
 
 Mass Cores represent mass in space including its quantized properties.
 
-#### **Light Shells**
+#### **Light**
 
 ![Light](https://raw.githubusercontent.com/ENSpunks/Causal-Relativity-Public-/refs/heads/main/Causal%20Sphere%20Diagrams/Assets/Light%20(Photons).png?token=GHSAT0AAAAAAC5KZXYUGJTICTRCKM7RIZEIZ4NI75Q)​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
 
 Light Shells represent light propagation outward at c relative to mass, including its quantized nature.
 
-#### **Gravity Shells**
+#### **Gravity**
 
 ![Gravity](https://raw.githubusercontent.com/ENSpunks/Causal-Relativity-Public-/refs/heads/main/Causal%20Sphere%20Diagrams/Assets/Gravity.png?token=GHSAT0AAAAAAC5KZXYVQZDYYPHAYJNQT4KEZ4NJCJA)​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
 
