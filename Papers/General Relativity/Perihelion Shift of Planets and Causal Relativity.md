@@ -34,8 +34,6 @@ Causal Relativity introduces:
 
 ---
 
-Here is the **Causal Geometry** section for your paper on "Perihelion Shift of Planets and Causal Relativity":
-
 ### **Causal Geometry Consistent with Perihelion Shift**
 
 In Causal Relativity, the perihelion shift of planets can be conceptualized through the interactions of Causal Spheres. Consider two observers, Alice (on Mercury) and Bob (observing from Earth):
