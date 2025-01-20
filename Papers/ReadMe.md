@@ -1,9 +1,12 @@
 ### **Special Relativity Papers:**
 
-1. **Time Dilation Reinterpreted as Spatial Dilation**
-2. **Length Contraction in a Three-Dimensional Space**
-3. **Relativity of Simultaneity Without Temporal Dimension**
-   
+1. **Derivations of Casual Relativity Equations:**
+  - Mass, Light, Gravity
+  - Light+Gravity, Mass+Light, Mass+Mass
+  - Mass+Light+Gravity
+2. **Black Holes: Event Horizons and Singularities in Spatial Terms**
+4. **The Big Bang: A Spatial Interpretation in Causal Relativity**
+  
 ### **Special Relativity Papers:**
 
 1. **Time Dilation Reinterpreted as Spatial Dilation**
@@ -27,6 +30,8 @@
 8. **Black Holes: Event Horizons and Singularities in Spatial Terms**
 9. **Shapiro Time Delay as a Spatial Phenomenon**
 10. **Cosmological Redshift: A Spatial Interpretation**
+
+---
 
 ### **Master Outline for Each Paper:**
 
