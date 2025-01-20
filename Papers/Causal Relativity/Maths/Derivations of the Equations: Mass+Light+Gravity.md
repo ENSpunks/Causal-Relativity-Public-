@@ -59,7 +59,7 @@ The escape velocity at the event horizon of a Schwarzschild black hole is the sp
 
 ### **Verification**
 
-### **1. Unification of SR and GR**
+#### **1. Unification of SR and GR**
 
 You correctly start with the Minkowski metric for SR:
 \[
@@ -77,7 +77,7 @@ This equation incorporates the curvature of spacetime through \(g_{ij}\), which 
 
 ---
 
-### **2. Singularities and Schwarzschild Metric**
+#### **2. Singularities and Schwarzschild Metric**
 
 Starting from Einstein's field equations:
 \[
@@ -95,7 +95,7 @@ Where \(r_s = \frac{2GM}{c^2}\) is the Schwarzschild radius.
 
 ---
 
-### **3. Escape Velocity at Event Horizon**
+#### **3. Escape Velocity at Event Horizon**
 
 You solve for the escape velocity \(v_e\) using energy conservation:
 \[
