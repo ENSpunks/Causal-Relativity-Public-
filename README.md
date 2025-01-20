@@ -80,10 +80,6 @@ The equations under Causal Relativity often look similar to the original because
 
 **For derivations of these equations, see [Mass, Light, Gravity Derivations](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Papers/Causal%20Relativity/Maths/Derivations%20of%20Equations%3A%20Mass%2C%20Light%2C%20Gravity.md).**
 
-| Causal Geometry | ... |
-|-----------------|-----|
-| ...             | ... |
-
 | Causal Geometry       | Phenomenon                   | Theory                     | Original Equations                                                    | Causal Relativity Equation                                 |
 |-----------------------|------------------------------|----------------------------|-----------------------------------------------------------------------|------------------------------------------------------------|
 | Mass                  | Newton's Gravitational Force | Classical Mechanics        | \( F = \frac{Gm_1 m_2}{r^2} \)                                        | \( K = \frac{GM}{r^2} \)                                   |
