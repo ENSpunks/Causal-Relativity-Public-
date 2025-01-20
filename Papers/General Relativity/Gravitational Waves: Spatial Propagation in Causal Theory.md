@@ -34,6 +34,34 @@ Causal Relativity suggests:
 
 ---
 
+### **Causal Geometry Consistent with Gravitational Waves**
+
+In Causal Relativity, gravitational waves can be conceptualized through the interactions of Causal Spheres. Consider two observers, Alice (near the source of a gravitational wave event) and Bob (at a detector like LIGO):
+
+- **Alice's Acceleration:**
+
+  - **Initial Condition:** Alice is near two massive objects, say merging black holes, whose Mass Cores are in violent motion.
+
+  - **Spatial Disturbance:** As these masses accelerate:
+
+    - **Mass Core Dynamics:** The rapid movement or change in configuration of these Mass Cores causes spatial distortions. These distortions ripple outward through space, represented by oscillations in the Gravity Shell.
+
+- **Bob's Observation:**
+
+  - **Wave Propagation:** Bob, located far from the event, experiences these spatial ripples as they pass through his location:
+
+    - **Gravity Shell:** The Gravity Shell around Bob is momentarily stretched or compressed as the wave passes, altering the spatial geometry. This change in geometry affects the distances between objects, traditionally interpreted as gravitational wave detection.
+
+    - **Light Shell:** Although not directly involved, light or laser beams in detectors like LIGO would travel through this oscillating space, causing measurable changes in path length due to spatial geometry changes rather than temporal variations.
+
+- **Unified Spatial Interpretation:**
+
+  - **Causal Geometry of Waves:** In this model, gravitational waves are viewed as spatial phenomena where the fabric of space itself is disturbed. The propagation of these waves through space causes spatial intervals to expand and contract, leading to the effects we observe as gravitational waves without the necessity of time. 
+
+This reinterpretation suggests that what we perceive as gravitational waves in spacetime could be explained by how space reacts to mass movements, focusing solely on spatial geometry for understanding these phenomena.
+
+---
+
 **Reinterpretation in Causal Relativity:**
 
 - **Mathematical Derivation:**
