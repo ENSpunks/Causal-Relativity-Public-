@@ -20,40 +20,34 @@
 
 #### **2. Singularities (Black Holes/Big Bang)**
 
-**Original Equation:**
+Singularities (Black Holes/Big Bang)
+
+**Original Equation:** 
+
 \[ R_{\mu\nu} - \frac{1}{2}g_{\mu\nu}R = \frac{8\pi G}{c^4}T_{\mu\nu} \]
-- This is Einstein's field equation where:
-  - \(R_{\mu\nu}\) is the Ricci curvature tensor.
-  - \(R\) is the Ricci scalar.
-  - \(g_{\mu\nu}\) is the metric tensor.
-  - \(T_{\mu\nu}\) is the stress-energy tensor.
-  - \(G\) is Newton's gravitational constant.
 
-**Causal Relativity Equation for Schwarzschild Metric:**
-\[ ds^2 = \left( 1 - \frac{r_s}{r} \right) c^2 dt^2 - \frac{dr^2}{1 - \frac{r_s}{r}} - r^2 d\theta^2 - r^2 \sin^2\theta d\phi^2 \]
-- Here:
-  - \(r_s = \frac{2GM}{c^2}\) is the Schwarzschild radius where \(M\) is the mass of the body.
-  - The metric describes the geometry outside a spherical mass in vacuum, leading to singularities like black holes.
+**Here:**
 
-**Derivation:**
-- Starting from Einstein's field equations, one can solve for a vacuum solution around a massive body, leading to the Schwarzschild metric. The singularity at \(r = r_s\) indicates where the curvature becomes infinite, a hallmark of black holes.
+In Causal Relativity, we modify the Schwarzschild metric to avoid singularities:
 
-### Solving a Problem
+\[ ds^2 = \left(1 - \frac{r_s}{r} + \kappa \left(\frac{A_{\text{inner}} + A_{\text{outer}}}{A_{\text{total}}}\right)\right) dr^2 + r^2 (d\theta^2 + \sin^2\theta \, d\phi^2) \]
 
-Let's solve for the escape velocity from the event horizon of a Schwarzschild black hole:
+where \( r_s = \frac{2GM}{c^2} \), \( \kappa = 1 \), \( A_{\text{inner}} = A_{\text{outer}} = 4\pi r_s^2 \), and \( A_{\text{total}} = 8\pi r_s^2 \).
 
-**Problem:** Calculate the escape velocity at the event horizon of a black hole with a mass \(M\).
+**Problem:** Calculate the spatial curvature at the event horizon of a black hole with mass \( M = 10M_{\odot} \) in this Causal Relativity framework, where mass is encoded on both the inner and outer boundaries of the curvature, avoiding singularities.
 
 **Solution:**
-- At the event horizon, \(r = r_s = \frac{2GM}{c^2}\).
-- The escape velocity \(v_e\) from a point where gravitational potential energy equals kinetic energy is given by:
-  \[ \frac{1}{2}mv_e^2 = \frac{GMm}{r} \]
-- Here, \(r = r_s\), so:
-  \[ \frac{1}{2}v_e^2 = \frac{GM}{r_s} = \frac{GM}{\frac{2GM}{c^2}} = \frac{c^2}{2} \]
-- Therefore:
-  \[ v_e = c \]
 
-The escape velocity at the event horizon of a Schwarzschild black hole is the speed of light, \(c\), which is why nothing, not even light, can escape from within this radius.
+At the event horizon, \( r = r_s \):
+
+\[ ds^2 = \left(1 - \frac{r_s}{r_s} + 1 \left(\frac{8\pi r_s^2}{8\pi r_s^2}\right)\right) dr^2 + r_s^2 (d\theta^2 + \sin^2\theta \, d\phi^2) \]
+
+\[ ds^2 = \left(1 - 1 + 1\right) dr^2 + r_s^2 (d\theta^2 + \sin^2\theta \, d\phi^2) \]
+
+\[ ds^2 = dr^2 + r_s^2 (d\theta^2 + \sin^2\theta \, d\phi^2) \]
+
+This result shows that at the event horizon, the spatial interval \( ds^2 \) remains finite, ensuring a finite density distribution, thereby resolving the singularity issue.
+
 
 ---
 
