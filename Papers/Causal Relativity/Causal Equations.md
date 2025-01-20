@@ -11,8 +11,7 @@
 | **Light**            | Light Speed in Vacuum           | Einstein's Relativity (Causal Geometry) | $ ds^2 = -c^2 dt^2 + dx^2 + dy^2 + dz^2 $                | $ ds^2 = dx^2 + dy^2 + dz^2 $ (constant speed in spatial geometry) |
 | **Light**            | Light Travel Time               | Einstein's Relativity (Causal Geometry) | $ r = c \cdot \Delta d $                                 | $ r = c \cdot \Delta d $ (spatial distance traveled)          |
 | **Gravity**          | Spacetime Curvature             | General Relativity (Causal Geometry) | $ ds^2 = -c^2 dt^2 + dx^2 + dy^2 + dz^2 $                | $ ds^2 = g_{ij} dx^i dx^j $ (spatial curvature)               |
-| **Gravity**          | Tidal Forces                    | General Relativity (Newtonian Calculation) | $ F_{\text{tidal}} = \frac{2GMm}{r^3} $                  | $ F_{\text{tidal}} = \frac{2GMm}{r^3} $ (spatial interaction) |
-| **Gravity**          | Gravitational Lensing           | General Relativity (Newtonian Calculation) | $ \theta = \frac{4GM}{c^2 R} $                           | $ \theta = \frac{4GM}{c^2 R} $ (spatial bending of light path) |
+
 
 
 
