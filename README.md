@@ -72,7 +72,9 @@ Gravity shells represent gravity, or space curvature and its propagation outward
 
 ---
 
-### **Causal Relativity**
+### **Causal Relativity Equations**
+
+The equations under Causal Relativity often look similar to the original because the spatial interpretation of these phenomena in relativistic contexts typically does not alter the fundamental equations but might change how we interpret them.
 
 #### Mass, Light, Gravity
 
@@ -87,10 +89,6 @@ Here's the table summarizing the equations and phenomena for Mass, Light, and Gr
 | Light                 | Light Speed in Vacuum        | Special Relativity         | \( ds^2 = -c^2 dt^2 + dx^2 + dy^2 + dz^2 \)                           | \( ds^2 = dx^2 + dy^2 + dz^2 \)                            |
 | Light                 | Light Travel Time            | Special Relativity         | \( r = c \cdot \Delta d \)                                            | \( r = c \cdot \Delta d \)                                 |
 | Gravity               | Spacetime Curvature          | General Relativity         | \( ds^2 = -c^2 dt^2 + dx^2 + dy^2 + dz^2 \)                           | \( ds^2 = g_{ij} dx^i dx^j \)                              |
-
-**Notes:**
-- **Causal Relativity** here involves reinterpreting or expressing phenomena in spatial terms, focusing on curvature or spatial displacement rather than time.
-- The equations under "Causal Relativity" often look similar to the original because the spatial interpretation of these phenomena in relativistic contexts typically does not alter the fundamental equations but might change how we interpret them or which aspects we emphasize (e.g., curvature instead of force).
 
 #### Light+Gravity (SR), Mass+Light (GR), Mass+Mass (GR)
 
