@@ -164,10 +164,10 @@ Causal Geometry reinterprets relativity, offering potentially simpler models for
 ### **Resources**
 
 - Euclid. (~300 BCE). *Elements*. Translated by T. L. Heath (1908). Cambridge University Press.  
-
-- Abbott, E. A. (1884). *Flatland: A Romance of Many Dimensions*. London: Seeley & Co.
   
 - Newton, I. (1687). *Philosophiæ Naturalis Principia Mathematica*. London: Royal Society.
+
+- Abbott, E. A. (1884). *Flatland: A Romance of Many Dimensions*. London: Seeley & Co.
 
 - Einstein, A. (1905). "Zur Elektrodynamik bewegter Körper" (On the Electrodynamics of Moving Bodies). *Annalen der Physik*, 322(10), 891-921.
 
@@ -188,3 +188,5 @@ Causal Geometry reinterprets relativity, offering potentially simpler models for
 - Will, C. M. (1993). *Theory and Experiment in Gravitational Physics*. Cambridge University Press.
 
 - Susskind, L. (2008). *The Black Hole War: My Battle with Stephen Hawking to Make the World Safe for Quantum Mechanics*. Little, Brown and Company.
+
+- Weinberg, S. (2015). *To Explain the World: The Discovery of Modern Science*. HarperCollins.
