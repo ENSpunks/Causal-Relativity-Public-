@@ -111,9 +111,6 @@ Here's the table summarizing the equations and phenomena for Mass, Light, and Gr
 | Mass + Gravity        | Time Dilation                | Special Relativity         | \( \Delta t' = \gamma \Delta t \)                                      | \( \Delta L' = \Delta L \sqrt{1 - \frac{v^2}{c^2}} \)      |
 | Mass + Gravity        | Energy of Light in Gravitational Field | General Relativity | \( E_{\text{out}} = E_{\text{in}} \left( \frac{r_s}{r} \right) \)      | \( E_{\text{out}} = E_{\text{in}} \left( \frac{r_s}{r} \right) \) |
 
-Note: 
-- Some equations remain identical since the spatial interpretation does not alter the fundamental physics described.
-
 #### Mass+Light+Gravity
 
 Here's the table summarizing the equations and phenomena for Mass+Light+Gravity under Causal Geometry and Causal Relativity:
