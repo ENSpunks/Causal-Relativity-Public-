@@ -136,7 +136,7 @@ Causal Geometry reinterprets relativity, offering potentially simpler models for
 ### **Appendix**
 
 **[Papers](https://github.com/ENSpunks/Causal-Relativity-Public-/tree/main/Papers)**
-- **[Causal Relativity:](https://github.com/ENSpunks/Causal-Relativity-Public-/tree/main/Papers/Causal%20Relativity/Maths)**
+- **[Causal Relativity:](https://github.com/ENSpunks/Causal-Relativity-Public-/tree/main/Papers/Causal%20Relativity)**
   - Derivations of Equations: Mass, Light, Gravity
   - Derivations of Equations: Light+Gravity, Mass+Light, Mass+Mass
   - Derivations of Equations: Mass+Light+Gravity
