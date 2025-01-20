@@ -36,9 +36,9 @@ The paper proposes **Causal Relativity**, a novel interpretation of relativity w
 #### **Causal Relativity Postulates**:
 
 1. Laws of physics are frame independent.
-2. Mass is energy that causes space to curve and mass has quantum properties causing energy release as photons.
-3. Light and gravity, unless only gravity, propagate at a constant speed relative to curvature caused by mass.
-4. Mass, light, and gravity and their interactions unify causality in space without time.
+2. Mass/energy has quantum properties and a location in space where it curves space.
+3. Gravity and Light propagate at a constant speed relative to curvature caused by mass.
+4. Mass, light, and gravity unify causality in space without time.
 
 ---
 
