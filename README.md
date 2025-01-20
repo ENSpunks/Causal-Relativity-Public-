@@ -90,8 +90,6 @@ Gravity shells represent gravity, or space curvature and its propagation outward
 
 ## **Light+Gravity (SR), Mass+Light (GR), Mass+Mass (GR)**
 
-Here's the table summarizing the provided equations under the context of Causal Geometry and Causal Relativity:
-
 | Causal Geometry       | Phenomenon                   | Theory                     | Original Equations                                                    | Causal Relativity Equation                                 |
 |-----------------------|------------------------------|----------------------------|-----------------------------------------------------------------------|------------------------------------------------------------|
 | Light + Gravity       | Length Contraction           | Special Relativity         | \( L = L_0 \sqrt{1 - \frac{v^2}{c^2}} \)                              | \( L' = L \sqrt{1 - \frac{v^2}{c^2}} \)                    |
