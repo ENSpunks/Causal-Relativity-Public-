@@ -146,7 +146,7 @@ Causal Geometry reinterprets relativity, offering potentially simpler models for
   - Aberration of Light in Causal Relativity
   - Mass-Energy Transformation in Causal Relativity: E = mc^2
 
-- **[General Relativity:]()**
+- **[General Relativity:](https://github.com/ENSpunks/Causal-Relativity-Public-/tree/main/Papers/General%20Relativity)**
   - Precession of Mercury's Orbit in Causal Geometry
   - Gravitational Lensing Explained Spatially
   - Gravitational Time Dilation as Spatial Dilation
