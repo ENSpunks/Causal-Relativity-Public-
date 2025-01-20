@@ -78,7 +78,7 @@ The equations under Causal Relativity often look similar to the original because
 
 #### Mass, Light, Gravity
 
-**For derivations of these equations, see [Mass, Light, Gravity Derivations](link_to_mass_light_gravity_paper).**
+**For derivations of these equations, see [Mass, Light, Gravity Derivations](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Papers/Causal%20Relativity/Maths/Derivations%20of%20Equations%3A%20Mass%2C%20Light%2C%20Gravity.md).**
 
 | Causal Geometry | ... |
 |-----------------|-----|
