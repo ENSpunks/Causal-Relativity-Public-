@@ -46,7 +46,7 @@ The paper proposes **Causal Relativity**, a novel interpretation of relativity w
 
 **Causal Geometry** replaces spacetime geometry and lightcones with an equally intuitive and visual framework made of **Causal Spheres**.
 
-1.  **3 Primary Spheres**: Mass (m), Light (l) and Gravity (g).  The 3 Primary Sphere represent Newtonian Mechanics without time.
+1.  **3 Primary Spheres**: Mass (m), Light (l) and Gravity (g).  The 3 Primary Spheres represent Newtonian Mechanics without time.
 2.  **3 Element Spheres**: Light+Gravity (l+g), Mass+Light (m+l), and Mass+Gravity (m+g). The 3 Primary Spheres pair into 3 Elemental Spheres, or Elements, and create a geometry framework for Special Relativity and General Relativity effects is space without time.
 3.  **Causal Spheres**: Mass+Light+Gravity (m+l+g). The 3 Primary Spheres unite into **Causal Spheres** creating **Causal Geometry** relative to any observer or source in space without time.
 
@@ -60,13 +60,13 @@ Mass Cores represent mass in space including its quantized properties.
 
 ![Light](https://raw.githubusercontent.com/ENSpunks/Causal-Relativity-Public-/refs/heads/main/Causal%20Sphere%20Diagrams/Assets/Light%20(Photons).png?token=GHSAT0AAAAAAC5KZXYUGJTICTRCKM7RIZEIZ4NI75Q)​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
 
-Light Shells represent light propagation outward at c relative to mass, including its quantized nature.
+Light Shells represent represent photons and their propagation outward at c relative to mass.
 
 #### **Gravity**
 
 ![Gravity](https://raw.githubusercontent.com/ENSpunks/Causal-Relativity-Public-/refs/heads/main/Causal%20Sphere%20Diagrams/Assets/Gravity.png?token=GHSAT0AAAAAAC5KZXYVQZDYYPHAYJNQT4KEZ4NJCJA)​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
 
-Gravity shells represent gravity, or space curvature without a time dimension, and its propagation outward at c relative to mass curvature.
+Gravity shells represent gravity, or space curvature and its propagation outward at c relative to mass curvature.
 
 #### **Causal Sphere Diagram**
 
