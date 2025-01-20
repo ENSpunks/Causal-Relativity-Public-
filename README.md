@@ -74,7 +74,7 @@ Gravity shells represent gravity, or space curvature and its propagation outward
 
 ---
 
-### **Causal Geometry**
+### **Causal Relativity**
 
 #### Mass, Light, Gravity
 
