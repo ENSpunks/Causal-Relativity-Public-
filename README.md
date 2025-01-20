@@ -1,7 +1,5 @@
 ## **Theory of Causal Relativity:  Relativity without Time**
 
----
-
 **Will Brown**  
 **January 20, 2025**
 
