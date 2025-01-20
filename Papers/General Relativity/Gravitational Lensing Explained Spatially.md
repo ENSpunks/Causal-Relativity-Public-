@@ -34,6 +34,32 @@ Causal Relativity posits:
 
 ---
 
+### **Causal Geometry Consistent with Gravitational Lensing**
+
+In Causal Relativity, gravitational lensing can be conceptualized through the interactions of Causal Spheres. Consider two observers, Alice (observing from Earth) and Bob (near a massive lensing object):
+
+- **Bob's Mass Core:**
+
+  - **Initial Condition:** Bob is located near or within a massive object like a galaxy cluster, which has a significant Mass Core. This mass causes a spatial curvature described by his Gravity Shell.
+
+  - **Spatial Curvature:** The presence of Bob's Mass Core:
+
+    - **Gravity Shell:** Curves the space around it, creating a spatial geometry where paths are no longer straight but bent around the mass. This curvature is what we would traditionally attribute to gravitational lensing.
+
+- **Alice's Observation:**
+
+  - **Light from Distant Source:** Alice observes light from a distant star or galaxy (Light Shell) that must travel through the space influenced by Bob's Gravity Shell:
+
+    - **Light Shell:** As this light approaches the mass, its path is bent due to the spatial geometry. From Alice's viewpoint, the light doesn't travel in a straight line but follows the curvature of space around Bob's mass, leading to phenomena like the bending of light, creation of multiple images, or magnification of the source.
+
+    - **Spatial Bending:** The bending of light is thus explained as a purely spatial effect where light follows the shortest path through the curved space, which appears to us as a deflection.
+
+- **Unified Spatial Interpretation:**
+
+  - **Causal Geometry of Lensing:** In this model, what we observe as gravitational lensing is the result of light adapting to the spatial geometry around a massive body. The spatial curvature, rather than spacetime curvature, dictates the path of light, providing a new way to visualize and understand gravitational lensing without the need for temporal considerations.
+
+---
+
 **Reinterpretation in Causal Relativity:**
 
 - **Mathematical Derivation:**
