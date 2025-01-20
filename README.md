@@ -144,6 +144,7 @@ Causal Geometry reinterprets relativity, offering potentially simpler models for
   - Doppler Effect for Light in a Non-Temporal Framework
   - The Twin Paradox: A Spatial Perspective
   - Aberration of Light in Causal Relativity
+  - Mass-Energy Transformation in Causal Relativity: E = mc^2
 
 - **[General Relativity:]()**
   - Precession of Mercury's Orbit in Causal Geometry
