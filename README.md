@@ -76,19 +76,23 @@ Gravity shells represent gravity, or space curvature and its propagation outward
 
 #### Mass, Light, Gravity
 
-| **Causal Geometry** | **Phenomenon**                  | **Theory**                        | **Original Equations**                                   | **Causal Relativity Equation**                                |
-|:--------------------:|:--------------------------------|:----------------------------------|:--------------------------------------------------------:|:--------------------------------------------------------------:|
-| **Mass**             | Newton's Gravitational Force    | Classical View  | $ F = \frac{Gm_1 m_2}{r^2} $                            | $ K = \frac{GM}{r^2} $ (spatial curvature)                    |
-| **Mass**             | Gravitational Curvature         | General Relativity | $ R_{\mu\nu} - \frac{1}{2}g_{\mu\nu}R = \frac{8 \pi G}{c^4}T_{\mu\nu} $ | $ K = \frac{GM}{r^2} $ (spatial curvature) |
-| **Mass**             | Spatial Curvature               | General Relativity | $ ds^2 = g_{ij} dx^i dx^j $                              | $ ds^2 = g_{ij} dx^i dx^j $ (purely spatial metric)           |
-| **Light**            | Light Propagation (Relativity)  | Einstein's Relativity | $ t = \frac{d}{c} $                                      | $ r = c \cdot \Delta d $ (spatial interval for light propagation) |
-| **Light**            | Light Speed in Vacuum           | Einstein's Relativity | $ ds^2 = -c^2 dt^2 + dx^2 + dy^2 + dz^2 $                | $ ds^2 = dx^2 + dy^2 + dz^2 $ (constant speed in spatial geometry) |
-| **Light**            | Light Travel Time               | Einstein's Relativity | $ r = c \cdot \Delta d $                                 | $ r = c \cdot \Delta d $ (spatial distance traveled)          |
-| **Gravity**          | Spacetime Curvature             | General Relativity | $ ds^2 = -c^2 dt^2 + dx^2 + dy^2 + dz^2 $                | $ ds^2 = g_{ij} dx^i dx^j $ (spatial curvature)               |
+Here's the table summarizing the equations and phenomena for Mass, Light, and Gravity under Causal Geometry and Causal Relativity:
+
+| Causal Geometry       | Phenomenon                   | Theory                     | Original Equations                                                    | Causal Relativity Equation                                 |
+|-----------------------|------------------------------|----------------------------|-----------------------------------------------------------------------|------------------------------------------------------------|
+| Mass                  | Newton's Gravitational Force | Classical Mechanics        | \( F = \frac{Gm_1 m_2}{r^2} \)                                        | \( K = \frac{GM}{r^2} \)                                   |
+| Mass                  | Gravitational Curvature (GR) | General Relativity         | \( R_{\mu\nu} - \frac{1}{2}g_{\mu\nu}R = \frac{8 \pi G}{c^4}T_{\mu\nu} \) | \( K = \frac{GM}{r^2} \)                                   |
+| Mass                  | Spatial Curvature            | General Relativity         | \( ds^2 = g_{ij} dx^i dx^j \)                                         | \( ds^2 = g_{ij} dx^i dx^j \)                              |
+| Light                 | Light Propagation            | Special Relativity         | \( t = \frac{d}{c} \)                                                 | \( r = c \cdot \Delta d \)                                 |
+| Light                 | Light Speed in Vacuum        | Special Relativity         | \( ds^2 = -c^2 dt^2 + dx^2 + dy^2 + dz^2 \)                           | \( ds^2 = dx^2 + dy^2 + dz^2 \)                            |
+| Light                 | Light Travel Time            | Special Relativity         | \( r = c \cdot \Delta d \)                                            | \( r = c \cdot \Delta d \)                                 |
+| Gravity               | Spacetime Curvature          | General Relativity         | \( ds^2 = -c^2 dt^2 + dx^2 + dy^2 + dz^2 \)                           | \( ds^2 = g_{ij} dx^i dx^j \)                              |
+
+**Notes:**
+- **Causal Relativity** here involves reinterpreting or expressing phenomena in spatial terms, focusing on curvature or spatial displacement rather than time.
+- The equations under "Causal Relativity" often look similar to the original because the spatial interpretation of these phenomena in relativistic contexts typically does not alter the fundamental equations but might change how we interpret them or which aspects we emphasize (e.g., curvature instead of force).
 
 #### Light+Gravity (SR), Mass+Light (GR), Mass+Mass (GR)
-
-## **Light+Gravity (SR), Mass+Light (GR), Mass+Mass (GR)**
 
 | Causal Geometry       | Phenomenon                   | Theory                     | Original Equations                                                    | Causal Relativity Equation                                 |
 |-----------------------|------------------------------|----------------------------|-----------------------------------------------------------------------|------------------------------------------------------------|
@@ -110,7 +114,6 @@ Gravity shells represent gravity, or space curvature and its propagation outward
 | Mass + Gravity        | Energy of Light in Gravitational Field | General Relativity | \( E_{\text{out}} = E_{\text{in}} \left( \frac{r_s}{r} \right) \)      | \( E_{\text{out}} = E_{\text{in}} \left( \frac{r_s}{r} \right) \) |
 
 Note: 
-- The equations under "Causal Relativity" might not fundamentally differ from the original in many cases, as Causal Relativity here refers to a reinterpretation or application in spatial terms rather than introducing new mechanics. 
 - Some equations remain identical since the spatial interpretation does not alter the fundamental physics described.
 
 #### Mass+Light+Gravity
