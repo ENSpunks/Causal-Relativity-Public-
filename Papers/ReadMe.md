@@ -60,7 +60,7 @@ This outline ensures each paper maintains a consistent format while allowing for
 
 **Causal Sphere Thought Experiments**  
 - Alice and Bob are 2 Causal Spheres in space with no temporal dimension, just their Causal Spheres interacting in space.
-- Discuss the pysical causal effects in space relative to the Alice and Bob Causal Spheres.
+- Discuss and summarize the pysical causal effects in space relative to the Alice and Bob Causal Spheres.
 
 ---
 
