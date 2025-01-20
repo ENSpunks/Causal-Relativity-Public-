@@ -137,7 +137,43 @@ Causal Geometry reinterprets relativity, offering potentially simpler models for
 - [Papers](https://github.com/ENSpunks/Causal-Relativity-Public-/tree/main/Papers)
 - [Causal Shell Diagrams](https://github.com/ENSpunks/Causal-Relativity-Public-/tree/main/Causal%20Sphere%20Diagrams)
 
-### **References**
+
+Here's how the **Appendix** section should look with the changes you've requested:
+
+---
+
+### **Appendix**
+
+**[Causal Relativity Papers](https://github.com/ENSpunks/Causal-Relativity-Public-/tree/main/Papers)**
+
+- **[Special Relativity:]()**
+  - Time Dilation Reinterpreted as Spatial Dilation
+  - Length Contraction in a Three-Dimensional Space
+  - Relativity of Simultaneity Without Temporal Dimension
+  - Relativistic Mass Increase in Causal Spatial Geometry
+  - Doppler Effect for Light in a Non-Temporal Framework
+  - The Twin Paradox: A Spatial Perspective
+  - Aberration of Light in Causal Relativity
+
+- **[General Relativity:]()**
+  - Precession of Mercury's Orbit in Causal Geometry
+  - Gravitational Lensing Explained Spatially
+  - Gravitational Time Dilation as Spatial Dilation
+  - Gravitational Redshift Without Time
+  - Frame-Dragging in a Time-Less Universe
+  - Perihelion Shift of Planets and Causal Relativity
+  - Gravitational Waves: Spatial Propagation in Causal Theory
+  - Black Holes: Event Horizons and Singularities in Spatial Terms
+  - Shapiro Time Delay as a Spatial Phenomenon
+  - Cosmological Redshift: A Spatial Interpretation
+
+[Causal Relativity Papers](https://github.com/ENSpunks/Causal-Relativity-Public-/tree/main/Papers)
+
+[Causal Shell Diagrams](https://github.com/ENSpunks/Causal-Relativity-Public-/tree/main/Causal%20Sphere%20Diagrams)
+
+---
+
+### **Resources**
 
 - Euclid. (~300 BCE). *Elements*. Translated by T. L. Heath (1908). Cambridge University Press.  
 
