@@ -1,4 +1,6 @@
-**Prompt for Causal Sphere Thought Experiments with Alice and Bob for visualization, problem solving, validation, and continued development.**
+### **Causal Sphere Thought Experiments with Alice and Bob for visualization, problem solving, validation, and continued development.**
+
+#### **Prompt:**
 
 **Problem:**
 State the specific problem or effect you want to explore, like the formation of an Einstein ring or the spatial dilation effect due to relative motion.
