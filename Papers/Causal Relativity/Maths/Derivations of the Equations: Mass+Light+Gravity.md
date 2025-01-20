@@ -1,4 +1,4 @@
-### Derivations of the Equations: Mass+Light+Gravity
+### Derivations of Equations: Mass+Light+Gravity
 
 #### **1. Unification of Special Relativity (SR) and General Relativity (GR)**
 
