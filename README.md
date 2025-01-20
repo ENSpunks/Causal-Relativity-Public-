@@ -137,6 +137,8 @@ Causal Geometry reinterprets relativity, offering potentially simpler models for
   - Derivations of Equations: Mass, Light, Gravity
   - Derivations of Equations: Light+Gravity, Mass+Light, Mass+Mass
   - Derivations of Equations: Mass+Light+Gravity
+  - Black Holes: Event Horizons and Singularities in Spatial Terms
+  - The Big Bang: A Spatial Interpretation in Causal Relativity
     
 - **[Special Relativity:](https://github.com/ENSpunks/Causal-Relativity-Public-/tree/main/Papers/Special%20Relativity)**
   - Time Dilation Reinterpreted as Spatial Dilation
@@ -156,7 +158,6 @@ Causal Geometry reinterprets relativity, offering potentially simpler models for
   - Frame-Dragging in a Time-Less Universe
   - Perihelion Shift of Planets and Causal Relativity
   - Gravitational Waves: Spatial Propagation in Causal Theory
-  - Black Holes: Event Horizons and Singularities in Spatial Terms
   - Shapiro Time Delay as a Spatial Phenomenon
   - Cosmological Redshift: A Spatial Interpretation
 
