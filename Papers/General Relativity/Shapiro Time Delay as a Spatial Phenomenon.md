@@ -34,6 +34,40 @@ Causal Relativity posits:
 
 ---
 
+**Causal Geometry Consistent with Shapiro Time Delay**
+
+Imagine a thought experiment involving two observers, Alice and Bob, where we explore how the Shapiro delay can be interpreted through the interactions of Causal Spheres:
+
+- **Alice's Light Emission:**
+
+  - **Initial Condition:** Alice is positioned near a massive body, like the Sun, and she decides to send a light signal (represented by her Light Shell) to Bob, who is far beyond this gravitational influence, perhaps on Earth or in deep space.
+
+  - **Spatial Curvature:** The Sun's Mass Core significantly affects the spatial geometry around it, creating a deep Gravity Shell:
+
+    - **Gravity Shell Effect:** As Alice's light signal travels from near the Sun, it enters the region where space is curved by the Sun's mass. Instead of traveling in a straight line, the light follows a path bent by this curvature, effectively increasing the spatial distance it must travel to reach Bob.
+
+- **Bob's Observation:**
+
+  - **Reception of Light:** Bob, who is in a region with minimal gravitational influence, observes this light:
+
+    - **Light Shell Path:** From Bob's perspective, the light from Alice does not take a direct path but travels through a curved space, which means the distance it travels is greater than the straight-line distance between Alice and Bob.
+
+    - **Spatial Delay:** What we traditionally call the Shapiro time delay is reimagined as a spatial effect. The 'delay' Bob observes in receiving Alice's signal is because light has to traverse a longer spatial path through the curved geometry around the Sun.
+
+- **Causal Spheres Interaction:**
+
+  - **Mass Core and Light Shell:** In this scenario, the interaction between the Sun's Mass Core and Alice's Light Shell illustrates how mass influences the spatial geometry, forcing light to take a longer path. 
+
+  - **Spatial Interpretation of Delay:** The extra time light takes to travel from Alice to Bob, which we would normally attribute to time dilation, is here explained by the spatial curvature, which stretches the path of light, thus increasing the spatial interval light must cover.
+
+- **Unified Spatial View:**
+
+  - **Causal Geometry of Shapiro Delay:** This thought experiment demonstrates that the observed delay in light travel can be understood as a spatial phenomenon within Causal Relativity. The geometry of space, rather than the passage of time, dictates the path light takes, offering a new way to visualize and understand the Shapiro effect without invoking temporal dimensions.
+
+This approach simplifies the understanding by focusing on how the spatial structure around massive objects influences light paths, aligning with the principles of Causal Relativity.
+
+---
+
 **Reinterpretation in Causal Relativity:**
 
 - **Mathematical Derivation:**
