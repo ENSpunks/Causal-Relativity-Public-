@@ -60,13 +60,13 @@ Mass Cores represent mass in space including its quantized properties.
 
 ![Light](https://raw.githubusercontent.com/ENSpunks/Causal-Relativity-Public-/refs/heads/main/Causal%20Sphere%20Diagrams/Assets/Light%20(Photons).png?token=GHSAT0AAAAAAC5KZXYUGJTICTRCKM7RIZEIZ4NI75Q)​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
 
-Light Shells represent represent photons and their propagation outward at c relative to mass.
+Light Shells represent represent photons and their propagation outward at the speed of causation (c) relative to mass.
 
 #### **Gravity**
 
 ![Gravity](https://raw.githubusercontent.com/ENSpunks/Causal-Relativity-Public-/refs/heads/main/Causal%20Sphere%20Diagrams/Assets/Gravity.png?token=GHSAT0AAAAAAC5KZXYVQZDYYPHAYJNQT4KEZ4NJCJA)​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
 
-Gravity shells represent gravity, or space curvature and its propagation outward at c relative to mass curvature.
+Gravity shells represent gravity, or space curvature and its propagation outward at the speed of causation (c) relative to mass curvature.
 
 #### **Causal Sphere Diagram**
 
