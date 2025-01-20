@@ -1,17 +1,3 @@
-Here's the proofreading for spelling errors and the revision of the three tables to reflect the Causal Relativity equations from the listed papers:
-
-### **Proofreading for Spelling Errors:**
-
-- **Title**: "Relativity without Time" -> Correct.
-- **Abstract**: No spelling errors.
-- **Introduction**: No spelling errors.
-- **Postulates of Relativity**: No spelling errors.
-- **Causal Geometry**:
-  - "represent represent" -> "represent" (repeated word in Light description).
-- **Conclusion**: No spelling errors.
-
-### **Revised Tables for Consistency with Causal Relativity Papers:**
-
 #### **Mass, Light, Gravity**
 
 | **Causal Geometry** | **Phenomenon**                  | **Theory**            | **Original Equations**                                   | **Causal Relativity Equation**                                |
