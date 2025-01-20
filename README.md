@@ -92,7 +92,7 @@ The equations under Causal Relativity often look similar to the original because
 
 #### Light+Gravity (SR), Mass+Light (GR), Mass+Mass (GR)
 
-**For derivations of these equations, see [Light+Gravity, Mass+Light, Mass+Mass Derivations](link_to_mass_light_gravity_paper).**
+**For derivations of these equations, see [Light+Gravity, Mass+Light, Mass+Mass Derivations](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Papers/Causal%20Relativity/Maths/Derivations%20of%20Equations%3A%20Light%2BGravity%2C%20Mass%2BLight%2C%20Mass%2BGravity.md).**
 
 | Causal Geometry       | Phenomenon                   | Theory                     | Original Equations                                                    | Causal Relativity Equation                                 |
 |-----------------------|------------------------------|----------------------------|-----------------------------------------------------------------------|------------------------------------------------------------|
@@ -135,9 +135,9 @@ Causal Geometry reinterprets relativity, offering potentially simpler models for
 
 **[Causal Relativity Papers](https://github.com/ENSpunks/Causal-Relativity-Public-/tree/main/Papers)**
 - **[Causal Relativity Equations:](https://github.com/ENSpunks/Causal-Relativity-Public-/tree/main/Papers/Causal%20Relativity/Maths)**
-  - Time Dilation Reinterpreted as Spatial Dilation
-  - Time Dilation Reinterpreted as Spatial Dilation
-  - Time Dilation Reinterpreted as Spatial Dilation
+  - Derivations of Equations:
+  - Derivations of Equations:
+  - Derivations of Equations:
     
 - **[Special Relativity:](https://github.com/ENSpunks/Causal-Relativity-Public-/tree/main/Papers/Special%20Relativity)**
   - Time Dilation Reinterpreted as Spatial Dilation
