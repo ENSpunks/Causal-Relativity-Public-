@@ -52,7 +52,7 @@ The paper proposes **Causal Relativity**, a novel interpretation of relativity w
 
 #### **Mass**
 
-![Mass](https://raw.githubusercontent.com/ENSpunks/Causal-Relativity-Public-/refs/heads/main/Causal%20Sphere%20Diagrams/Assets/Matter.png?token=GHSAT0AAAAAAC5KZXYVQBI2BSJVZNAKYSQGZ4NI6MQ)​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
+![Mass](https://raw.githubusercontent.com/ENSpunks/Causal-Relativity-Public-/refs/heads/main/Causal%20Sphere%20Diagrams/Assets/m.PNG?token=GHSAT0AAAAAAC5KZXYU3SU2DRAEFRPLQUCQZ4N43EA)​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
 
 Mass Cores represent mass in space including its quantized properties.
 
