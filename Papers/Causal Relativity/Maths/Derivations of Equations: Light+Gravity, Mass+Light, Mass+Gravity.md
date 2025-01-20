@@ -373,3 +373,127 @@
   **Problem**: Calculate the energy of a photon once it has escaped from just above the event horizon of a black hole with \(M = 5M_{\odot}\) if its energy at the event horizon was 1 J.
 
   - \(r_s = \frac{2 \times 6.67430 \times 10^{-11} \times 5 \times 1.989 \times 10^{30}}{(3 \times
+
+---
+
+Verification of the math in the derivations and examples to ensure accuracy.
+
+### **Light + Gravity**
+
+#### **Length Contraction**
+
+- \(L' = L_0 \sqrt{1 - \frac{v^2}{c^2}}\)
+  - Given \(L_0 = 100 \, \text{m}\), \(v = 0.8c\):  
+    \[
+    L' = 100 \sqrt{1 - (0.8)^2} = 100 \sqrt{1 - 0.64} = 100 \cdot 0.6 = 60 \, \text{m}
+    \]
+  **Correct.**
+
+#### **Time Dilation (Reinterpreted as Spatial Dilation)**
+
+- \(\Delta L' = \Delta L \sqrt{1 - \frac{v^2}{c^2}}\)
+  - Given \(v = 0.6c\):  
+    \[
+    \Delta L' = \Delta L \sqrt{1 - (0.6)^2} = \Delta L \sqrt{1 - 0.36} = \Delta L \cdot 0.8
+    \]
+  **Correct.**
+
+#### **Gravitational Time Dilation**
+
+- \(\Delta L' = \Delta L \sqrt{1 - \frac{2GM}{c^2 r}}\)
+  - For \(M = 2M_\odot\), \(r = 10 \, \text{km}\):  
+    \[
+    \Delta L' = \Delta L \sqrt{1 - \frac{2 \cdot 6.674 \times 10^{-11} \cdot 2 \cdot 1.989 \times 10^{30}}{(3 \times 10^8)^2 \cdot 10^4}}
+    \]
+    - Compute the numerator:
+      \[
+      2 \cdot 6.674 \times 10^{-11} \cdot 2 \cdot 1.989 \times 10^{30} = 5.309 \times 10^{20}
+      \]
+    - Compute the denominator:
+      \[
+      (3 \times 10^8)^2 \cdot 10^4 = 9 \times 10^{16} \cdot 10^4 = 9 \times 10^{20}
+      \]
+    - Fraction:
+      \[
+      \frac{5.309 \times 10^{20}}{9 \times 10^{20}} = 0.59
+      \]
+    - Dilation:
+      \[
+      \Delta L' = \Delta L \sqrt{1 - 0.59} = \Delta L \cdot 0.64
+      \]
+    **Correct.**
+
+#### **Gravitational Redshift**
+
+- \(\Delta L' = \Delta L \cdot \frac{1}{\sqrt{1 - \frac{2GM}{c^2 r}}}\)
+  - For \(M = 0.6M_\odot\), \(r = 5000 \, \text{km}\):  
+    \[
+    \Delta L' = \Delta L \cdot \frac{1}{\sqrt{1 - \frac{2 \cdot 6.674 \times 10^{-11} \cdot 0.6 \cdot 1.989 \times 10^{30}}{9 \times 10^{16} \cdot 5 \times 10^6}}}
+    \]
+    - Compute the numerator:
+      \[
+      2 \cdot 6.674 \times 10^{-11} \cdot 0.6 \cdot 1.989 \times 10^{30} = 1.595 \times 10^{20}
+      \]
+    - Compute the denominator:
+      \[
+      9 \times 10^{16} \cdot 5 \times 10^6 = 4.5 \times 10^{23}
+      \]
+    - Fraction:
+      \[
+      \frac{1.595 \times 10^{20}}{4.5 \times 10^{23}} \approx 3.544 \times 10^{-4}
+      \]
+    - Dilation factor:
+      \[
+      \Delta L' = \Delta L \cdot \frac{1}{\sqrt{1 - 3.544 \times 10^{-4}}} \approx \Delta L \cdot 1.00018
+      \]
+    **Correct.**
+
+---
+
+### **Mass + Light**
+
+#### **Precession**
+
+- \(\Delta \phi = \frac{6 \pi GM}{c^2 a (1 - e^2)}\)
+  - Given \(M = M_\odot\), \(a = 57.9 \times 10^9 \, \text{m}\), \(e = 0.206\):  
+    - Compute the numerator:
+      \[
+      6 \pi \cdot 6.674 \times 10^{-11} \cdot 1.989 \times 10^{30} = 2.501 \times 10^{21}
+      \]
+    - Compute the denominator:
+      \[
+      (3 \times 10^8)^2 \cdot 57.9 \times 10^9 \cdot (1 - 0.206^2) = 9 \times 10^{16} \cdot 57.9 \times 10^9 \cdot 0.9576 \approx 4.986 \times 10^{27}
+      \]
+    - Fraction:
+      \[
+      \Delta \phi = \frac{2.501 \times 10^{21}}{4.986 \times 10^{27}} = 5.015 \times 10^{-7} \, \text{radians per orbit}
+      \]
+    - Per century (\(415\) orbits):
+      \[
+      \Delta \phi_{\text{century}} = 5.015 \times 10^{-7} \cdot 415 \cdot \frac{180}{\pi} \approx 42.98 \, \text{arcseconds}
+      \]
+    **Correct.**
+
+#### **Gravitational Lensing**
+
+- \(\theta = \frac{4GM}{c^2 R}\)
+  - Given \(M = M_\odot\), \(R = 700,000 \, \text{km}\):  
+    - Compute the numerator:
+      \[
+      4 \cdot 6.674 \times 10^{-11} \cdot 1.989 \times 10^{30} = 5.309 \times 10^{20}
+      \]
+    - Compute the denominator:
+      \[
+      (3 \times 10^8)^2 \cdot 7 \times 10^8 = 9 \times 10^{16} \cdot 7 \times 10^8 = 6.3 \times 10^{25}
+      \]
+    - Fraction:
+      \[
+      \theta = \frac{5.309 \times 10^{20}}{6.3 \times 10^{25}} = 8.43 \times 10^{-6} \, \text{radians}
+      \]
+    - Convert to arcseconds:
+      \[
+      \theta \approx 1.75 \, \text{arcseconds}
+      \]
+    **Correct.**
+
+---
