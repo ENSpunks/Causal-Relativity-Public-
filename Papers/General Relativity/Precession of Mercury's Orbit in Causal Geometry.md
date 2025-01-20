@@ -88,9 +88,72 @@ In Causal Relativity, the perihelion shift of planets can be conceptualized thro
 
 ---
 
-**Comparison with Observations:**  
-- The observed precession rate of Mercury is 43 arcseconds per century. 
-- Our spatial model predicts this value when we adjust \(r_s\) to match the Sun’s mass and Mercury's orbit parameters, demonstrating that spatial curvature alone can account for the observed effect without invoking time dilation.
+**Causal Geometry Calculation**
+
+- **Sun's Mass Core:**
+
+  - **Initial Condition:** The Sun's massive Mass Core creates a significant spatial curvature, represented by the Gravity Shell.
+
+  - **Spatial Curvature:** This curvature is described by modifying the spatial metric:
+    \[
+    ds^2 = \frac{dr^2}{1 - \frac{GM}{r}} + r^2 (d\theta^2 + \sin^2\theta \, d\phi^2)
+    \]
+    where \(M\) is the mass of the Sun, \(G\) is the gravitational constant, and \(r\) is the radial distance from the Sun's center.
+
+- **Mercury's Orbit:**
+
+  - **Path Calculation:** We use this metric to calculate Mercury's orbit. For simplicity, we'll consider Mercury's orbit in the equatorial plane (\(\theta = \pi/2\)), focusing on the radial and azimuthal components:
+
+    - **Effective Potential:** In this spatial context, we define an effective potential for the orbit:
+      \[
+      V_{\text{eff}}(r) = -\frac{GM}{r} + \frac{L^2}{2r^2} \left(1 - \frac{GM}{r}\right)
+      \]
+      where \(L\) is the angular momentum per unit mass of Mercury.
+
+    - **Orbital Equation:** The orbit can be described by:
+      \[
+      \frac{d^2 u}{d\phi^2} + u = \frac{GM}{L^2} + \frac{3GM}{c^2} u^2
+      \]
+      where \(u = 1/r\) for convenience, and we've included the term \(\frac{3GM}{c^2} u^2\) to account for the additional spatial curvature effect in our model. This term corresponds to the relativistic correction in GR but is interpreted here as spatial curvature.
+
+- **Calculating Precession:**
+
+  - **Approximate Solution:** We solve this differential equation approximately by treating the relativistic term as a perturbation:
+
+    - The unperturbed solution is a simple ellipse, \(u = \frac{GM}{L^2} (1 + e \cos \phi)\), where \(e\) is the eccentricity.
+
+    - Including the spatial curvature term, we add a small correction to this orbit. The precession per orbit due to this term can be calculated by integrating over one orbit:
+      \[
+      \Delta \phi_{Causal} \approx \frac{6\pi GM}{c^2 a (1 - e^2)} \cdot \left(1 - \frac{r_s}{r}\right)^{-1}
+      \]
+      Here, \(a\) is the semi-major axis of Mercury's orbit, and \(r_s\) is a parameter representing the spatial influence of the Sun's mass. For this calculation, we approximate \(r_s\) as the Schwarzschild radius of the Sun:
+      \[
+      r_s = \frac{2GM}{c^2}
+      \]
+
+  - **Numerical Values:** For Mercury:
+    - \(M \approx 1.989 \times 10^{30} \, \text{kg}\) (mass of the Sun)
+    - \(G \approx 6.67430 \times 10^{-11} \, \text{m}^3\text{kg}^{-1}\text{s}^{-2}\)
+    - \(c \approx 3 \times 10^8 \, \text{m/s}\)
+    - \(a \approx 5.79 \times 10^{10} \, \text{m}\) (Mercury's semi-major axis)
+    - \(e \approx 0.2056\) (Mercury's eccentricity)
+
+    Plugging these into our equation:
+    \[
+    \Delta \phi_{Causal} \approx \frac{6\pi \cdot 6.67430 \times 10^{-11} \cdot 1.989 \times 10^{30}}{(3 \times 10^8)^2 \cdot 5.79 \times 10^{10} (1 - 0.2056^2)} \cdot \left(1 - \frac{2 \cdot 6.67430 \times 10^{-11} \cdot 1.989 \times 10^{30}}{(3 \times 10^8)^2 \cdot 5.79 \times 10^{10}}\right)^{-1}
+    \]
+
+    Simplifying:
+    \[
+    \Delta \phi_{Causal} \approx 5.015 \times 10^{-7} \cdot \left(1 - 0.0000135\right)^{-1} \approx 5.015 \times 10^{-7} \cdot 1.0000135 \approx 5.015 \times 10^{-7} \text{ radians per orbit}
+    \]
+
+    Converting to arcseconds per century:
+    \[
+    \Delta \phi_{Causal} \approx 5.015 \times 10^{-7} \times \left(\frac{180}{\pi} \times 3600\right) \times 415 \approx 43 \text{ arcseconds per century}
+    \]
+
+This calculation shows that Causal Relativity model predicts approximately the same precession as General Relativity, interpreting it as a spatial effect rather than a temporal one. Note that this is an approximation, and more precise calculations would involve higher-order terms and numerical methods.
 
 ---
 
