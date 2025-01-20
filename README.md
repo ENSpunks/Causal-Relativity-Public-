@@ -116,10 +116,12 @@ Note:
 
 #### Mass+Light+Gravity
 
-| **Causal Geometry**     | **Phenomenon**                  | **Original Equation**                                    | **Causal Relativity Equation**                               |
-|:------------------------:|:--------------------------------|:-----------------------------------------------------------|:-------------------------------------------------------------|
-| Mass+Light+Gravity       | Unification of SR and GR        | $ ds^2 = -c^2 dt^2 + dx^2 + dy^2 + dz^2 $                 | $ ds^2 = g_{ij} dx^i dx^j $                                  |
-| Mass+Light+Gravity       | Singularities (Black Holes/Big Bang) | $ R_{\mu\nu} - \frac{1}{2}g_{\mu\nu}R = \frac{8\pi G}{c^4}T_{\mu\nu} $ | $ ds^2 = \left( 1 - \frac{r_s}{r} \right) dr^2 + r^2 d\theta^2 + r^2 \sin^2\theta d\phi^2 $ |
+Here's the table summarizing the equations and phenomena for Mass+Light+Gravity under Causal Geometry and Causal Relativity:
+
+| Causal Geometry       | Phenomenon                           | Theory                     | Original Equations                                                    | Causal Relativity Equation                                 |
+|-----------------------|--------------------------------------|----------------------------|-----------------------------------------------------------------------|------------------------------------------------------------|
+| Mass+Light+Gravity    | Unification of SR and GR             | General Relativity         | \( ds^2 = -c^2 dt^2 + dx^2 + dy^2 + dz^2 \)                           | \( ds^2 = g_{ij} dx^i dx^j \)                              |
+| Mass+Light+Gravity    | Singularities (Black Holes/Big Bang) | General Relativity         | \( R_{\mu\nu} - \frac{1}{2}g_{\mu\nu}R = \frac{8\pi G}{c^4}T_{\mu\nu} \) | \( ds^2 = \left( 1 - \frac{r_s}{r} \right) c^2 dt^2 - \frac{dr^2}{1 - \frac{r_s}{r}} - r^2 d\theta^2 - r^2 \sin^2\theta d\phi^2 \) |
 
 ---
 
