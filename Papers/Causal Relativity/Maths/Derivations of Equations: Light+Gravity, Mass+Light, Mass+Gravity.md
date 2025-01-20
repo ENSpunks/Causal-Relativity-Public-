@@ -102,7 +102,7 @@
     \Delta L' = \Delta L \sqrt{1 - \frac{2 \times 6.67430 \times 10^{-11} \times 2 \times 1.989 \times 10^{30}}{(3 \times 10^8)^2 \times 10^4}} \approx \Delta L \sqrt{1 - 0.59} \approx 0.64\Delta L
     \]
     
-- **Gravitational Redshift:**
+  - **Gravitational Redshift:**
 
   **Original**: 
   \[
@@ -119,8 +119,9 @@
 
   - Using the formula:
     \[
-    \Delta L' = \Delta L \left( \frac{1}{\sqrt{1 - \frac{2 \times 6.67430 \times 10^{-11} \times 0.6 \times 1.989 \times 10^{30}}{9 \times 10^{16} \times 5 \times 10^6}}} \right) \approx 1.000007 \Delta L
+    \Delta L' = \Delta L \left( \frac{1}{\sqrt{1 - \frac{2 \times 6.67430 \times 10^{-11} \times 0.6 \times 1.989 \times 10^{30}}{9 \times 10^{16} \times 5 \times 10^6}}} \right) \approx \Delta L \times 1.0002
     \]
+
 
 #### **Mass + Light:**
 
