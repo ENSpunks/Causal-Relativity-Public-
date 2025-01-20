@@ -78,7 +78,11 @@ The equations under Causal Relativity often look similar to the original because
 
 #### Mass, Light, Gravity
 
-Here's the table summarizing the equations and phenomena for Mass, Light, and Gravity under Causal Geometry and Causal Relativity:
+**For derivations of these equations, see [Mass, Light, Gravity Derivations](link_to_mass_light_gravity_paper).**
+
+| Causal Geometry | ... |
+|-----------------|-----|
+| ...             | ... |
 
 | Causal Geometry       | Phenomenon                   | Theory                     | Original Equations                                                    | Causal Relativity Equation                                 |
 |-----------------------|------------------------------|----------------------------|-----------------------------------------------------------------------|------------------------------------------------------------|
@@ -91,6 +95,8 @@ Here's the table summarizing the equations and phenomena for Mass, Light, and Gr
 | Gravity               | Spacetime Curvature          | General Relativity         | \( ds^2 = -c^2 dt^2 + dx^2 + dy^2 + dz^2 \)                           | \( ds^2 = g_{ij} dx^i dx^j \)                              |
 
 #### Light+Gravity (SR), Mass+Light (GR), Mass+Mass (GR)
+
+**For derivations of these equations, see [Light+Gravity, Mass+Light, Mass+Mass Derivations](link_to_mass_light_gravity_paper).**
 
 | Causal Geometry       | Phenomenon                   | Theory                     | Original Equations                                                    | Causal Relativity Equation                                 |
 |-----------------------|------------------------------|----------------------------|-----------------------------------------------------------------------|------------------------------------------------------------|
@@ -113,7 +119,8 @@ Here's the table summarizing the equations and phenomena for Mass, Light, and Gr
 
 #### Mass+Light+Gravity
 
-Here's the table summarizing the equations and phenomena for Mass+Light+Gravity under Causal Geometry and Causal Relativity:
+**For derivations of these equations, see [Mass+Light+Gravity Derivations](link_to_mass_light_gravity_paper).**
+
 
 | Causal Geometry       | Phenomenon                           | Theory                     | Original Equations                                                    | Causal Relativity Equation                                 |
 |-----------------------|--------------------------------------|----------------------------|-----------------------------------------------------------------------|------------------------------------------------------------|
