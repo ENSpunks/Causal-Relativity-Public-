@@ -76,17 +76,15 @@ Gravity shells represent gravity, or space curvature and its propagation outward
 
 #### Mass, Light, Gravity
 
-| **Causal Geometry** | **Phenomenon**                  | **Theory**            | **Original Equations**                                   | **Causal Relativity Equation**                                |
-|:--------------------:|:--------------------------------|:----------------------|:--------------------------------------------------------:|:--------------------------------------------------------------:|
-| **Mass**             | Newton's Gravitational Force    | Classical View         | $ F = \frac{Gm_1 m_2}{r^2} $                            | $ K = \frac{GM}{r^2} $ (spatial curvature)                    |
-| **Mass**             | Gravitational Curvature         | General Relativity     | $ R_{\mu\nu} - \frac{1}{2}g_{\mu\nu}R = \frac{8 \pi G}{c^4}T_{\mu\nu} $ | Spatial curvature induced by mass $ K = \frac{GM}{r^2} $     |
-| **Mass**             | Spatial Curvature               | Causal Geometry        | $ ds^2 = g_{ij} dx^i dx^j $                              | Purely spatial, time is removed                               |
-| **Light**            | Light Propagation (Relativity)  | Einstein's Relativity  | $ t = \frac{d}{c} $                                      | $ r = c \cdot \Delta d $ (spatial interval)                   |
-| **Light**            | Light Speed in Vacuum           | General Relativity     | $ ds^2 = -c^2 dt^2 + dx^2 + dy^2 + dz^2 $                | Speed of light is constant in spatial geometry                |
-| **Light**            | Light Travel Time               | Causal Geometry        | $ r = c \cdot \Delta d $                                 | No time component, only spatial intervals                     |
-| **Gravity**          | Spacetime Curvature             | General Relativity     | $ ds^2 = -c^2 dt^2 + dx^2 + dy^2 + dz^2 $                | Gravity as spatial curvature: $ K_{\text{gravity}} = \frac{GM}{r^2} $ |
-| **Gravity**          | Tidal Forces                    | General Relativity     | $ F_{\text{tidal}} = \frac{2GMm}{r^3} $                  | Purely spatial interaction, no time dependency                |
-| **Gravity**          | Gravitational Lensing           | General Relativity     | $ \theta = \frac{4GM}{c^2 R} $                           | Curvature of space causes bending of light                    |
+| **Causal Geometry** | **Phenomenon**                  | **Theory**                        | **Original Equations**                                   | **Causal Relativity Equation**                                |
+|:--------------------:|:--------------------------------|:----------------------------------|:--------------------------------------------------------:|:--------------------------------------------------------------:|
+| **Mass**             | Newton's Gravitational Force    | Classical View  | $ F = \frac{Gm_1 m_2}{r^2} $                            | $ K = \frac{GM}{r^2} $ (spatial curvature)                    |
+| **Mass**             | Gravitational Curvature         | General Relativity | $ R_{\mu\nu} - \frac{1}{2}g_{\mu\nu}R = \frac{8 \pi G}{c^4}T_{\mu\nu} $ | $ K = \frac{GM}{r^2} $ (spatial curvature) |
+| **Mass**             | Spatial Curvature               | General Relativity | $ ds^2 = g_{ij} dx^i dx^j $                              | $ ds^2 = g_{ij} dx^i dx^j $ (purely spatial metric)           |
+| **Light**            | Light Propagation (Relativity)  | Einstein's Relativity | $ t = \frac{d}{c} $                                      | $ r = c \cdot \Delta d $ (spatial interval for light propagation) |
+| **Light**            | Light Speed in Vacuum           | Einstein's Relativity | $ ds^2 = -c^2 dt^2 + dx^2 + dy^2 + dz^2 $                | $ ds^2 = dx^2 + dy^2 + dz^2 $ (constant speed in spatial geometry) |
+| **Light**            | Light Travel Time               | Einstein's Relativity | $ r = c \cdot \Delta d $                                 | $ r = c \cdot \Delta d $ (spatial distance traveled)          |
+| **Gravity**          | Spacetime Curvature             | General Relativity | $ ds^2 = -c^2 dt^2 + dx^2 + dy^2 + dz^2 $                | $ ds^2 = g_{ij} dx^i dx^j $ (spatial curvature)               |
 
 #### Light+Gravity (SR), Mass+Light (GR), Mass+Mass (GR)
 
