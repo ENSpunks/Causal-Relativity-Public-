@@ -100,5 +100,5 @@ This outline ensures each paper maintains a consistent format while allowing for
 
 ---
 
-**Appendices** (if needed):
-- Any additional mathematical proofs, figures, or supplementary data.
+**Supplemental Calculations and Problem Solving**:
+- Set up a physics problem related to the paper where the observations or answers are known in relativity and develop a rigerous step by step causal geometry solutiom in space with no time.
