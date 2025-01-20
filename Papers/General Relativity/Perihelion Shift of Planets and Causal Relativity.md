@@ -34,6 +34,40 @@ Causal Relativity introduces:
 
 ---
 
+Here is the **Causal Geometry** section for your paper on "Perihelion Shift of Planets and Causal Relativity":
+
+### **Causal Geometry Consistent with Perihelion Shift**
+
+In Causal Relativity, the perihelion shift of planets can be conceptualized through the interactions of Causal Spheres. Consider two observers, Alice (on Mercury) and Bob (observing from Earth):
+
+- **Sun's Mass Core:**
+
+  - **Initial Condition:** The Sun's massive Mass Core significantly influences the spatial geometry around it, creating a notable Gravity Shell.
+
+  - **Spatial Curvature:** This curvature:
+
+    - **Gravity Shell:** Bends the space around the Sun, affecting the orbits of planets. This bending is what causes the shift in the perihelion of Mercury's orbit.
+
+- **Alice's Orbit:**
+
+  - **Mercury's Path:** Alice, representing Mercury, orbits the Sun, with her trajectory influenced by this spatial curvature:
+
+    - **Mass Core Interaction:** As Mercury moves through this curved space, its path isn't a perfect ellipse but is slightly twisted due to the spatial geometry around the Sun. 
+
+    - **Path Deviation:** With each orbit, the spatial geometry subtly shifts Mercury's path, leading to an advance in the point of closest approach (perihelion) without invoking time.
+
+- **Bob's Observation:**
+
+  - **Earth's View:** Bob, from Earth, observes this shift over centuries:
+
+    - **Light Shell:** Light from Mercury, representing its position, travels through space affected by the Sun's gravity. The spatial path changes mean that from Bob's perspective, Mercury's orbit appears to precess due to the spatial effects rather than temporal ones.
+
+- **Unified Spatial Interpretation:**
+
+  - **Causal Geometry of Orbit Shift:** In this model, the perihelion shift is explained as a purely spatial phenomenon where the curvature of space around the Sun dictates the path of planets. The precession we observe is the result of how space is configured around massive bodies, offering a new way to understand orbital mechanics without the traditional reliance on time.
+
+--
+
 **Reinterpretation in Causal Relativity:**
 
 - **Mathematical Derivation:**
