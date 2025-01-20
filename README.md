@@ -167,8 +167,6 @@ Here's how the **Appendix** section should look with the changes you've requeste
   - Shapiro Time Delay as a Spatial Phenomenon
   - Cosmological Redshift: A Spatial Interpretation
 
-[Causal Relativity Papers](https://github.com/ENSpunks/Causal-Relativity-Public-/tree/main/Papers)
-
 [Causal Shell Diagrams](https://github.com/ENSpunks/Causal-Relativity-Public-/tree/main/Causal%20Sphere%20Diagrams)
 
 ---
