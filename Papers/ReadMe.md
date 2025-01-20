@@ -23,6 +23,8 @@
 
 ### **Master Outline for Each Paper:**
 
+This outline ensures each paper maintains a consistent format while allowing for detailed exploration of each specific relativistic effect within the context of Causal Relativity. 
+
 **Title:**  
 *Name of the Effect in Causal Relativity*
 
@@ -53,6 +55,12 @@
 **Theoretical Background:**  
 - Recap the basics of your Causal Relativity theory, focusing on relevant postulates.
 - Discuss how traditional relativity handles this effect.
+
+---
+
+**Causal Sphere Thought Experiments**  
+- Alice and Bob are 2 Causal Spheres in space with no temporal dimension, just their Causal Spheres interacting in space.
+- Discuss the pysical causal effects in space relative to the Alice and Bob Causal Spheres.
 
 ---
 
@@ -94,5 +102,3 @@
 
 **Appendices** (if needed):
 - Any additional mathematical proofs, figures, or supplementary data.
-
-This outline ensures each paper maintains a consistent format while allowing for detailed exploration of each specific relativistic effect within the context of your new theory. Remember to tailor the content within each section to emphasize the uniqueness of your spatial-only approach.
