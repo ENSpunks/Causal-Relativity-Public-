@@ -1,4 +1,4 @@
-## **Theory of Causal Relativity: Unifying Relativity without Time**
+## **Theory of Causal Relativity:  Relativity without Time**
 
 ---
 
