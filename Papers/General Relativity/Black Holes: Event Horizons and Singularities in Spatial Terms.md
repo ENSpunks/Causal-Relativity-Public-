@@ -12,112 +12,112 @@
 ---
 
 **Abstract:**  
-Black holes, traditionally understood as regions of spacetime with such strong gravity that nothing, not even light, can escape past the event horizon, are re-examined here through the lens of Causal Relativity. This paper proposes that black holes can be conceptualized in a purely spatial framework where the event horizon is a boundary of spatial curvature and the singularity might not occur as traditionally thought. We explore the implications of this model, including the possibility of mass encoding on the horizon and light forming a dense core.
+This paper revisits the concept of black holes through the framework of Causal Relativity, where the traditional notions of time are replaced by spatial interactions. By employing a novel spatial metric, we propose that black holes can be understood without the singularity at their core, instead suggesting that mass and energy are distributed over the event horizon, effectively resolving singularities in a purely spatial context. We utilize a new equation for spatial curvature to describe black hole phenomena, offering insights into their structure and behavior.
 
 ---
 
 **Introduction:**  
-Black holes are one of the most fascinating predictions of General Relativity (GR), characterized by an event horizon and a central singularity. In Causal Relativity, we attempt to understand these structures without invoking time, suggesting that the extreme conditions of black holes could be described through spatial geometry alone.
+Black holes, as predicted by General Relativity (GR), are regions where gravity is so strong that nothing can escape from beyond the event horizon, leading to a central singularity of infinite density. This paper reinterprets these structures within Causal Relativity, where time is not a dimension, and spatial geometry alone dictates the characteristics of a black hole. We explore how this model reshapes our understanding of black holes, proposing a new equation to describe the spatial curvature at and inside the event horizon.
 
 ---
 
 **Theoretical Background:**  
-In GR, black holes are described by:
-- The Schwarzschild metric for non-rotating black holes, or the Kerr metric for rotating ones, leading to concepts like:
-  - **Event Horizon**: The boundary beyond which escape is impossible.
-  - **Singularity**: A point where densities and curvatures become infinite.
+In GR, black holes are modeled with metrics like Schwarzschild for non-rotating masses, highlighting:
 
-Causal Relativity postulates:
-- **Causal Geometry**: The event horizon is a surface where spatial curvature becomes infinite from an external perspective, and the interior structure might avoid the traditional singularity.
+- **Event Horizon:** A boundary beyond which escape is impossible.
+- **Singularity:** A point of infinite density and curvature.
+
+Causal Relativity introduces:
+
+- **Causal Geometry:** We propose a spatial framework where the event horizon acts as a boundary of extreme spatial curvature, and the singularity is reimagined as distributed mass and energy.
 
 ---
 
 ### **Causal Geometry Consistent with Black Holes**
 
-In Causal Relativity, the nature of black holes can be conceptualized through the interactions of Causal Spheres. Consider two observers, Alice (falling into a black hole) and Bob (remaining outside):
+Here, we examine black holes through the interactions of Causal Spheres:
 
 - **Alice's Journey into the Black Hole:**
 
-  - **Initial Condition:** Alice and Bob are near a black hole, each with their own Mass Cores, Light Shells, and Gravity Shells. The black hole itself can be visualized with an immense Mass Core and a Gravity Shell that curves space dramatically.
+  - **Initial Condition:** Alice and Bob, near a black hole, interact with each other's and the black hole's Mass Cores, Light Shells, and Gravity Shells.
 
-  - **Approaching the Event Horizon:** As Alice moves closer to the black hole:
+  - **Approaching the Event Horizon:** 
 
-    - **Mass Core Interaction:** Alice's Mass Core begins to interact with the black hole's massive Mass Core. The spatial geometry around Alice is increasingly influenced by this interaction, leading to an extreme curvature of space.
+    - **Mass Core Interaction:** Alice's path is altered by the black hole’s immense spatial curvature, her Mass Core interacting with the black hole's.
 
-    - **Gravity Shell:** The Gravity Shell of the black hole bends space so intensely that from Alice's perspective, space itself starts to close in around her, creating what we would traditionally call an event horizon but here is seen as a spatial boundary where space curves infinitely.
+    - **Gravity Shell:** The black hole's gravity bends space, forming what appears as an event horizon but is fundamentally a spatial boundary.
 
-    - **Light Shell:** As Alice approaches this boundary, her Light Shell, representing the light she emits, bends back towards the black hole due to the spatial geometry. From Bob's perspective, Alice's light never escapes past this point, indicating the event horizon as a spatial barrier rather than a temporal one.
+    - **Light Shell:** Alice's light bends back due to this curvature; from Bob's perspective, it seems she never crosses the horizon, as light paths curve back inside.
 
 - **Event Horizon and Singularity:**
 
-  - **Spatial Event Horizon:** From Bob's viewpoint, Alice seems to approach but never cross this spatial boundary, as the curvature of space bends all paths inward. The event horizon is thus a spatial limit where the geometry dictates that no path leads back out.
+  - **Spatial Event Horizon:** This boundary is where space curves so much that no path leads outward.
 
-  - **Avoiding the Singularity:** Inside this spatial configuration, Alice's Mass Core might not converge to a point but could spread across or be encoded on this spatial boundary (akin to the holographic principle):
+  - **Avoiding Singularity:** The spatial metric we introduce:
+    \[
+    ds^2 = \left(1 - \frac{r_s}{r} + \kappa \left(\frac{A_{\text{inner}} + A_{\text{outer}}}{A_{\text{total}}}\right)\right) dr^2 + r^2 (d\theta^2 + \sin^2\theta \, d\phi^2)
+    \]
+    Here, \( r_s = \frac{2GM}{c^2} \), \( \kappa = 1 \), \( A_{\text{inner}} = A_{\text{outer}} = 4\pi r_s^2 \), and \( A_{\text{total}} = 8\pi r_s^2 \). At the event horizon, the spatial interval remains finite, suggesting no singularity:
 
-    - **Mass Encoding:** Here, Alice's mass (and all mass falling into the black hole) could be represented as information or energy distributed over this surface, avoiding the traditional singularity.
+    \[
+    ds^2 = dr^2 + r_s^2 (d\theta^2 + \sin^2\theta \, d\phi^2)
+    \]
 
-    - **Light Core:** Light, once trapped inside this geometry, forms what could be described as a 'light core'—a dense, spatial concentration of light energy rather than a singularity, maintaining a finite, albeit very high, density.
+    - **Mass Encoding:** Mass is proposed to be encoded on the horizon's surface, potentially resolving the information paradox.
+
+    - **Light Core:** Light within the horizon forms a dense but finite core, instead of collapsing to a point.
 
 - **Unified Spatial Interpretation:**
 
-  - **Causal Geometry of Black Holes:** This model suggests that what we perceive as an event horizon and singularity are spatial phenomena. The black hole's interior is not a place where time stops but where space is so curved that traditional notions of inside and outside, or even up and down, lose meaning in purely spatial terms.
+  - **Causal Geometry of Black Holes:** This model suggests that black hole features are spatial phenomena. The interior is a space where traditional geometric concepts are redefined.
 
 ---
 
 **Reinterpretation in Causal Relativity:**
 
 - **Mathematical Derivation:**
-  - We use a spatial metric to describe the geometry around a black hole:
-    \[
-    ds^2 = \left(1 - \frac{r_s}{r}\right) dr^2 + r^2 (d\theta^2 + \sin^2\theta \, d\phi^2)
-    \]
-    Here, \(r_s\) represents the Schwarzschild radius in spatial terms.
-  
-  - For the event horizon, instead of a time-like boundary, we consider it as a spatial limit where the geometry changes drastically:
-    \[
-    \lim_{r \to r_s} \left(1 - \frac{r_s}{r}\right) = 0
-    \]
-    indicating an infinite spatial curvature from outside.
+
+  - The spatial metric describes the geometry around and within a black hole, ensuring finite spatial intervals even at the event horizon.
 
 - **Conceptual Explanation:**
-  - **Event Horizon as Spatial Boundary**: The event horizon could be seen as a spatial surface where the mass of the black hole is encoded. Instead of time stopping, space becomes so curved that no path leads back out.
 
-  - **Singularity Resolution**: One interpretation is that the mass doesn't converge to a point singularity but is distributed on the horizon. The light trapped inside could form a "light core," a finite but very dense region of light, rather than escaping or collapsing to an infinite density.
+  - **Event Horizon as Spatial Boundary:** Seen as a limit where space curvature dictates no escape, not a temporal boundary.
 
-- **Potential Interpretation:** 
-  - **Mass Encoding**: Mass might be encoded on the surface area of the event horizon, akin to the holographic principle, where all the information of the black hole is represented on its boundary.
+  - **Singularity Resolution:** Mass distribution over the horizon avoids infinite density, with light forming a dense but finite core.
 
-  - **Light Core**: Light that cannot escape might accumulate, forming a highly dense structure within the horizon, potentially providing a spatial resolution to the problem of singularities by avoiding infinite density and curvature at a point.
+- **Potential Interpretation:**
+
+  - **Mass Encoding:** Similar to the holographic principle, mass and information are distributed across the event horizon.
+
+  - **Light Core:** Light forms a dense structure, providing a spatial resolution to what would be a singularity in traditional models.
 
 ---
 
 **Comparison with Observations:**  
-- Observations of black holes, such as their effects on surrounding matter, gravitational lensing, and the lack of observed singularities, might align with this model if we reinterpret these as spatial phenomena.
-
-- The model would need to explain phenomena like Hawking radiation and black hole evaporation in spatial terms, possibly through quantum effects at the horizon.
+- This model aligns with observed gravitational effects like lensing, but reinterpreted spatially. It would need to account for phenomena like Hawking radiation in a spatial context, perhaps through quantum effects interacting with the horizon's spatial structure.
 
 ---
 
 **Implications:**  
-- This could offer insights into quantum gravity by suggesting that information is not lost but spread across the horizon in a spatial manner.
-- It might also provide a new way to think about the end states of stellar evolution, where the final state is a spatial configuration rather than a temporal one.
+- Offers a new perspective on quantum gravity, suggesting information isn't lost but spatially distributed.
+- Reimagines stellar end states as spatial configurations, not temporal endpoints.
 
 ---
 
 **Challenges and Critiques:**  
-- The biggest challenge is explaining how this spatial-only model captures all the physical effects we attribute to black holes, particularly dynamic processes.
-- Critics might argue that this model oversimplifies or misrepresents phenomena like event horizons and singularities, which have deep roots in spacetime topology.
+- Explaining dynamic processes and energy emissions in purely spatial terms.
+- Validating this model against established observations and experiments, especially regarding black hole thermodynamics.
 
 ---
 
 **Conclusion:**  
-This paper presents a novel perspective on black holes within Causal Relativity, where the event horizon and the interior structure are described by spatial curvature. The idea of mass encoding and a "light core" instead of a singularity provides an interesting resolution to some of GR's paradoxes. Further theoretical and observational work is required to validate or refine this spatial interpretation of black holes.
+This paper introduces a spatial-only interpretation of black holes within Causal Relativity, where the event horizon and internal structure are defined by spatial curvature. The resolution of singularities by distributing mass and energy spatially provides a novel approach to understanding these cosmic entities. Further theoretical development and observational evidence are necessary to substantiate this model.
 
 ---
 
 **References:**  
 - Hawking, S. W. (1974). "Black hole explosions?". *Nature*, 248(5443), 30-31.
-- Schwarzschild, K. (1916). "Über das Gravitationsfeld eines Massenpunktes nach der Einsteinschen Theorie" (On the Gravitational Field of a Mass Point According to Einstein's Theory). *Sitzungsberichte der Königlich Preussischen Akademie der Wissenschaften*, 189-196.
+- Schwarzschild, K. (1916). "Über das Gravitationsfeld eines Massenpunktes nach der Einsteinschen Theorie". *Sitzungsberichte der Königlich Preussischen Akademie der Wissenschaften*, 189-196.
 - Susskind, L. (1995). "The World as a Hologram". *Journal of Mathematical Physics*, 36(11), 6377-6396.
 
 ---
