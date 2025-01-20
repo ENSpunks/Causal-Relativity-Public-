@@ -134,7 +134,7 @@ Causal Geometry reinterprets relativity, offering potentially simpler models for
 ### **Appendix**
 
 **[Causal Relativity Papers](https://github.com/ENSpunks/Causal-Relativity-Public-/tree/main/Papers)**
-- **[Causal Relativity Equations:](https://github.com/ENSpunks/Causal-Relativity-Public-/tree/main/Papers/Causal%20Relativity/Maths)**
+- **[Causal Relativity:](https://github.com/ENSpunks/Causal-Relativity-Public-/tree/main/Papers/Causal%20Relativity/Maths)**
   - Derivations of Equations:
   - Derivations of Equations:
   - Derivations of Equations:
