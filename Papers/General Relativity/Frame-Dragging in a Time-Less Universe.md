@@ -34,6 +34,36 @@ Causal Relativity suggests:
 
 ---
 
+### **Causal Geometry Consistent with Frame-Dragging**
+
+In Causal Relativity, frame-dragging can be conceptualized through the interactions of Causal Spheres. Consider two observers, Alice (in orbit around a rotating body) and Bob (on the rotating body itself):
+
+- **Bob's Rotating Mass:**
+
+  - **Initial Condition:** Bob is on a rotating mass (e.g., Earth or a rotating black hole), with his Mass Core spinning. This rotation induces a spatial twist around him, represented by his Gravity Shell.
+
+  - **Spatial Vortex:** As Bob's Mass Core rotates:
+
+    - **Gravity Shell:** The Gravity Shell around Bob twists space, creating what can be visualized as a vortex in space. This twist affects the spatial geometry around Bob, pulling or dragging the surrounding space in the direction of rotation.
+
+    - **Mass Core Influence:** The rotating mass influences the spatial fabric, bending it in a way that objects or light passing nearby are affected by this spatial drag.
+
+- **Alice's Orbit:**
+
+  - **Orbital Motion:** Alice orbits around this rotating mass. Her trajectory through space is influenced by this spatial vortex:
+
+    - **Light Shell:** Alice's Light Shell, representing the light she emits or receives, would follow paths that are not straight but are instead curved or twisted due to the spatial geometry altered by Bob's rotating mass.
+
+    - **Spatial Drag:** From Alice's perspective, her path or the path of any object she observes is not just curved by gravity but also dragged along by the rotation of the mass below. This spatial drag is what we traditionally interpret as frame-dragging, but here it's purely a spatial phenomenon.
+
+- **Unified Spatial Interpretation:**
+
+  - **Causal Geometry of Frame-Dragging:** In this model, frame-dragging is seen as space itself being twisted by rotating mass. The spatial paths of objects or light are altered in this twisted space, leading to observable effects like precession in orbits or the alignment of gyroscopes without invoking time.
+
+**Insert this section immediately after the "Theoretical Background" section** in your paper. This placement will help to transition from the theoretical concepts of GR to how Causal Relativity reimagines frame-dragging in purely spatial terms.
+
+---
+
 **Reinterpretation in Causal Relativity:**
 
 - **Mathematical Derivation:**
