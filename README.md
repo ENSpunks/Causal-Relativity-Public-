@@ -161,7 +161,9 @@ Causal Geometry reinterprets relativity, offering potentially simpler models for
   - Shapiro Time Delay as a Spatial Phenomenon
   - Cosmological Redshift: A Spatial Interpretation
 
-[Causal Shell Diagrams](https://github.com/ENSpunks/Causal-Relativity-Public-/tree/main/Causal%20Sphere%20Diagrams)
+**[Causal Sphere Thought Experiments: Alice and Bob Causal Spheres](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Papers/Causal%20Relativity/Casual%20Spheres/Causal%20Relativity%3A%20Alice%20and%20Bob's%20Causal%20Spheres.md)**
+
+**[Causal Sphere Diagrams](https://github.com/ENSpunks/Causal-Relativity-Public-/tree/main/Causal%20Sphere%20Diagrams)**
 
 ---
 
