@@ -1,10 +1,13 @@
-### **Mass-Energy Transformation in Causal Relativity: \(E = mc^2\)**
+**Title:**  
+*Mass-Energy Transformation in Causal Relativity: E = mc^2*
+
+---
 
 **Author:**  
-Will Brown
+*Will Brown*
 
 **Date:**  
-January 20, 2025
+*January 20, 2025*
 
 ---
 
