@@ -32,6 +32,38 @@ Causal Relativity postulates:
 
 ---
 
+### **Causal Geometry Consistent with Black Holes**
+
+In Causal Relativity, the nature of black holes can be conceptualized through the interactions of Causal Spheres. Consider two observers, Alice (falling into a black hole) and Bob (remaining outside):
+
+- **Alice's Journey into the Black Hole:**
+
+  - **Initial Condition:** Alice and Bob are near a black hole, each with their own Mass Cores, Light Shells, and Gravity Shells. The black hole itself can be visualized with an immense Mass Core and a Gravity Shell that curves space dramatically.
+
+  - **Approaching the Event Horizon:** As Alice moves closer to the black hole:
+
+    - **Mass Core Interaction:** Alice's Mass Core begins to interact with the black hole's massive Mass Core. The spatial geometry around Alice is increasingly influenced by this interaction, leading to an extreme curvature of space.
+
+    - **Gravity Shell:** The Gravity Shell of the black hole bends space so intensely that from Alice's perspective, space itself starts to close in around her, creating what we would traditionally call an event horizon but here is seen as a spatial boundary where space curves infinitely.
+
+    - **Light Shell:** As Alice approaches this boundary, her Light Shell, representing the light she emits, bends back towards the black hole due to the spatial geometry. From Bob's perspective, Alice's light never escapes past this point, indicating the event horizon as a spatial barrier rather than a temporal one.
+
+- **Event Horizon and Singularity:**
+
+  - **Spatial Event Horizon:** From Bob's viewpoint, Alice seems to approach but never cross this spatial boundary, as the curvature of space bends all paths inward. The event horizon is thus a spatial limit where the geometry dictates that no path leads back out.
+
+  - **Avoiding the Singularity:** Inside this spatial configuration, Alice's Mass Core might not converge to a point but could spread across or be encoded on this spatial boundary (akin to the holographic principle):
+
+    - **Mass Encoding:** Here, Alice's mass (and all mass falling into the black hole) could be represented as information or energy distributed over this surface, avoiding the traditional singularity.
+
+    - **Light Core:** Light, once trapped inside this geometry, forms what could be described as a 'light core'—a dense, spatial concentration of light energy rather than a singularity, maintaining a finite, albeit very high, density.
+
+- **Unified Spatial Interpretation:**
+
+  - **Causal Geometry of Black Holes:** This model suggests that what we perceive as an event horizon and singularity are spatial phenomena. The black hole's interior is not a place where time stops but where space is so curved that traditional notions of inside and outside, or even up and down, lose meaning in purely spatial terms.
+
+---
+
 **Reinterpretation in Causal Relativity:**
 
 - **Mathematical Derivation:**
