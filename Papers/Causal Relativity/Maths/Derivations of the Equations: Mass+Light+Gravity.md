@@ -18,9 +18,9 @@
 **Derivation:**
 - The general form \(g_{ij} dx^i dx^j\) comes from generalizing the flat spacetime metric to include curvature due to mass-energy. In SR, \(g_{ij}\) is constant, but in GR, it's a function of the coordinates reflecting the gravitational field.
 
-#### **2. Singularities (Black Holes/Big Bang)**
+#### **2. Singularities Black Holes**
 
-Singularities (Black Holes/Big Bang)
+Singularities (Black Holes)
 
 **Original Equation:** 
 
