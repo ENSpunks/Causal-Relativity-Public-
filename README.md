@@ -136,7 +136,7 @@ Causal Geometry reinterprets relativity, offering potentially simpler models for
 
 **[Causal Relativity Papers](https://github.com/ENSpunks/Causal-Relativity-Public-/tree/main/Papers)**
 
-- **[Special Relativity:]()**
+- **[Special Relativity:](https://github.com/ENSpunks/Causal-Relativity-Public-/tree/main/Papers/Special%20Relativity)**
   - Time Dilation Reinterpreted as Spatial Dilation
   - Length Contraction in a Three-Dimensional Space
   - Relativity of Simultaneity Without Temporal Dimension
