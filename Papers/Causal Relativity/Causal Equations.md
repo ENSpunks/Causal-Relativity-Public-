@@ -49,4 +49,4 @@
 | Mass+Light+Gravity       | Singularities (Black Holes/Big Bang) | $ R_{\mu\nu} - \frac{1}{2}g_{\mu\nu}R = \frac{8\pi G}{c^4}T_{\mu\nu} $ | $ ds^2 = \left( 1 - \frac{r_s}{r} \right) dr^2 + r^2 d\theta^2 + r^2 \sin^2\theta d\phi^2 $ |
 | Mass+Light+Gravity       | Quantum Gravity                 | $ ds^2 = -c^2 dt^2 + dx^2 + dy^2 + dz^2 $ (with quantum corrections) | $ ds^2 = g_{\mu\nu} dx^\mu dx^\nu + \hbar^2 \text{quantum corrections} $ |
 
-These tables have been updated to reflect the spatial interpretations from the Causal Relativity papers, removing or reinterpreting time-dependent aspects where applicable.
+ 
