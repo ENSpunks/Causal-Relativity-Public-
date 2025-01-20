@@ -48,7 +48,7 @@ The paper proposes **Causal Relativity**, a novel interpretation of relativity w
 
 1.  **3 Primary Spheres**: Mass (m), Light (l) and Gravity (g).  The 3 Primary Sphere represent Newtonian Mechanics without time.
 2.  **3 Element Spheres**: Light+Gravity (l+g), Mass+Light (m+l), and Mass+Gravity (m+g). The 3 Primary Spheres pair into 3 Elemental Spheres, or Elements, and create a geometry framework for Special Relativity and General Relativity effects is space without time.
-3.  **Causal Spheres**: Mass+Light+Gravity (m+l+g). The 3 Primary Spheres unite into **Causual Spheres** creating **Causal Geometry** relative to any observer or source in space without time.
+3.  **Causal Spheres**: Mass+Light+Gravity (m+l+g). The 3 Primary Spheres unite into **Causal Spheres** creating **Causal Geometry** relative to any observer or source in space without time.
 
 #### **Mass**
 
