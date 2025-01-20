@@ -88,7 +88,7 @@ In Causal Relativity, the perihelion shift of planets can be conceptualized thro
 
 ---
 
-**Causal Geometry Calculation**
+**Causal Geometry Calculation of Perihelion**
 
 - **Sun's Mass Core:**
 
