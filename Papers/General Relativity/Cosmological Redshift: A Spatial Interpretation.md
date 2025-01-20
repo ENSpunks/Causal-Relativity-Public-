@@ -34,6 +34,32 @@ Causal Relativity suggests:
 
 ---
 
+### **Causal Geometry Consistent with Cosmological Redshift**
+
+In Causal Relativity, cosmological redshift can be understood through the interactions of Causal Spheres. Consider two observers, Alice (in a distant galaxy) and Bob (on Earth):
+
+- **Alice's Light Emission:**
+
+  - **Initial Condition:** Alice emits light from her galaxy, represented by her Light Shell expanding from her Mass Core into the vast expanse of space. 
+
+  - **Spatial Expansion:** As space itself expands:
+
+    - **Mass Core:** Alice's galaxy, with its Mass Core, is moving away from Bob due to the expansion of space. This movement isn't physical in the traditional sense but is due to the increase in spatial intervals between galaxies.
+
+    - **Light Shell:** The light Alice emits must travel through this expanding space. As the light travels, the spatial geometry around it stretches, increasing the distance between each wave crest of the light:
+
+      - **Spatial Redshift:** From Bob's perspective, the Light Shell from Alice stretches in wavelength because the space through which it travels expands. This stretching of space directly corresponds to what we observe as redshift without needing time dilation.
+
+- **Effect on Observations:**
+
+  - **Light Propagation:** As the light reaches Bob, the increased spatial intervals mean that the frequency of the light (as perceived by Bob) is lower than when it was emitted by Alice. This is because the spatial scale factor \(a(r)\) has increased between the emission and observation points.
+
+- **Unified Spatial Interpretation:**
+
+  - **Causal Geometry of Expansion:** The redshift is thus a direct result of the spatial expansion rather than a temporal effect. The geometry of space itself dictates that light wavelengths must stretch as the universe expands spatially. This interpretation suggests that what we see as redshift is simply light adapting to the ever-growing spatial fabric of the universe.
+
+---
+
 **Reinterpretation in Causal Relativity:**
 
 - **Mathematical Derivation:**
