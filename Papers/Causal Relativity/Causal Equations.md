@@ -4,13 +4,13 @@
 
 | **Causal Geometry** | **Phenomenon**                  | **Theory**                        | **Original Equations**                                   | **Causal Relativity Equation**                                |
 |:--------------------:|:--------------------------------|:----------------------------------|:--------------------------------------------------------:|:--------------------------------------------------------------:|
-| **Mass**             | Newton's Gravitational Force    | Classical View (Causal Geometry)  | $ F = \frac{Gm_1 m_2}{r^2} $                            | $ K = \frac{GM}{r^2} $ (spatial curvature)                    |
-| **Mass**             | Gravitational Curvature         | General Relativity (Causal Geometry) | $ R_{\mu\nu} - \frac{1}{2}g_{\mu\nu}R = \frac{8 \pi G}{c^4}T_{\mu\nu} $ | $ K = \frac{GM}{r^2} $ (spatial curvature) |
-| **Mass**             | Spatial Curvature               | General Relativity (Causal Geometry) | $ ds^2 = g_{ij} dx^i dx^j $                              | $ ds^2 = g_{ij} dx^i dx^j $ (purely spatial metric)           |
-| **Light**            | Light Propagation (Relativity)  | Einstein's Relativity (Causal Geometry) | $ t = \frac{d}{c} $                                      | $ r = c \cdot \Delta d $ (spatial interval for light propagation) |
-| **Light**            | Light Speed in Vacuum           | Einstein's Relativity (Causal Geometry) | $ ds^2 = -c^2 dt^2 + dx^2 + dy^2 + dz^2 $                | $ ds^2 = dx^2 + dy^2 + dz^2 $ (constant speed in spatial geometry) |
-| **Light**            | Light Travel Time               | Einstein's Relativity (Causal Geometry) | $ r = c \cdot \Delta d $                                 | $ r = c \cdot \Delta d $ (spatial distance traveled)          |
-| **Gravity**          | Spacetime Curvature             | General Relativity (Causal Geometry) | $ ds^2 = -c^2 dt^2 + dx^2 + dy^2 + dz^2 $                | $ ds^2 = g_{ij} dx^i dx^j $ (spatial curvature)               |
+| **Mass**             | Newton's Gravitational Force    | Classical View  | $ F = \frac{Gm_1 m_2}{r^2} $                            | $ K = \frac{GM}{r^2} $ (spatial curvature)                    |
+| **Mass**             | Gravitational Curvature         | General Relativity | $ R_{\mu\nu} - \frac{1}{2}g_{\mu\nu}R = \frac{8 \pi G}{c^4}T_{\mu\nu} $ | $ K = \frac{GM}{r^2} $ (spatial curvature) |
+| **Mass**             | Spatial Curvature               | General Relativity | $ ds^2 = g_{ij} dx^i dx^j $                              | $ ds^2 = g_{ij} dx^i dx^j $ (purely spatial metric)           |
+| **Light**            | Light Propagation (Relativity)  | Einstein's Relativity | $ t = \frac{d}{c} $                                      | $ r = c \cdot \Delta d $ (spatial interval for light propagation) |
+| **Light**            | Light Speed in Vacuum           | Einstein's Relativity | $ ds^2 = -c^2 dt^2 + dx^2 + dy^2 + dz^2 $                | $ ds^2 = dx^2 + dy^2 + dz^2 $ (constant speed in spatial geometry) |
+| **Light**            | Light Travel Time               | Einstein's Relativity | $ r = c \cdot \Delta d $                                 | $ r = c \cdot \Delta d $ (spatial distance traveled)          |
+| **Gravity**          | Spacetime Curvature             | General Relativity | $ ds^2 = -c^2 dt^2 + dx^2 + dy^2 + dz^2 $                | $ ds^2 = g_{ij} dx^i dx^j $ (spatial curvature)               |
 
 
 
