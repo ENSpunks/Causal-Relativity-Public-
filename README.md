@@ -42,11 +42,11 @@ The paper proposes **Causal Relativity**, a novel interpretation of relativity w
 
 ### **Causal Geometry**
 
-**Causal Geometry** replaces spacetime geometry and lightcones with **Causal Spheres** made of mass+light+gravity that interact in space without time.   
+**Causal Geometry** replaces spacetime geometry and lightcones with **Causal Spheres** made of mass+light+gravity that representing their location, movement, and causal interacts relative to their own inertial Causal Sphere frame of reference, and relative to other **Causal Spheres** in space without time.   
 
-1.  **3 Primary Spheres**: Mass (m), Light (l) and Gravity (g).  Conceptually the 3 Primary Spheres represent Newtonian Mechanics.
-2.  **3 Element Spheres**: Light+Gravity (l+g), Mass+Light (m+l), and Mass+Gravity (m+g). The 3 Primary Spheres pair into 3 Elemental Spheres, or Elements, and create a geometry framework for Special Relativity and General Relativity effects in space without time.
-3.  **Causal Spheres**: Mass+Light+Gravity (m+l+g). The 3 Primary Spheres unite into **Causal Spheres** creating **Causal Geometry** relative to any observer or source in space without time.
+1.  **3 Primary Spheres**: Mass (m), Light (l) and Gravity (g).  Conceptually the 3 Primary Spheres represent locations in space and Newtonian Mechanics.
+2.  **3 Element Spheres**: Light+Gravity (l+g), Mass+Light (m+l), and Mass+Gravity (m+g). The 3 Primary Spheres pair into 3 Elemental Spheres, or Elements, and representing Special Relativity and General Relativity effects in space without time.
+3.  **Causal Spheres**: Mass+Light+Gravity (m+l+g). The 3 Primary Spheres unite into **Causal Spheres** creating **Causal Geometry**.
 
 #### **Mass**
 
@@ -70,7 +70,7 @@ Gravity shells represent gravity, or space curvature and its propagation outward
 
 ![Causal Sphere Diagram](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Causal%20Sphere%20Diagrams/Assets/Causal%20Shell%20Diagram.PNG)​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
 
-The foundations of Causal Relativity are intuitive Alice and Bob Causal Sphere thought experiments in a timeless space, see [Causal Relativity: Alice and Bob's Causal Spheres](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Papers/Causal%20Relativity/Casual%20Spheres/Causal%20Relativity%3A%20Alice%20and%20Bob's%20Causal%20Spheres.md).
+The foundations of Causal Relativity are intuitive Alice and Bob Causal Sphere thought experiments in a Timeless Space, see [Causal Relativity: Alice and Bob's Causal Spheres](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Papers/Causal%20Relativity/Casual%20Spheres/Causal%20Relativity%3A%20Alice%20and%20Bob's%20Causal%20Spheres.md).
 
 ---
 
