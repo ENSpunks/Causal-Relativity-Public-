@@ -28,6 +28,6 @@
 16. **Energy of Light in Gravitational Field** ✅
 
 ### Mass+Light+Gravity:
-1. **Unification of Special Relativity and General Relativity**
-2. **Singularities (Black Holes)**
-3. **Singularities (Big Bang)**
+1. **Unification of Special Relativity and General Relativity** ✅
+2. **Singularities (Black Holes)** ✅
+3. **Singularities (Big Bang)** ✅
