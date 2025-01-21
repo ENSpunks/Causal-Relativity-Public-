@@ -7,17 +7,11 @@
 
 ### **Abstract**
 
-The **Theory of Causal Relativity** is a theory of relativity in a space without time. The **Causal Relativity Equations** are derived from intuitive Alice and Bob **Causal Sphere** thought experiments unifying: mass, light, gravity, thermodynamics, electrodynamics and relativity into intrisic 4th geometric spatial coordinate relative to every frame consistent with relativistic effect of a 4D Spacetime and a space without time, see [Causal Relativity: Alice and Bob's Causal Spheres](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Papers/Causal%20Relativity/Casual%20Spheres/Causal%20Relativity%3A%20Alice%20and%20Bob's%20Causal%20Spheres.md).
+The **Theory of Causal Relativity** is a theory of relativity in a space without time interpretated from the **Causal Relativity Equations**. The **Causal Relativity Equations** are derived from intuitive Alice and Bob **Causal Sphere** thought experiments unifying: mass, light, gravity, thermodynamics, electrodynamics and relativity into intrisic 4th geometric spatial coordinate relative to every frame of reference producing consistent results with time dependent relativistic effects like a simultaneity, the twin paradox, even time dilation in a simplified unified equation for velocity and gravitational dilation without a tensor for 4D Spacetime, see [Causal Relativity: Alice and Bob's Causal Spheres](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Papers/Causal%20Relativity/Casual%20Spheres/Causal%20Relativity%3A%20Alice%20and%20Bob's%20Causal%20Spheres.md).
 
 ---
 
 ### **Introduction**
-
-**Theory of Causal Relativity** is a mathematical framework for relativity without spacetime or a time dimension. 
-
----
-
-### **Postulates of Relativity**
 
 #### **Newton's Postulates**:
 
