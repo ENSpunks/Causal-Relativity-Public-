@@ -94,8 +94,6 @@ This table summarizes how key aspects of electrodynamics, traditionally involvin
 - **\(\kappa\)**: Represents a spatial causality coefficient, introduced to substitute for time derivatives in the equations, indicating how electromagnetic interactions might occur through spatial causality rather than temporal dynamics.
 - **Retardation**: In traditional physics, retardation accounts for the time light takes to travel from a source to an observer. In Causal Relativity, the concept of retardation would be reimagined as spatial causality, where effects of changes in charge or current are immediately felt spatially rather than delayed by time.
 
-### **Mass+Light**
-
 ### **Mass + Light**
 
 | Causal Geometry | Phenomenon                    | Theory                     | Original Equations                                      | Causal Relativity Equation                                    |
@@ -114,7 +112,24 @@ This table summarizes how key aspects of electrodynamics, traditionally involvin
 
 ### **Light+Mass+Gravity**
 
-#### **Causal Sphere Diagram**
+### **Mass + Light + Gravity**
+
+| Causal Geometry          | Phenomenon                     | Theory                     | Original Equations                                                    | Causal Relativity Equation                                                                                     |
+|--------------------------|--------------------------------|----------------------------|-----------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
+| Mass+Light+Gravity       | Unification of SR and GR       | General Relativity         | \( ds^2 = -c^2 dt^2 + dx^2 + dy^2 + dz^2 \)                            | \( ds^2 = g_{ij} dx^i dx^j \)                                                                                  |
+| Mass+Light+Gravity       | Singularities (Black Holes)    | General Relativity         | Einstein Field Equations                                              | \( ds^2 = \left(1 - \frac{r_s}{r} + \kappa \left(\frac{A_{\text{inner}} + A_{\text{outer}}}{A_{\text{total}}}\right)\right) dr^2 + r^2 (d\theta^2 + \sin^2\theta \, d\phi^2) \) |
+| Mass+Light+Gravity       | Singularities (Big Bang)       | General Relativity         | Einstein Field Equations                                              | \( ds^2 = \left(1 - \frac{r_s}{r} + \kappa \left(\frac{A_{\text{initial}}}{A_{\text{current}}}\right)\right) dr^2 + r^2 (d\theta^2 + \sin^2\theta \, d\phi^2) \) |
+| **Mass+Light+Gravity**   | **Conservation of Energy**     | **Thermodynamics**         | \(\Delta U = Q - W\)                                                   | \(\Delta U = \Delta Q_{\text{space}} - \Delta W_{\text{space}}\)                                               |
+| **Mass+Light+Gravity**   | **Increase in Entropy**        | **Thermodynamics**         | \(dS = \frac{dQ}{T}\)                                                  | \(dS = \Delta S_{\text{space}}\)                                                                               |
+| **Mass+Light+Gravity**   | **Minimum Entropy at 0K**      | **Thermodynamics**         | \(S \rightarrow 0\) as \(T \rightarrow 0\)                             | \(S_{\text{space}} \rightarrow S_{\text{min}}\) as spatial activity \(\rightarrow 0\)                         |
+
+**Notes:**
+- The inclusion of thermodynamics in this table reflects the idea that these laws apply universally to systems involving mass, light, and gravity within your theory of Causal Relativity.
+- \(\Delta Q_{\text{space}}\) and \(\Delta W_{\text{space}}\) represent the spatial analogs of heat and work transfer, where energy is redistributed spatially rather than temporally.
+- \(\Delta S_{\text{space}}\) reflects the change in entropy as a measure of spatial energy distribution homogeneity.
+- The third law's spatial interpretation suggests that as spatial activity (akin to molecular motion) approaches zero, the system's entropy reaches a minimum, reflecting the idea of absolute zero in spatial terms.
+
+### **Causal Sphere Diagram**
 
 ![Causal Sphere Diagram](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Causal%20Sphere%20Diagrams/Assets/Causal%20Shell%20Diagram.PNG)​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
 
