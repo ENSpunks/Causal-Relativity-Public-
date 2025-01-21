@@ -70,18 +70,22 @@ Alice's Primary Spheres Relative to Alice: In a single entity system, Alice's ma
 
 **Interactions in a 2-Body System**
 
-Alice's Primary Spheres Relative to Bob: When Bob enters Alice's vicinity, their causal spheres begin to interact:
+Alice's Primary Spheres Relative to Bob:  When Bob enters Alice's vicinity, their causal spheres begin to interact.
 
 Mass Interaction: Alice's mass sphere influences Bob's space, causing gravitational attraction or repulsion based on their relative positions.
+
 Light Interaction: Alice's light shell interacts with Bob's causal sphere, potentially affecting Bob's perception of light from Alice due to spatial curvature.
 
 Gravity Interaction: The gravity spheres overlap, leading to changes in the spatial curvature around both Alice and Bob, affecting their trajectories and potentially leading to phenomena like frame-dragging or tidal forces.
+
 Bob's Primary Spheres Relative to Alice: Similarly, Bob's mass, light, and gravity spheres interact with Alice's. Bob's mass curves space around Alice, his light affects her light sphere, and his gravity interacts with Alice's, creating a dynamic system where energy and mass are exchanged spatially.
 
-Interactions in an N-Body System
+Interactions in an N-Body System: 
 
-Multiple Entities: In a system with multiple entities, each individual's causal sphere overlaps with others:
+Multiple Entities: In a system with multiple entities, each individual's causal sphere overlaps with others.
+
 Overlapping Causal Spheres: Each entity's mass, light, and gravity spheres contribute to a complex spatial environment. The interaction of these spheres leads to collective gravitational effects, light bending, and energy distributions.
+
 Spatial Dynamics: The resultant spatial dynamics can explain phenomena like the formation of gravitational wells, the bending of light paths, and the spatial distribution of energy, all without invoking time as a separate dimension. Each entity's influence is felt through the spatial overlap of their causal spheres.
 
 #### **Causal Sphere Diagram**
