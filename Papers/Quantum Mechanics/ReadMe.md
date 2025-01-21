@@ -4,6 +4,6 @@
 
 #### Light
 
-1. Photon
+1. 
 
 #### Gravity
