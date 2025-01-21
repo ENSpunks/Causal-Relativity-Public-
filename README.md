@@ -134,13 +134,29 @@ Note: The table includes the general form of the Causal Relativity equation for 
 
 **For derivations of these equations, see [Mass+Light+Gravity Derivations](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Papers/Causal%20Relativity/Maths/Derivations%20of%20the%20Equations%3A%20Mass%2BLight%2BGravity.md).**
 
-Here's the corrected table with the Big Bang equation added after the Black Hole equation:
-
 | Causal Geometry       | Phenomenon                   | Theory                     | Original Equations                                                    | Causal Relativity Equation                                                                                     |
 |-----------------------|------------------------------|----------------------------|-----------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
 | Mass+Light+Gravity    | Unification of SR and GR     | General Relativity         | \( ds^2 = -c^2 dt^2 + dx^2 + dy^2 + dz^2 \)                            | \( ds^2 = g_{ij} dx^i dx^j \)                                                                                  |
 | Mass+Light+Gravity    | Singularities (Black Holes)  | General Relativity         | \( R_{\mu\nu} - \frac{1}{2}g_{\mu\nu}R = \frac{8\pi G}{c^4}T_{\mu\nu} \) | \( ds^2 = \left(1 - \frac{r_s}{r} + \kappa \left(\frac{A_{\text{inner}} + A_{\text{outer}}}{A_{\text{total}}}\right)\right) dr^2 + r^2 (d\theta^2 + \sin^2\theta \, d\phi^2) \) |
 | Mass+Light+Gravity    | Singularities (Big Bang)     | General Relativity         | \( R_{\mu\nu} - \frac{1}{2}g_{\mu\nu}R = \frac{8\pi G}{c^4}T_{\mu\nu} \) | \( ds^2 = \left(1 - \frac{r_s}{r} + \kappa \left(\frac{A_{\text{initial}}}{A_{\text{current}}}\right)\right) dr^2 + r^2 (d\theta^2 + \sin^2\theta \, d\phi^2) \) |
+
+**Thermodynamics**
+
+Unified table for the laws of thermodynamics in Causal Relativity:
+
+| Causal Geometry          | Phenomenon                     | Theory              | Original Equations           | Causal Relativity Equation                                 |
+|--------------------------|--------------------------------|---------------------|------------------------------|------------------------------------------------------------|
+| Mass + Light + Gravity   | Conservation of Energy         | Thermodynamics      | \(\Delta U = Q - W\)         | \(\Delta U = \Delta Q_{\text{space}} - \Delta W_{\text{space}}\) |
+| Mass + Light + Gravity   | Increase in Entropy            | Thermodynamics      | \(dS = \frac{dQ}{T}\)        | \(dS = \Delta S_{\text{space}}\)                           |
+| Mass + Light + Gravity   | Minimum Entropy at 0K          | Thermodynamics      | \(S \rightarrow 0\) as \(T \rightarrow 0\) | \(S_{\text{space}} \rightarrow S_{\text{min}}\) as spatial activity \(\rightarrow 0\) |
+
+**Notes:**
+
+- \(\Delta Q_{\text{space}}\) and \(\Delta W_{\text{space}}\) represent the spatial analogs of heat and work transfer, where energy is redistributed spatially rather than temporally.
+- \(\Delta S_{\text{space}}\) reflects the change in entropy as a measure of spatial energy distribution homogeneity.
+- The third law's spatial interpretation suggests that as spatial activity (akin to molecular motion) approaches zero, the system's entropy reaches a minimum, reflecting the idea of absolute zero in spatial terms.
+
+
 
 ---
 
