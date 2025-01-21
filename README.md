@@ -77,9 +77,9 @@ Gravity shells represent gravity, or space curvature and its propagation outward
 |-----------------|-------------------------------|----------------------------|---------------------------------------------------------|---------------------------------------------------------------|
 | Gravity         | Spacetime Curvature           | General Relativity         | \( ds^2 = -c^2 dt^2 + dx^2 + dy^2 + dz^2 \)              | \( ds^2 = g_{ij} dx^i dx^j \)                                  |
 
-### **Light+Gravity**
+### **Light + Gravity**
 
-![Light + Gravity](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Causal%20Sphere%20Diagrams/Assets/l.PNG)​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
+![Light + Gravity](https://raw.githubusercontent.com/ENSpunks/Causal-Relativity-Public-/refs/heads/Quantum-Mechanics/Causal%20Sphere%20Diagrams/Assets/l%2Bg.PNG)​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
 
 This table summarizes how key aspects of electrodynamics, traditionally involving time, might be described in a framework where causality is expressed through spatial interactions as a "Light + Gravity" pair in Causal Geometry and Causal Relativity:
 
@@ -98,7 +98,7 @@ This table summarizes how key aspects of electrodynamics, traditionally involvin
 
 ### **Mass + Light**
 
-![Mass + Gravity](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Causal%20Sphere%20Diagrams/Assets/l.PNG)​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
+![Mass + Light](https://raw.githubusercontent.com/ENSpunks/Causal-Relativity-Public-/refs/heads/Quantum-Mechanics/Causal%20Sphere%20Diagrams/Assets/m%2Bl.PNG)​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
 
 | Causal Geometry | Phenomenon                    | Theory                     | Original Equations                                      | Causal Relativity Equation                                    |
 |-----------------|-------------------------------|----------------------------|---------------------------------------------------------|---------------------------------------------------------------|
@@ -108,7 +108,7 @@ This table summarizes how key aspects of electrodynamics, traditionally involvin
 
 ### **Mass + Gravity**
 
-![Mass + Gravity](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Causal%20Sphere%20Diagrams/Assets/l.PNG)​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
+![Mass + Gravity](https://raw.githubusercontent.com/ENSpunks/Causal-Relativity-Public-/refs/heads/Quantum-Mechanics/Causal%20Sphere%20Diagrams/Assets/m%2Bg.PNG)​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
 
 | Causal Geometry | Phenomenon                    | Theory                     | Original Equations                                      | Causal Relativity Equation                                    |
 |-----------------|-------------------------------|----------------------------|---------------------------------------------------------|---------------------------------------------------------------|
@@ -118,7 +118,7 @@ This table summarizes how key aspects of electrodynamics, traditionally involvin
 
 ### **Mass + Light + Gravity**
 
-![Mass + Light + Gravity](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Causal%20Sphere%20Diagrams/Assets/l.PNG)​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
+![Mass + Light + Gravity](https://raw.githubusercontent.com/ENSpunks/Causal-Relativity-Public-/refs/heads/Quantum-Mechanics/Causal%20Sphere%20Diagrams/Assets/m%2Bl%2Bg.PNG)​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
 
 | Causal Geometry          | Phenomenon                     | Theory                     | Original Equations                                                    | Causal Relativity Equation                                                                                     |
 |--------------------------|--------------------------------|----------------------------|-----------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
