@@ -1,16 +1,16 @@
 ## Causal Relativity Equation Derivations
 
 ### Mass, Light, Gravity:
-1. **Newton's Gravitational Force**
-2. **Gravitational Curvature (General Relativity)**
+1. **Newton's Gravitational Force** ✅
+2. **Gravitational Curvature (General Relativity)** ✅
 3. **Spatial Curvature**
-4. **Light Propagation**
+4. **Light Propagation** ✅
 5. **Light Speed in Vacuum**
 6. **Light Travel Time**
 7. **Spacetime Curvature**
 
 ### Light+Gravity, Mass+Light, Mass+Gravity:
-1. **Length Contraction**
+1. **Length Contraction** ✅
 2. **Time Dilation**
 3. **Stretching (Cosmological)**
 4. **Relativity of Simultaneity**
