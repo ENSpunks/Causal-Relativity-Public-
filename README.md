@@ -86,28 +86,6 @@ Spatial Dynamics: The resultant spatial dynamics can explain phenomena like the 
 
 ![Causal Sphere Diagram](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Causal%20Sphere%20Diagrams/Assets/Causal%20Shell%20Diagram.PNG)​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
 
-- **3 Primary Spheres**: Mass (m), Light (l) and Gravity (g).  Conceptually the 3 Primary Spheres represent Newtonian Mechanics in a space without time.
-- **3 Element Spheres**: Light+Gravity (l+g), Mass+Light (m+l), and Mass+Gravity (m+g). The 3 Primary Spheres pair into 3 Elemental Spheres, or Elements, and representing Special Relativity and General Relativity effects in space without time.
-- **Causal Spheres**: Mass+Light+Gravity (m+l+g). The 3 Primary Spheres unite into **Causal Spheres** for **Causal Geometry** for space without time.
-
-#### **Mass**
-
-![Mass](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Causal%20Sphere%20Diagrams/Assets/m.PNG)​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
-
-Mass Cores represent mass in space including its quantized properties.
-
-#### **Light**
-
-![Light](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Causal%20Sphere%20Diagrams/Assets/l.PNG)​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
-
-Light Shells represent photons and their propagation outward at the speed of causation (c) relative to mass.
-
-#### **Gravity**
-
-![Gravity](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Causal%20Sphere%20Diagrams/Assets/g.PNG)​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
-
-Gravity shells represent gravity, or space curvature and its propagation outward at the speed of causation (c) relative to mass curvature.
-
 ---
 
 ### **Causal Relativity Equations**
