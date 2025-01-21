@@ -38,7 +38,7 @@ The **Theory of Causal Relativity** is a theory of relativity in a space without
 
 The **Causal Relativity** framework is developed on the **Causal Relativity Equations**, a set of equations unifying mass, light and gravity into geometric construct called **Causal Spheres** that unify causation into a space. 
 
-**Causal Geometry** creates an intrinsic 4th spatial coordinate relative to any observer in space without needing time as a dimension.  Even in traditional spacetime **Causal Geometry** works creating a 5th dimension relative to any observer even in a single body universe relative to themselves consistent with spacetime and relativistic effects. 
+**Causal Geometry** creates an intrinsic 4th spatial coordinate relative to any observer in space without needing time as a dimension.  Even in traditional spacetime **Causal Geometry** creates an intrinsic spatial coordinates for an inertial frame relative to itself and any other causally connected frame, or the light+gravity from Alice's mass (collectively "Alice's Causal Sphere") relative to Bob's mass+light+gravity (Bob's Causal Sphere) that can scale in 3D space without time for any n-body system relative to any other Causal Sphere frame of reference.
 
 ### **Mass**
 
