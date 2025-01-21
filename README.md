@@ -44,11 +44,11 @@ The paper proposes **Causal Relativity**, a novel interpretation of relativity w
 
 **Causal Relativity** introduces **Causal Geometry** a novel framework where traditional spacetime is reimagined through spatial interactions alone utilizing the concept of Causal Spheres.
 
+The Causal Relativity equations are derived from intuitive Alice and Bob Causal Sphere thought experiments in a Timeless Space, see [Causal Relativity: Alice and Bob's Causal Spheres](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Papers/Causal%20Relativity/Casual%20Spheres/Causal%20Relativity%3A%20Alice%20and%20Bob's%20Causal%20Spheres.md).
+
 #### **Causal Sphere Diagram**
 
 ![Causal Sphere Diagram](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Causal%20Sphere%20Diagrams/Assets/Causal%20Shell%20Diagram.PNG)​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
-
-The foundations of Causal Relativity are intuitive Alice and Bob Causal Sphere thought experiments in a Timeless Space, see [Causal Relativity: Alice and Bob's Causal Spheres](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Papers/Causal%20Relativity/Casual%20Spheres/Causal%20Relativity%3A%20Alice%20and%20Bob's%20Causal%20Spheres.md).
 
 - **3 Primary Spheres**: Mass (m), Light (l) and Gravity (g).  Conceptually the 3 Primary Spheres Newtonian Mechanics in a space without time.
 - **3 Element Spheres**: Light+Gravity (l+g), Mass+Light (m+l), and Mass+Gravity (m+g). The 3 Primary Spheres pair into 3 Elemental Spheres, or Elements, and representing Special Relativity and General Relativity effects in space without time.
@@ -76,7 +76,7 @@ Gravity shells represent gravity, or space curvature and its propagation outward
 
 ### **Causal Relativity Equations**
 
-The equations under Causal Relativity often look similar to the original because the spatial interpretation of these phenomena in relativistic contexts typically does not alter the fundamental equations but might change how we interpret them.
+Causal Relativity equations often look similar to the original because the spatial interpretation of these phenomena in relativistic contexts typically does not alter the fundamental equations, but changes how we interpret them.
 
 #### Mass, Light, Gravity
 
