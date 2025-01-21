@@ -7,13 +7,17 @@
 
 ### **Abstract**
 
-The **Theory of Causal Relativity** introduces a new **Causal Geometry** that interprets physical phenomena in a purely spatial context, eliminating the need for a time dimension. This approach unifies concepts from Special and General Relativity into a three-dimensional mathematical framework.
+The **Theory of Causal Relativity** introduces a theory of relativity in a Space without time. This paper will introduce **Causal Relativity Equations** derived from Relativity that are purely spatial yet can be used to calculate relativistic effects like lensing, simulteniety, and dilation.
 
 ---
 
 ### **Introduction**
 
-The paper proposes **Causal Relativity**, a novel interpretation of relativity where time is not a dimension but causality is represented through spatial interactions. 
+**Causal Relativity** is a novel interpretation of relativity without spacetime or a time dimension.  
+
+If Alice and Bob wanted to meet for a movie, then they need 3 coordinates plus a 4th coordinate, time.  That is wrong.
+
+**Causal Geometry** and the **Causal Relativity Equations** turn Alice and Bob into **Causal Spheres** unifying their respective mass, light and gravity into an instrinsic coordinate system relative to their own inertial frame if reference in **Timeless Space**.
 
 ---
 
