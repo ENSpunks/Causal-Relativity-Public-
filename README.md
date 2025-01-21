@@ -51,7 +51,7 @@ Mass Cores represent mass in space including its quantized properties.
 | Mass            | Newton's Gravitational Force | Classical Mechanics        | \( F = \frac{Gm_1 m_2}{r^2} \)                          | \( K = \frac{GM}{r^2} \)                                       |
 | Mass            | Gravitational Curvature (GR)  | General Relativity         | \( R_{\mu\nu} - \frac{1}{2}g_{\mu\nu}R = \frac{8 \pi G}{c^4}T_{\mu\nu} \) | \( K = \frac{GM}{r^2} \)                                   |
 
-#### **Causal Relativity Equations for Light**
+#### **Light**
 
 ![Light](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Causal%20Sphere%20Diagrams/Assets/l.PNG)​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
 
@@ -79,6 +79,8 @@ Gravity shells represent gravity, or space curvature and its propagation outward
 
 ### **Light+Gravity**
 
+![Light + Gravity](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Causal%20Sphere%20Diagrams/Assets/l.PNG)​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
+
 This table summarizes how key aspects of electrodynamics, traditionally involving time, might be described in a framework where causality is expressed through spatial interactions as a "Light + Gravity" pair in Causal Geometry and Causal Relativity:
 
 | Causal Geometry   | Phenomenon                | Theory              | Original Equations                                                                 | Causal Relativity Equation                                                                                             |
@@ -96,6 +98,8 @@ This table summarizes how key aspects of electrodynamics, traditionally involvin
 
 ### **Mass + Light**
 
+![Mass + Gravity](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Causal%20Sphere%20Diagrams/Assets/l.PNG)​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
+
 | Causal Geometry | Phenomenon                    | Theory                     | Original Equations                                      | Causal Relativity Equation                                    |
 |-----------------|-------------------------------|----------------------------|---------------------------------------------------------|---------------------------------------------------------------|
 | Mass + Light    | Precession                   | General Relativity         | \( \Delta \phi = \frac{6 \pi G M}{c^2 a (1 - e^2)} \)   | \( \Delta \phi = \frac{6 \pi G M}{c^2 a (1 - e^2)} \)         |
@@ -104,15 +108,17 @@ This table summarizes how key aspects of electrodynamics, traditionally involvin
 
 ### **Mass + Gravity**
 
+![Mass + Gravity](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Causal%20Sphere%20Diagrams/Assets/l.PNG)​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
+
 | Causal Geometry | Phenomenon                    | Theory                     | Original Equations                                      | Causal Relativity Equation                                    |
 |-----------------|-------------------------------|----------------------------|---------------------------------------------------------|---------------------------------------------------------------|
 | Mass + Gravity  | Mass-Energy Equivalence      | Special Relativity         | \( E = mc^2 \)                                          | \( E = mc^2 \)                                                |
 | Mass + Gravity  | Relativistic Mass            | Special Relativity         | \( m' = \frac{m}{\sqrt{1 - \frac{v^2}{c^2}}} \)         | \( m' = \frac{m}{\sqrt{1 - \frac{v^2}{c^2}}} \)               |
 | Mass + Gravity  | Energy of Light in Gravitational Field | General Relativity | \( E_{\text{out}} = E_{\text{in}} \left( \frac{r_s}{r} \right) \) | \( E_{\text{out}} = E_{\text{in}} \left( \frac{r_s}{r} \right) \) |
 
-### **Light+Mass+Gravity**
-
 ### **Mass + Light + Gravity**
+
+![Mass + Light + Gravity](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Causal%20Sphere%20Diagrams/Assets/l.PNG)​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
 
 | Causal Geometry          | Phenomenon                     | Theory                     | Original Equations                                                    | Causal Relativity Equation                                                                                     |
 |--------------------------|--------------------------------|----------------------------|-----------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
@@ -132,82 +138,6 @@ This table summarizes how key aspects of electrodynamics, traditionally involvin
 ### **Causal Sphere Diagram**
 
 ![Causal Sphere Diagram](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Causal%20Sphere%20Diagrams/Assets/Causal%20Shell%20Diagram.PNG)​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
-
----
-
-### **Causal Relativity Equations**
-
-Causal Relativity equations often look similar to the original because the spatial interpretation of these phenomena in relativistic contexts typically does not alter the fundamental equations, but changes how we interpret them.
-
-#### Mass, Light, Gravity
-
-**For derivations of these equations, see [Mass, Light, Gravity Derivations](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Papers/Causal%20Relativity/Maths/Derivations%20of%20Equations%3A%20Mass%2C%20Light%2C%20Gravity.md).**
-
-| Causal Geometry       | Phenomenon                   | Theory                     | Original Equations                                                    | Causal Relativity Equation                                 |
-|-----------------------|------------------------------|----------------------------|-----------------------------------------------------------------------|------------------------------------------------------------|
-| Mass                  | Newton's Gravitational Force | Classical Mechanics        | \( F = \frac{Gm_1 m_2}{r^2} \)                                        | \( K = \frac{GM}{r^2} \)                                   |
-| Mass                  | Gravitational Curvature (GR) | General Relativity         | \( R_{\mu\nu} - \frac{1}{2}g_{\mu\nu}R = \frac{8 \pi G}{c^4}T_{\mu\nu} \) | \( K = \frac{GM}{r^2} \)                                   |
-| Mass                  | Spatial Curvature            | General Relativity         | \( ds^2 = g_{ij} dx^i dx^j \)                                         | \( ds^2 = g_{ij} dx^i dx^j \)                              |
-| Light                 | Light Propagation            | Special Relativity         | \( t = \frac{d}{c} \)                                                 | \( r = c \cdot \Delta d \)                                 |
-| Light                 | Light Speed in Vacuum        | Special Relativity         | \( ds^2 = -c^2 dt^2 + dx^2 + dy^2 + dz^2 \)                           | \( ds^2 = dx^2 + dy^2 + dz^2 \)                            |
-| Light                 | Light Travel Time            | Special Relativity         | \( r = c \cdot \Delta d \)                                            | \( r = c \cdot \Delta d \)                                 |
-| Gravity               | Spacetime Curvature          | General Relativity         | \( ds^2 = -c^2 dt^2 + dx^2 + dy^2 + dz^2 \)                           | \( ds^2 = g_{ij} dx^i dx^j \)                              |
-
-#### Light+Gravity (SR), Mass+Light (GR), Mass+Mass (GR)
-
-**For derivations of these equations, see [Light+Gravity, Mass+Light, Mass+Mass Derivations](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Papers/Causal%20Relativity/Maths/Derivations%20of%20Equations%3A%20Light%2BGravity%2C%20Mass%2BLight%2C%20Mass%2BGravity.md).**
-
-
-| Causal Geometry       | Phenomenon                   | Theory                     | Original Equations                                                    | Causal Relativity Equation                                 |
-|-----------------------|------------------------------|----------------------------|-----------------------------------------------------------------------|------------------------------------------------------------|
-| Light + Gravity       | Length Contraction           | Special Relativity         | \( L = L_0 \sqrt{1 - \frac{v^2}{c^2}} \)                              | \( L' = L \sqrt{1 - \frac{v^2}{c^2}} \)                    |
-| Light + Gravity       | Time Dilation                | Special Relativity         | \( \Delta t' = \gamma \Delta t \)                                      | \( \Delta L' = \Delta L \sqrt{1 - \frac{v^2}{c^2}} \)      |
-| Light + Gravity       | Stretching (Cosmological)    | General Relativity         | \( ds^2 = -c^2 dt^2 + a(t)^2 \left( \frac{dr^2}{1 - k r^2} + r^2 (d\theta^2 + \sin^2\theta \, d\phi^2) \right) \) | \( ds^2 = g_{ij} dx^i dx^j \)                              |
-| Light + Gravity       | Relativity of Simultaneity   | Special Relativity         | \( x' = \gamma (x - \frac{v\Delta x}{c^2}) \)                          | \( x' = \gamma (x - \frac{v\Delta x}{c^2}) \)              |
-| Light + Gravity       | Gravitational Time Dilation  | General Relativity         | \( d\tau = \sqrt{1 - \frac{2GM}{c^2 r}} \, dt \)                       | \( \Delta L' = \Delta L \sqrt{1 - \frac{2GM}{c^2 r}} \)    |
-| Light + Gravity       | Gravitational Redshift       | General Relativity         | \( z = \frac{1}{\sqrt{1 - \frac{2GM}{c^2 r}}} - 1 \)                   | \( \Delta L' = \Delta L \left( \frac{1}{\sqrt{1 - \frac{2GM}{c^2 r}}} \right) \) |
-| Mass + Light          | Precession                   | General Relativity         | \( \Delta \phi = \frac{6 \pi G M}{c^2 a (1 - e^2)} \)                  | \( \Delta \phi = \frac{6 \pi G M}{c^2 a (1 - e^2)} \)      |
-| Mass + Light          | Gravitational Lensing        | General Relativity         | \( \theta = \frac{4GM}{c^2 R} \)                                       | \( \theta = \frac{4GM}{c^2 R} \)                           |
-| Mass + Light          | Spacetime Curvature & Geodesics | General Relativity      | \( \frac{d^2 x^\mu}{d\tau^2} + \Gamma^\mu_{\rho\sigma} \frac{dx^\rho}{d\tau} \frac{dx^\sigma}{d\tau} = 0 \) | \( \frac{d^2 x^i}{ds^2} + \Gamma^i_{jk} \frac{dx^j}{ds} \frac{dx^k}{ds} = 0 \) |
-| Mass + Light          | Frame-Dragging               | General Relativity         | \( \Delta \theta = \frac{4GJ}{c^2 r^2} \)                              | \( \Delta \theta = \frac{4GJ}{c^2 r^2} \)                  |
-| Mass + Light          | Tidal Forces                 | General Relativity         | \( F_{\text{tidal}} = \frac{2GMm}{r^3} \)                              | \( F_{\text{tidal}} = \frac{2GMm}{r^3} \)                  |
-| Mass + Light          | Black Hole Event Horizon     | General Relativity         | \( ds^2 = -\left(1 - \frac{r_s}{r}\right) c^2 dt^2 + \left(1 - \frac{r_s}{r}\right)^{-1} dr^2 + r^2 (d\theta^2 + \sin^2\theta \, d\phi^2) \) | \( ds^2 = \left(1 - \frac{r_s}{r} + \kappa \left(\frac{A_{\text{inner}} + A_{\text{outer}}}{A_{\text{total}}}\right)\right) dr^2 + r^2 (d\theta^2 + \sin^2\theta \, d\phi^2) \) |
-| Mass + Gravity        | Mass-Energy Equivalence      | Special Relativity         | \( E = mc^2 \)                                                         | \( E = mc^2 \)                                             |
-| Mass + Gravity        | Relativistic Mass            | Special Relativity         | \( m' = \frac{m}{\sqrt{1 - \frac{v^2}{c^2}}} \)                        | \( m' = \frac{m}{\sqrt{1 - \frac{v^2}{c^2}}} \)            |
-| Mass + Gravity        | Time Dilation                | Special Relativity         | \( \Delta t' = \gamma \Delta t \)                                      | \( \Delta L' = \Delta L \sqrt{1 - \frac{v^2}{c^2}} \)      |
-| Mass + Gravity        | Energy of Light in Gravitational Field | General Relativity | \( E_{\text{out}} = E_{\text{in}} \left( \frac{r_s}{r} \right) \)      | \( E_{\text{out}} = E_{\text{in}} \left( \frac{r_s}{r} \right) \) |
-
-Note: The table includes the general form of the Causal Relativity equation for Black Hole event horizons, but the specific case for \(r = 2r_s\) is:
-
-\[ ds^2 = dr^2 + 4r_s^2 (d\theta^2 + \sin^2\theta \, d\phi^2) \] 
-
-#### Mass+Light+Gravity
-
-**For derivations of these equations, see [Mass+Light+Gravity Derivations](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Papers/Causal%20Relativity/Maths/Derivations%20of%20the%20Equations%3A%20Mass%2BLight%2BGravity.md).**
-
-| Causal Geometry       | Phenomenon                   | Theory                     | Original Equations                                                    | Causal Relativity Equation                                                                                     |
-|-----------------------|------------------------------|----------------------------|-----------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
-| Mass+Light+Gravity    | Unification of SR and GR     | General Relativity         | \( ds^2 = -c^2 dt^2 + dx^2 + dy^2 + dz^2 \)                            | \( ds^2 = g_{ij} dx^i dx^j \)                                                                                  |
-| Mass+Light+Gravity    | Singularities (Black Holes)  | General Relativity         | \( R_{\mu\nu} - \frac{1}{2}g_{\mu\nu}R = \frac{8\pi G}{c^4}T_{\mu\nu} \) | \( ds^2 = \left(1 - \frac{r_s}{r} + \kappa \left(\frac{A_{\text{inner}} + A_{\text{outer}}}{A_{\text{total}}}\right)\right) dr^2 + r^2 (d\theta^2 + \sin^2\theta \, d\phi^2) \) |
-| Mass+Light+Gravity    | Singularities (Big Bang)     | General Relativity         | \( R_{\mu\nu} - \frac{1}{2}g_{\mu\nu}R = \frac{8\pi G}{c^4}T_{\mu\nu} \) | \( ds^2 = \left(1 - \frac{r_s}{r} + \kappa \left(\frac{A_{\text{initial}}}{A_{\text{current}}}\right)\right) dr^2 + r^2 (d\theta^2 + \sin^2\theta \, d\phi^2) \) |
-
-**Thermodynamics**
-
-Unified table for the laws of thermodynamics in Causal Relativity:
-
-| Causal Geometry          | Phenomenon                     | Theory              | Original Equations           | Causal Relativity Equation                                 |
-|--------------------------|--------------------------------|---------------------|------------------------------|------------------------------------------------------------|
-| Mass + Light + Gravity   | Conservation of Energy         | Thermodynamics      | \(\Delta U = Q - W\)         | \(\Delta U = \Delta Q_{\text{space}} - \Delta W_{\text{space}}\) |
-| Mass + Light + Gravity   | Increase in Entropy            | Thermodynamics      | \(dS = \frac{dQ}{T}\)        | \(dS = \Delta S_{\text{space}}\)                           |
-| Mass + Light + Gravity   | Minimum Entropy at 0K          | Thermodynamics      | \(S \rightarrow 0\) as \(T \rightarrow 0\) | \(S_{\text{space}} \rightarrow S_{\text{min}}\) as spatial activity \(\rightarrow 0\) |
-
-**Notes:**
-
-- \(\Delta Q_{\text{space}}\) and \(\Delta W_{\text{space}}\) represent the spatial analogs of heat and work transfer, where energy is redistributed spatially rather than temporally.
-- \(\Delta S_{\text{space}}\) reflects the change in entropy as a measure of spatial energy distribution homogeneity.
-- The third law's spatial interpretation suggests that as spatial activity (akin to molecular motion) approaches zero, the system's entropy reaches a minimum, reflecting the idea of absolute zero in spatial terms.
-
-
 
 ---
 
