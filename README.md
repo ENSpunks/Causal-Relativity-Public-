@@ -7,7 +7,7 @@
 
 ### **Abstract**
 
-The **Theory of Causal Relativity** introduces a theory of relativity in a Space without time. This paper will introduce **Causal Relativity Equations** derived from Relativity that are purely spatial yet can be used to calculate relativistic effects like lensing, simulteniety, and dilation.
+The **Theory of Causal Relativity** introduces a theory of relativity in a Space without time. **Causal Relativity Equations** derived from Relativity that are purely spatial and can successfully be used to calculate and predict relativistic effects.  
 
 ---
 
