@@ -96,6 +96,8 @@ Causal Relativity equations often look similar to the original because the spati
 
 **For derivations of these equations, see [Light+Gravity, Mass+Light, Mass+Mass Derivations](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Papers/Causal%20Relativity/Maths/Derivations%20of%20Equations%3A%20Light%2BGravity%2C%20Mass%2BLight%2C%20Mass%2BGravity.md).**
 
+Here's the entire table with the corrected row for the Black Hole Event Horizon:
+
 | Causal Geometry       | Phenomenon                   | Theory                     | Original Equations                                                    | Causal Relativity Equation                                 |
 |-----------------------|------------------------------|----------------------------|-----------------------------------------------------------------------|------------------------------------------------------------|
 | Light + Gravity       | Length Contraction           | Special Relativity         | \( L = L_0 \sqrt{1 - \frac{v^2}{c^2}} \)                              | \( L' = L \sqrt{1 - \frac{v^2}{c^2}} \)                    |
@@ -109,11 +111,15 @@ Causal Relativity equations often look similar to the original because the spati
 | Mass + Light          | Spacetime Curvature & Geodesics | General Relativity      | \( \frac{d^2 x^\mu}{d\tau^2} + \Gamma^\mu_{\rho\sigma} \frac{dx^\rho}{d\tau} \frac{dx^\sigma}{d\tau} = 0 \) | \( \frac{d^2 x^i}{ds^2} + \Gamma^i_{jk} \frac{dx^j}{ds} \frac{dx^k}{ds} = 0 \) |
 | Mass + Light          | Frame-Dragging               | General Relativity         | \( \Delta \theta = \frac{4GJ}{c^2 r^2} \)                              | \( \Delta \theta = \frac{4GJ}{c^2 r^2} \)                  |
 | Mass + Light          | Tidal Forces                 | General Relativity         | \( F_{\text{tidal}} = \frac{2GMm}{r^3} \)                              | \( F_{\text{tidal}} = \frac{2GMm}{r^3} \)                  |
-| Mass + Light          | Black Hole Event Horizon     | General Relativity         | ds^2 = -\left(1 - \frac{r_s}{r}\right) c^2 dt^2 + \left(1 - \frac{r_s}{r}\right)^{-1} dr^2 + r^2 (d\theta^2 + \sin^2\theta , d\phi^2)                                                                   | ds^2 = dr^2 + 4r_s^2 (d\theta^2 + \sin^2\theta , d\phi^2) |
+| Mass + Light          | Black Hole Event Horizon     | General Relativity         | \( ds^2 = -\left(1 - \frac{r_s}{r}\right) c^2 dt^2 + \left(1 - \frac{r_s}{r}\right)^{-1} dr^2 + r^2 (d\theta^2 + \sin^2\theta \, d\phi^2) \) | \( ds^2 = \left(1 - \frac{r_s}{r} + \kappa \left(\frac{A_{\text{inner}} + A_{\text{outer}}}{A_{\text{total}}}\right)\right) dr^2 + r^2 (d\theta^2 + \sin^2\theta \, d\phi^2) \) |
 | Mass + Gravity        | Mass-Energy Equivalence      | Special Relativity         | \( E = mc^2 \)                                                         | \( E = mc^2 \)                                             |
 | Mass + Gravity        | Relativistic Mass            | Special Relativity         | \( m' = \frac{m}{\sqrt{1 - \frac{v^2}{c^2}}} \)                        | \( m' = \frac{m}{\sqrt{1 - \frac{v^2}{c^2}}} \)            |
 | Mass + Gravity        | Time Dilation                | Special Relativity         | \( \Delta t' = \gamma \Delta t \)                                      | \( \Delta L' = \Delta L \sqrt{1 - \frac{v^2}{c^2}} \)      |
 | Mass + Gravity        | Energy of Light in Gravitational Field | General Relativity | \( E_{\text{out}} = E_{\text{in}} \left( \frac{r_s}{r} \right) \)      | \( E_{\text{out}} = E_{\text{in}} \left( \frac{r_s}{r} \right) \) |
+
+Note: The table includes the general form of the Causal Relativity equation for Black Hole event horizons, but the specific case for \(r = 2r_s\) is:
+
+\[ ds^2 = dr^2 + 4r_s^2 (d\theta^2 + \sin^2\theta \, d\phi^2) \] 
 
 #### Mass+Light+Gravity
 
