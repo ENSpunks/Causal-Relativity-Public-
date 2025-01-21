@@ -1,4 +1,4 @@
-## **Theory of Causal Relativity:  Relativity without Time**
+## **Theory of Causal Relativity:  Relativity in a Timeless Space**
 
 **Will Brown**  
 **January 20, 2025**
@@ -129,7 +129,7 @@ Here's the corrected table with the Big Bang equation added after the Black Hole
 
 ### **Conclusion**
 
-Causal Geometry reinterprets relativity, offering potentially simpler models for spatial phenomena, which might facilitate new understandings or calculations in physics, particularly for complex systems like black holes or cosmic expansion.
+Causal Geometry reinterprets relativity, offering potentially simpler models for spatial phenomena including resolutions to singularities at the Black Holes and the Big Bang without quantized in a Timeless Space.
 
 ---
 
