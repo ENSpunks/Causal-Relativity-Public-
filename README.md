@@ -129,7 +129,7 @@ Here's the corrected table with the Big Bang equation added after the Black Hole
 
 ### **Conclusion**
 
-Causal Relativity offers potentially simpler models for spatial phenomena including predicted resolutions to Black Hole and the Big Bang singularities in a Timeless Space.
+Causal Relativity is a mathematical framework consistent with Relativity, unifies Special and General Relativity dilations into a single spatial phenomena, and predicts  resolutions to Black Hole and the Big Bang singularities in a Timeless Space.
 
 ---
 
