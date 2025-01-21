@@ -7,7 +7,7 @@
 
 ### **Abstract**
 
-The **Theory of Causal Relativity** is a theory of relativity in a space without time. **Causal Relativity Equations** derived from Relativity are purely spatial and can be used to successfully calculate and predict all the relativistic effects.  
+The **Theory of Causal Relativity** is a theory of relativity in a space without time. **Causal Relativity Equations** derived from Relativity are purely spatial and can be used to calculate and predict all the relativistic effects without a time.  
 
 ---
 
