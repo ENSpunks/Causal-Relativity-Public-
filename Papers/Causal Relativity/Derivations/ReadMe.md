@@ -20,7 +20,7 @@
 8. **Gravitational Lensing** ✅
 9. **Spacetime Curvature & Geodesics** ✅
 10. **Frame-Dragging** ✅
-11. **Tidal Forces**
+11. **Tidal Forces** ✅
 12. **Black Hole Event Horizon**
 13. **Mass-Energy Equivalence**
 14. **Relativistic Mass**
