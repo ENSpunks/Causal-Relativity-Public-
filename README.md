@@ -70,7 +70,7 @@ Gravity shells represent gravity, or space curvature and its propagation outward
 
 ![Causal Sphere Diagram](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Causal%20Sphere%20Diagrams/Assets/Causal%20Shell%20Diagram.PNG)​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
 
-The foundations of Causal Relativity are intuitive Alice and Bob Causal Sphere thought experiments in a timeless space.
+The foundations of Causal Relativity are intuitive Alice and Bob Causal Sphere thought experiments in a timeless space, see [Causal Relativity: Alice and Bob's Causal Spheres]().
 
 ---
 
