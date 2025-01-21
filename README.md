@@ -7,7 +7,9 @@
 
 ### **Abstract**
 
-The **Theory of Causal Relativity** is a theory of relativity in a space without time. **Causal Relativity Equations** derived from Relativity are purely spatial and can be used to calculate and predict all the relativistic effects without a time.  
+The **Theory of Causal Relativity** is a theory of relativity in a space without time. The **Causal Relativity Equations** are derived from the fundamental forces and relativistic effects without Spacetime, or any time, creating **Causal Geometry** a frame independent causal 4th spatial coordinate systems by unifying mass, light, and gravity and their interactions in space relative to its own frame and any other frame of mass, light, gravity.  
+
+Even in spacetime works as a 4th spatial coordinate system providing alterntive ways to calculate relativistic effects of phenomena in spacetime without time, such as simultaneity, the twin paradox, and time dilation without time only in space.
 
 ---
 
@@ -42,17 +44,11 @@ The **Theory of Causal Relativity** is a theory of relativity in a space without
 
 ### **Causal Geometry**
 
-**Causal Relativity** introduces **Causal Geometry** a novel framework where traditional spacetime is reimagined through spatial interactions alone utilizing the concept of Causal Spheres.
+**Causal Relativity** is founded on **Causal Geometry** using a series of **Causal Relativity Equations** derived from mass, light and gravity and relativity equations.  
+
+**Causal Geometry** creates an intrinsic 4th spatial coordinate relative to any observer in space without needing time as a dimension.  Even in traditional spacetime **Causal Geometry** works creating a 5th dimension relative to any observer even in a single body universe relative to themselves consistent with spacetime and relativistic effects. 
 
 The Causal Relativity equations are derived from intuitive Alice and Bob Causal Sphere thought experiments in a Timeless Space, see [Causal Relativity: Alice and Bob's Causal Spheres](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Papers/Causal%20Relativity/Casual%20Spheres/Causal%20Relativity%3A%20Alice%20and%20Bob's%20Causal%20Spheres.md).
-
-#### **Causal Sphere Diagram**
-
-![Causal Sphere Diagram](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Causal%20Sphere%20Diagrams/Assets/Causal%20Shell%20Diagram.PNG)​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
-
-- **3 Primary Spheres**: Mass (m), Light (l) and Gravity (g).  Conceptually the 3 Primary Spheres represent Newtonian Mechanics in a space without time.
-- **3 Element Spheres**: Light+Gravity (l+g), Mass+Light (m+l), and Mass+Gravity (m+g). The 3 Primary Spheres pair into 3 Elemental Spheres, or Elements, and representing Special Relativity and General Relativity effects in space without time.
-- **Causal Spheres**: Mass+Light+Gravity (m+l+g). The 3 Primary Spheres unite into **Causal Spheres** for **Causal Geometry** for space without time.
 
 #### **Mass**
 
@@ -60,11 +56,9 @@ The Causal Relativity equations are derived from intuitive Alice and Bob Causal 
 
 Mass Cores represent mass in space including its quantized properties.
 
-#### **Light**
+#### **Causal Relativity Equations for Light**
 
 ![Light](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Causal%20Sphere%20Diagrams/Assets/l.PNG)​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
-
-Here's a table formatted to reflect the electromagnetic phenomena discussed, focusing on light in the context of Causal Relativity:
 
 | Causal Geometry | Phenomenon                    | Theory                     | Original Equations                                      | Causal Relativity Equation                                    |
 |-----------------|-------------------------------|----------------------------|---------------------------------------------------------|---------------------------------------------------------------|
@@ -83,6 +77,10 @@ Here's a table formatted to reflect the electromagnetic phenomena discussed, foc
 ![Gravity](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Causal%20Sphere%20Diagrams/Assets/g.PNG)​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
 
 Gravity shells represent gravity, or space curvature and its propagation outward at the speed of causation (c) relative to mass curvature.
+
+#### **Causal Sphere Diagram**
+
+![Causal Sphere Diagram](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Causal%20Sphere%20Diagrams/Assets/Causal%20Shell%20Diagram.PNG)​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
 
 ---
 
