@@ -51,7 +51,7 @@ Mass Cores represent mass in space including its quantized properties.
 | Mass            | Newton's Gravitational Force | Classical Mechanics        | \( F = \frac{Gm_1 m_2}{r^2} \)                          | \( K = \frac{GM}{r^2} \)                                       |
 | Mass            | Gravitational Curvature (GR)  | General Relativity         | \( R_{\mu\nu} - \frac{1}{2}g_{\mu\nu}R = \frac{8 \pi G}{c^4}T_{\mu\nu} \) | \( K = \frac{GM}{r^2} \)                                   |
 
-#### **Light**
+### **Light**
 
 ![Light](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Causal%20Sphere%20Diagrams/Assets/l.PNG)​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
 
