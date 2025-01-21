@@ -11,7 +11,7 @@
 
 ### Light+Gravity, Mass+Light, Mass+Gravity:
 1. **Length Contraction** ✅
-2. **Time Dilation**
+2. **Time Dilation** ✅
 3. **Stretching (Cosmological)**
 4. **Relativity of Simultaneity**
 5. **Gravitational Time Dilation**
