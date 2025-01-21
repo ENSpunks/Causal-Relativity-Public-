@@ -40,7 +40,7 @@ The **Theory of Causal Relativity** is a theory of relativity in a space without
 
 **Causal Geometry** creates an intrinsic 4th spatial coordinate relative to any observer in space without needing time as a dimension.  Even in traditional spacetime **Causal Geometry** works creating a 5th dimension relative to any observer even in a single body universe relative to themselves consistent with spacetime and relativistic effects. 
 
-#### **Mass**
+### **Mass**
 
 ![Mass](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Causal%20Sphere%20Diagrams/Assets/m.PNG)​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
 
@@ -67,6 +67,12 @@ Mass Cores represent mass in space including its quantized properties.
 ![Gravity](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Causal%20Sphere%20Diagrams/Assets/g.PNG)​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
 
 Gravity shells represent gravity, or space curvature and its propagation outward at the speed of causation (c) relative to mass curvature.
+
+### **Light+Gravity**
+### **Mass+Light**
+### **Mass+Gravity**
+
+### **Light+Mass+Gravity**
 
 #### **Causal Sphere Diagram**
 
