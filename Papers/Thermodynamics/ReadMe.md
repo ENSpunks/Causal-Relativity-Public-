@@ -1,10 +1,10 @@
-Given that the laws of thermodynamics describe energy, entropy, and the behavior of systems in terms of their internal state and interactions, they don't neatly fit into the categories of mass, light, or gravity alone. Instead, they encompass all forms of energy and matter, making them inherently a combination of **Mass + Light + Gravity**. Here's how we can justify this:
+##Laws of Thermodynamics
+
+**Causal Spheres:** Mass + Light + Gravity, as thermodynamic laws involve the interplay of all these elements in terms of energy conservation, entropy, and temperature.
 
 - **Mass**: Represents the internal energy content of systems, which thermodynamics deals with.
 - **Light**: Energy transfer in the form of heat or electromagnetic waves is a direct concern of thermodynamics.
 - **Gravity**: While not always explicitly considered, gravitational potential energy influences thermodynamic systems (like in atmospheric science or stellar interiors).
-
-Therefore, the most fitting category for thermodynamic laws in the context of Causal Spheres would be **Mass + Light + Gravity**, as they involve the interplay of all these elements in terms of energy conservation, entropy, and temperature.
 
 Here's the unified table for the laws of thermodynamics in Causal Relativity:
 
