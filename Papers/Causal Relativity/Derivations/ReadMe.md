@@ -16,7 +16,7 @@
 4. **Relativity of Simultaneity** ✅
 5. **Gravitational Time Dilation** ✅
 6. **Gravitational Redshift** ✅
-7. **Precession**
+7. **Precession** ✅
 8. **Gravitational Lensing**
 9. **Spacetime Curvature & Geodesics**
 10. **Frame-Dragging**
