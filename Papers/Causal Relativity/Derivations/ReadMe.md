@@ -15,7 +15,7 @@
 3. **Stretching (Cosmological)** ✅
 4. **Relativity of Simultaneity** ✅
 5. **Gravitational Time Dilation** ✅
-6. **Gravitational Redshift**
+6. **Gravitational Redshift** ✅
 7. **Precession**
 8. **Gravitational Lensing**
 9. **Spacetime Curvature & Geodesics**
