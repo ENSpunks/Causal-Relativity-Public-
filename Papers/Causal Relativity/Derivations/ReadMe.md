@@ -17,9 +17,9 @@
 5. **Gravitational Time Dilation** ✅
 6. **Gravitational Redshift** ✅
 7. **Precession** ✅
-8. **Gravitational Lensing**
-9. **Spacetime Curvature & Geodesics**
-10. **Frame-Dragging**
+8. **Gravitational Lensing** ✅
+9. **Spacetime Curvature & Geodesics** ✅
+10. **Frame-Dragging** ✅
 11. **Tidal Forces**
 12. **Black Hole Event Horizon**
 13. **Mass-Energy Equivalence**
