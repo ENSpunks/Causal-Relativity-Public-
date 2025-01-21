@@ -96,7 +96,6 @@ Causal Relativity equations often look similar to the original because the spati
 
 **For derivations of these equations, see [Light+Gravity, Mass+Light, Mass+Mass Derivations](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Papers/Causal%20Relativity/Maths/Derivations%20of%20Equations%3A%20Light%2BGravity%2C%20Mass%2BLight%2C%20Mass%2BGravity.md).**
 
-Here's the entire table with the corrected row for the Black Hole Event Horizon:
 
 | Causal Geometry       | Phenomenon                   | Theory                     | Original Equations                                                    | Causal Relativity Equation                                 |
 |-----------------------|------------------------------|----------------------------|-----------------------------------------------------------------------|------------------------------------------------------------|
