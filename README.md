@@ -27,7 +27,7 @@ The **Theory of Causal Relativity** is a theory of relativity in a space without
 
 #### **Causal Relativity Postulates**:
 
-1. Laws of physics are frame independent.
+1. Laws of physics are the same relative to frames of reference.
 2. Mass/energy has quantum properties and a location in space where it curves space.
 3. Gravity and Light propagate at a constant speed relative to curvature caused by mass.
 4. Mass, light, and gravity unify causality that propagate outward from mass, relative to itself and relative to all other frames of reference, in space without time.
