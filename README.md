@@ -129,7 +129,7 @@ Here's the corrected table with the Big Bang equation added after the Black Hole
 
 ### **Conclusion**
 
-Causal Geometry reinterprets relativity, offering potentially simpler models for spatial phenomena including resolutions to singularities at the Black Holes and the Big Bang without quantized in a Timeless Space.
+Causal Relativity offers potentially simpler models for spatial phenomena including predicted resolutions to Black Hole and the Big Bang singularities in a Timeless Space.
 
 ---
 
