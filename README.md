@@ -7,9 +7,7 @@
 
 ### **Abstract**
 
-The **Theory of Causal Relativity** is a theory of relativity in a space without time. The **Causal Relativity Equations** are derived from the fundamental forces and relativistic effects without Spacetime, or any time, creating **Causal Geometry** a frame independent causal 4th spatial coordinate systems by unifying mass, light, and gravity and their interactions in space relative to its own frame and any other frame of mass, light, gravity.  
-
-Even in spacetime works as a 4th spatial coordinate system providing alterntive ways to calculate relativistic effects of phenomena in spacetime without time, such as simultaneity, the twin paradox, and time dilation without time only in space.
+The **Theory of Causal Relativity** is a theory of relativity in a space without time. The **Causal Relativity Equations** are derived from intuitive Alice and Bob **Causal Sphere** thought experiments unifying: mass, light, gravity, thermodynamics, electrodynamics and relativity into intrisic 4th geometric spatial coordinate relative to every frame consistent with relativistic effect of a 4D Spacetime and a space without time, see [Causal Relativity: Alice and Bob's Causal Spheres](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Papers/Causal%20Relativity/Casual%20Spheres/Causal%20Relativity%3A%20Alice%20and%20Bob's%20Causal%20Spheres.md).
 
 ---
 
@@ -47,8 +45,6 @@ Even in spacetime works as a 4th spatial coordinate system providing alterntive 
 **Causal Relativity** is founded on **Causal Geometry** using a series of **Causal Relativity Equations** derived from mass, light and gravity and relativity equations.  
 
 **Causal Geometry** creates an intrinsic 4th spatial coordinate relative to any observer in space without needing time as a dimension.  Even in traditional spacetime **Causal Geometry** works creating a 5th dimension relative to any observer even in a single body universe relative to themselves consistent with spacetime and relativistic effects. 
-
-The Causal Relativity equations are derived from intuitive Alice and Bob Causal Sphere thought experiments in a Timeless Space, see [Causal Relativity: Alice and Bob's Causal Spheres](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Papers/Causal%20Relativity/Casual%20Spheres/Causal%20Relativity%3A%20Alice%20and%20Bob's%20Causal%20Spheres.md).
 
 #### **Mass**
 
