@@ -7,7 +7,7 @@
 4. **Light Propagation** ✅
 5. **Light Speed in Vacuum**
 6. **Light Travel Time**
-7. **Spacetime Curvature**
+7. **Spacetime Curvature** ✅
 
 ### Light+Gravity, Mass+Light, Mass+Gravity:
 1. **Length Contraction** ✅
