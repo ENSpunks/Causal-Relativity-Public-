@@ -7,7 +7,7 @@
 
 ### **Abstract**
 
-The **Theory of Causal Relativity** introduces a theory of relativity in a Space without time. **Causal Relativity Equations** derived from Relativity that are purely spatial and can successfully be used to calculate and predict relativistic effects.  
+The **Theory of Causal Relativity** introduces a theory of relativity in a Space without time. **Causal Relativity Equations** derived from Relativity that are purely spatial and can successfully be used to successfully calculate and predict relativistic effects.  
 
 ---
 
@@ -15,9 +15,9 @@ The **Theory of Causal Relativity** introduces a theory of relativity in a Space
 
 **Causal Relativity** is a novel interpretation of relativity without spacetime or a time dimension.  
 
-If Alice and Bob wanted to meet for a movie, then they need 3 coordinates plus a 4th coordinate, time.  That is wrong.
+If Alice and Bob wanted to meet for a movie, then they need 3 space coordinates plus a 4th coordinate, time.  That is wrong.
 
-**Causal Geometry** and the **Causal Relativity Equations** turn Alice and Bob into **Causal Spheres** unifying their respective mass, light and gravity into an instrinsic coordinate system relative to their own inertial frame if reference in **Timeless Space**.
+**Causal Geometry** and the **Causal Relativity Equations** unify mass, light and gravity into  .
 
 ---
 
