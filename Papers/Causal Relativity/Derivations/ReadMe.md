@@ -3,7 +3,7 @@
 ### Mass, Light, Gravity:
 1. **Newton's Gravitational Force** ✅
 2. **Gravitational Curvature (General Relativity)** ✅
-3. **Spatial Curvature**
+3. **Spatial Curvature** ✅
 4. **Light Propagation** ✅
 5. **Light Speed in Vacuum**
 6. **Light Travel Time**
@@ -23,9 +23,9 @@
 11. **Tidal Forces** ✅
 12. **Black Hole Event Horizon** ✅
 13. **Mass-Energy Equivalence** ✅
-14. **Relativistic Mass**
-15. **Time Dilation (Repeated in the context of mass and gravity)**
-16. **Energy of Light in Gravitational Field**
+14. **Relativistic Mass** ✅
+15. **Time Dilation (Repeated in the context of mass and gravity)** ✅
+16. **Energy of Light in Gravitational Field** ✅
 
 ### Mass+Light+Gravity:
 1. **Unification of Special Relativity and General Relativity**
