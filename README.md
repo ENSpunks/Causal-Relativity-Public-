@@ -46,6 +46,11 @@ The **Causal Relativity** framework is developed on the **Causal Relativity Equa
 
 Mass Cores represent mass in space including its quantized properties.
 
+| Causal Geometry | Phenomenon                    | Theory                     | Original Equations                                      | Causal Relativity Equation                                    |
+|-----------------|-------------------------------|----------------------------|---------------------------------------------------------|---------------------------------------------------------------|
+| Mass            | Newton's Gravitational Force | Classical Mechanics        | \( F = \frac{Gm_1 m_2}{r^2} \)                          | \( K = \frac{GM}{r^2} \)                                       |
+| Mass            | Gravitational Curvature (GR)  | General Relativity         | \( R_{\mu\nu} - \frac{1}{2}g_{\mu\nu}R = \frac{8 \pi G}{c^4}T_{\mu\nu} \) | \( K = \frac{GM}{r^2} \)                                   |
+
 #### **Causal Relativity Equations for Light**
 
 ![Light](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Causal%20Sphere%20Diagrams/Assets/l.PNG)​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
@@ -68,6 +73,10 @@ Mass Cores represent mass in space including its quantized properties.
 
 Gravity shells represent gravity, or space curvature and its propagation outward at the speed of causation (c) relative to mass curvature.
 
+| Causal Geometry | Phenomenon                    | Theory                     | Original Equations                                      | Causal Relativity Equation                                    |
+|-----------------|-------------------------------|----------------------------|---------------------------------------------------------|---------------------------------------------------------------|
+| Gravity         | Spacetime Curvature           | General Relativity         | \( ds^2 = -c^2 dt^2 + dx^2 + dy^2 + dz^2 \)              | \( ds^2 = g_{ij} dx^i dx^j \)                                  |
+
 ### **Light+Gravity**
 
 This table summarizes how key aspects of electrodynamics, traditionally involving time, might be described in a framework where causality is expressed through spatial interactions as a "Light + Gravity" pair in Causal Geometry and Causal Relativity:
@@ -87,7 +96,21 @@ This table summarizes how key aspects of electrodynamics, traditionally involvin
 
 ### **Mass+Light**
 
-### **Mass+Gravity**
+### **Mass + Light**
+
+| Causal Geometry | Phenomenon                    | Theory                     | Original Equations                                      | Causal Relativity Equation                                    |
+|-----------------|-------------------------------|----------------------------|---------------------------------------------------------|---------------------------------------------------------------|
+| Mass + Light    | Precession                   | General Relativity         | \( \Delta \phi = \frac{6 \pi G M}{c^2 a (1 - e^2)} \)   | \( \Delta \phi = \frac{6 \pi G M}{c^2 a (1 - e^2)} \)         |
+| Mass + Light    | Gravitational Lensing        | General Relativity         | \( \theta = \frac{4GM}{c^2 R} \)                        | \( \theta = \frac{4GM}{c^2 R} \)                              |
+| Mass + Light    | Spacetime Curvature & Geodesics | General Relativity      | Geodesic equation                                       | \( \frac{d^2 x^i}{ds^2} + \Gamma^i_{jk} \frac{dx^j}{ds} \frac{dx^k}{ds} = 0 \) |
+
+### **Mass + Gravity**
+
+| Causal Geometry | Phenomenon                    | Theory                     | Original Equations                                      | Causal Relativity Equation                                    |
+|-----------------|-------------------------------|----------------------------|---------------------------------------------------------|---------------------------------------------------------------|
+| Mass + Gravity  | Mass-Energy Equivalence      | Special Relativity         | \( E = mc^2 \)                                          | \( E = mc^2 \)                                                |
+| Mass + Gravity  | Relativistic Mass            | Special Relativity         | \( m' = \frac{m}{\sqrt{1 - \frac{v^2}{c^2}}} \)         | \( m' = \frac{m}{\sqrt{1 - \frac{v^2}{c^2}}} \)               |
+| Mass + Gravity  | Energy of Light in Gravitational Field | General Relativity | \( E_{\text{out}} = E_{\text{in}} \left( \frac{r_s}{r} \right) \) | \( E_{\text{out}} = E_{\text{in}} \left( \frac{r_s}{r} \right) \) |
 
 ### **Light+Mass+Gravity**
 
