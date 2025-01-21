@@ -1,0 +1,10 @@
+Stretching of Spacetime:
+
+Original: [ ds^2 = -c^2 dt^2 + a(t)^2 \left( \frac{dr^2}{1 - k r^2} + r^2 (d\theta^2 + \sin^2\theta , d\phi^2) \right) ]
+
+Causal Relativity:
+
+Spatial metric without time: [ ds^2 = g_{ij} dx^i dx^j ]
+Problem: For an expanding universe with (a(t) = t) and (k = 0), describe the spatial metric.
+
+In this case: [ ds^2 = t^2 \left( dr^2 + r^2 (d\theta^2 + \sin^2\theta , d\phi^2) \right) ]
