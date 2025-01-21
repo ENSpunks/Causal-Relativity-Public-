@@ -52,10 +52,6 @@
 
 ### **Mass + Light + Gravity**
 
-Apologies for the oversight. Here's the corrected table that merges the laws of thermodynamics with the existing **Mass + Light + Gravity** table:
-
-### **Mass + Light + Gravity**
-
 | Causal Geometry          | Phenomenon                     | Theory                     | Original Equations                                                    | Causal Relativity Equation                                                                                     |
 |--------------------------|--------------------------------|----------------------------|-----------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
 | Mass+Light+Gravity       | Unification of SR and GR       | General Relativity         | \( ds^2 = -c^2 dt^2 + dx^2 + dy^2 + dz^2 \)                            | \( ds^2 = g_{ij} dx^i dx^j \)                                                                                  |
@@ -71,5 +67,4 @@ Apologies for the oversight. Here's the corrected table that merges the laws of 
 - \(\Delta S_{\text{space}}\) reflects the change in entropy as a measure of spatial energy distribution homogeneity.
 - The third law's spatial interpretation suggests that as spatial activity (akin to molecular motion) approaches zero, the system's entropy reaches a minimum, reflecting the idea of absolute zero in spatial terms.
 
-- 
 
