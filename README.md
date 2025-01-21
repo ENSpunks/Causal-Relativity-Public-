@@ -137,9 +137,10 @@ Causal Relativity offers potentially simpler models for spatial phenomena includ
 
 **[Papers](https://github.com/ENSpunks/Causal-Relativity-Public-/tree/main/Papers)**
 - **[Causal Relativity:](https://github.com/ENSpunks/Causal-Relativity-Public-/tree/main/Papers/Causal%20Relativity)**
-  - Derivations of Equations: Mass, Light, Gravity
-  - Derivations of Equations: Light+Gravity, Mass+Light, Mass+Mass
-  - Derivations of Equations: Mass+Light+Gravity
+  - Derivations of Equations:
+      - Mass, Light, Gravity
+      - Light+Gravity, Mass+Light, Mass+Mass
+      - Mass+Light+Gravity
   - Black Holes: Event Horizons and Singularities in Spatial Terms
   - The Big Bang: A Spatial Interpretation in Causal Relativity
     
