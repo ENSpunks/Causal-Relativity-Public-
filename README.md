@@ -145,9 +145,15 @@ The **Causal Relativity** framework is developed on the **Causal Relativity Equa
 
 [Big Bang](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Papers/Causal%20Relativity/The%20Big%20Bang.md)
 
-| **Causal Geometry** | **Phenomenon**                   | **Theory**             | **Original Equations**                                                                                       | **Causal Relativity Equation**                                                                                                                                              |
-|---------------------|-----------------------------------|------------------------|-------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Big Bang Causal Sphere**        | Big Bang Initial Information     | Cosmology              | \( I_{\text{universe, initial}} = \frac{A}{4l_P^2} \)                                                        | \( I_{\text{universe, initial, causal}} = \frac{A_{\text{initial}}}{4l_P^2} \left(1 + f(K)\right) \), where \( f(K) \) is a function of curvature \( K \).                  |
+Here’s an updated table incorporating the dark matter and dark energy equations, along with their respective derivations and links to the derivation papers:
+
+| **Equation Name**                         | **Original Equation**                                                       | **Description**                                                         | **Derivation Link**                                                                                   |
+|-------------------------------------------|----------------------------------------------------------------------------|-------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
+| **Black Hole Event Horizon Information**  | \( S = \frac{k A}{4 G \hbar} \)                                               | Equation for the entropy of a black hole in causal relativity, relating area and quantum effects.         | [Black Hole Event Horizon Information Derivation](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Derivations/Black%20Hole%20Event%20Horizon%20Information.md) |
+| **Dark Matter Density (Causal Relativity)** | \( \rho_{\text{DM, causal}}(t) = \frac{C H(t)^2}{8 \pi G} \left( 1 + \Delta \rho_{\text{DM}} \right) \) | Dark matter density in causal relativity, adjusted by causal quantum fluctuations.                           | [Dark Matter Derivation](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Derivations/Dark%20Matter.md) |
+| **Dark Energy Density from Big Bang**      | \( \rho_{\text{DE}}(t) = \frac{\Lambda}{8 \pi G} \)                        | Dark energy density equation describing the energy density at the time of the Big Bang.                     | [Dark Energy Derivation](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Derivations/Dark%20Energy%20Density%20from%20the%20Time%20of%20the%20Big%20Bang.md) |
+
+This table now includes the dark matter equation and dark energy density equation, and provides the necessary links to their derivation papers.
 
 ### **Black Hole + Light Core**
 
