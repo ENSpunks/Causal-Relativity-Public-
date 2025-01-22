@@ -28,9 +28,9 @@ The **Theory of Causal Relativity** is a theory of relativity in a space without
 #### **Causal Relativity Postulates**:
 
 1. Laws of physics are the same relative to all frames of reference.
-2. Mass/energy has quantum properties and a location in space where it curves space.
-3. Gravity and Light propagate at a constant speed relative to curvature caused by mass.
-4. Mass, light, and gravity unify causality that propagate outward from mass, relative to itself and relative to all other frames of reference, in space without time.
+2. Mass causes space to curve, relative to the location of mass space, and curvature propagtes outward at a constant speed.
+3. Entropy causes quantized mass to emit light that propagates outward from mass curvature in space at a constant.
+4. Mass, light, and gravity unifiy in space relative to any frame of reference and relative to its own frame creating a fourth spatial coordinate relative to all causal interactions in space.
 
 ---
 
