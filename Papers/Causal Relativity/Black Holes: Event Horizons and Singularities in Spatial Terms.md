@@ -1,8 +1,3 @@
-The equation you provided:
-
-\[ S_{BH,\text{causal}} = \frac{A}{4l_P^2} \left(1 + \frac{\Delta A}{A}\right) \]
-
-is not explicitly included in the paper as presented. Here's how the paper can be redrafted to include this equation:
 
 **Title:**  
 *Black Holes: Event Horizons and Singularities in Spatial Terms*
