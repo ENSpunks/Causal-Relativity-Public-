@@ -9,6 +9,8 @@
 
 The **Theory of Causal Relativity** is a theory interpreted from **Causal Relativity Equations** derived for t=0 unifying Classical Mechanics, Special Relativity, Thermodynamics, Electrodynamics and Quantum Mechanics. 
 
+Try any physics problem that is "Spacetime dependent", even time dependent Quantum Mechanics and use **Causal Relativity Equations** to solve it in a simplified 3D spatial equation without Spacetime, or any time dimension.
+
 ---
 
 ### **Introduction**
