@@ -143,6 +143,18 @@ This table summarizes how key aspects of electrodynamics, traditionally involvin
 
 ---
 
+### **Quantum Causal Spheres**
+
+| **Causal Geometry** | **Phenomenon**                   | **Theory**             | **Original Equations**                                                                                       | **Causal Relativity Equation**                                                                                                                                              |
+|----------------------|-----------------------------------|------------------------|-------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Quanta**           | Quantum State Evolution          | Quantum Mechanics      | \( i\hbar \frac{\partial \psi(\mathbf{r}, t)}{\partial t} = \hat{H} \psi(\mathbf{r}, t) \)                   | \( \hat{H}_{\text{causal}} \psi(\mathbf{r}) = E_{\text{causal}} \psi(\mathbf{r}) \)                                                                                       |
+| **Quanta**           | Particle in Spherical Well       | Quantum Mechanics      | \( E_n = \frac{\hbar^2}{2m} \left(\frac{n\pi}{R}\right)^2 \)                                                 | \( E_{n,\text{causal}} = \frac{\hbar^2}{2m} \left(\frac{n\pi}{R_{\text{causal}}}\right)^2 \), where \( R_{\text{causal}} = R \cdot \left(1 + \frac{\Delta R}{R}\right) \)    |
+| **Quanta**           | Event Horizon Information        | General Relativity     | \( S_{BH} = \frac{A}{4l_P^2} \)                                                                              | \( S_{BH,\text{causal}} = \frac{A}{4l_P^2} \left(1 + \frac{\Delta A}{A}\right) \), where \( \Delta A \) accounts for curvature and boundary thickness.                     |
+| **Quanta**           | Information Bound                | Holographic Principle  | \( I \leq \frac{A}{4l_P^2} \)                                                                                | \( I_{\text{causal}} = \frac{A}{4l_P^2} \left(1 + \frac{\Delta A}{A}\right) \)                                                                                            |
+| **Cosmology**        | Big Bang Initial Information     | Cosmology              | \( I_{\text{universe, initial}} = \frac{A}{4l_P^2} \)                                                        | \( I_{\text{universe, initial, causal}} = \frac{A_{\text{initial}}}{4l_P^2} \left(1 + f(K)\right) \), where \( f(K) \) is a function of curvature \( K \).                  |
+
+---
+
 ### **Conclusion**
 
 Causal Relativity is a mathematical framework consistent with Relativity, unifies Special and General Relativity dilations into a single spatial phenomena, and predicts  resolutions to Black Hole and the Big Bang singularities in a Timeless Space.
