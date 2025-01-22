@@ -212,12 +212,16 @@ The **Causal Relativity** framework is developed on the **Causal Relativity Equa
 - Euclid. (~300 BCE). *Elements*. Translated by T. L. Heath (1908). Cambridge University Press.  
   
 - Newton, I. (1687). *Philosophiæ Naturalis Principia Mathematica*. London: Royal Society.
+  
+- Maxwell, J. C. (1865). "A Dynamical Theory of the Electromagnetic Field". *Philosophical Transactions of the Royal Society of London*, 155, 459-512
 
 - Abbott, E. A. (1884). *Flatland: A Romance of Many Dimensions*. London: Seeley & Co.
 
 - Einstein, A. (1905). "Zur Elektrodynamik bewegter Körper" (On the Electrodynamics of Moving Bodies). *Annalen der Physik*, 322(10), 891-921.
 
 - Einstein, A. (1916). "Die Grundlage der allgemeinen Relativitätstheorie" (The Foundation of the General Theory of Relativity). *Annalen der Physik*, 354(7), 769-822.
+  
+- Heisenberg, W. (1927). "Über den anschaulichen Inhalt der quantentheoretischen Kinematik und Mechanik". *Zeitschrift für Physik*, 43(3-4), 172-198.
 
 - Lorentz, H. A., Einstein, A., Minkowski, H., & Weyl, H. (1952). *The Principle of Relativity: A Collection of Original Memoirs on the Special and General Theory of Relativity*. Dover Publications.
 
