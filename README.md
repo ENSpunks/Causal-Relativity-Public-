@@ -139,23 +139,24 @@ The **Causal Relativity** framework is developed on the **Causal Relativity Equa
 
 ### **Big Bang**
 
-![](https://raw.githubusercontent.com/ENSpunks/Causal-Relativity-Public-/refs/heads/main/Causal%20Sphere%20Diagrams/Assets/Big%20Bang.PNG)​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
+![Big Bang](https://raw.githubusercontent.com/ENSpunks/Causal-Relativity-Public-/refs/heads/main/Causal%20Sphere%20Diagrams/Assets/Big%20Bang.PNG)​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
+
+[Big Bang](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Papers/Causal%20Relativity/The%20Big%20Bang.md)
 
 | **Causal Geometry** | **Phenomenon**                   | **Theory**             | **Original Equations**                                                                                       | **Causal Relativity Equation**                                                                                                                                              |
 |---------------------|-----------------------------------|------------------------|-------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Black Hole Causal Sphere**           | Event Horizon Information        | General Relativity     | \( S_{BH} = \frac{A}{4l_P^2} \)                                                                              | \( S_{BH,\text{causal}} = \frac{A}{4l_P^2} \left(1 + \frac{\Delta A}{A}\right) \), where \( \Delta A \) accounts for curvature and boundary thickness.                     |
 
-[Big Bang](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Papers/Causal%20Relativity/The%20Big%20Bang.md)
-
 ### **Black Hole + Light Core**
 
 ![Black Hole + Light Core](https://raw.githubusercontent.com/ENSpunks/Causal-Relativity-Public-/refs/heads/main/Causal%20Sphere%20Diagrams/Assets/Black%20Hole.PNG)​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
+
+[Black Hole/Light Core](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Papers/Causal%20Relativity/Black%20Holes%3A%20Event%20Horizons%20and%20Singularities%20in%20Spatial%20Terms.md)
 
 | **Causal Geometry** | **Phenomenon**                   | **Theory**             | **Original Equations**                                                                                       | **Causal Relativity Equation**                                                                                                                                              |
 |---------------------|-----------------------------------|------------------------|-------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Big Bang Causal Sphere**        | Big Bang Initial Information     | Cosmology              | \( I_{\text{universe, initial}} = \frac{A}{4l_P^2} \)                                                        | \( I_{\text{universe, initial, causal}} = \frac{A_{\text{initial}}}{4l_P^2} \left(1 + f(K)\right) \), where \( f(K) \) is a function of curvature \( K \).                  |
 
-[Black Hole/Light Core](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Papers/Causal%20Relativity/Black%20Holes%3A%20Event%20Horizons%20and%20Singularities%20in%20Spatial%20Terms.md)
 
 ---
 
