@@ -27,10 +27,10 @@ The **Theory of Causal Relativity** is a theory of relativity in a space without
 
 #### **Causal Relativity Postulates**:
 
-1. Laws of physics are the same relative to frames of reference.
-2. Mass/energy has quantum properties and a location in space where it curves space.
-3. Gravity and Light propagate at a constant speed relative to curvature caused by mass.
-4. Mass, light, and gravity unify causality that propagate outward from mass, relative to itself and relative to all other frames of reference, in space without time.
+1. Laws of physics are the same relative to all frames of reference.
+2. Mass causes space to curve, relative to the location of mass space, and curvature propagtes outward at a constant speed.
+3. Entropy causes quantized mass to emit light that propagates outward from mass curvature in space at a constant the speed.
+4. Mass, light, and gravity unifiy in space relative to any frame of reference and relative to its own frame creating a fourth spatial coordinate relative to all causal interactions in space.
 
 ---
 
@@ -43,8 +43,6 @@ The **Causal Relativity** framework is developed on the **Causal Relativity Equa
 ### **Mass**
 
 ![Mass](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Causal%20Sphere%20Diagrams/Assets/m.PNG)​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
-
-Mass Cores represent mass in space including its quantized properties.
 
 | Causal Geometry | Phenomenon                    | Theory                     | Original Equations                                      | Causal Relativity Equation                                    |
 |-----------------|-------------------------------|----------------------------|---------------------------------------------------------|---------------------------------------------------------------|
@@ -61,17 +59,10 @@ Mass Cores represent mass in space including its quantized properties.
 | Light           | Electromagnetic Induction      | Classical Electromagnetism | \(\nabla \times \mathbf{B} = \mu_0 \mathbf{J} + \mu_0 \epsilon_0 \frac{\partial \mathbf{E}}{\partial t}\) | \(\nabla \times \mathbf{B} = \mu_0 \mathbf{J} + \mu_0 \epsilon_0 \kappa \nabla \cdot \mathbf{E}\) |
 | Light           | Light Wave Equation in Vacuum  | Classical Electromagnetism | \(\nabla^2 \mathbf{E} - \frac{1}{c^2} \frac{\partial^2 \mathbf{E}}{\partial t^2} = 0\) | \((1 - \kappa^2) \nabla^2 \mathbf{E} = 0\)                    |
 
-**Notes:**
-
-- \(\kappa\) represents a spatial causality coefficient in Causal Relativity, which would need to be defined or derived from the interaction dynamics between causal spheres.
-- The term \(\frac{1}{c}\) in the Causal Relativity wave equation is suggested to equate \(\kappa\) with the speed of light in terms of spatial causality, but this is a speculative interpretation for this framework. 
-- These equations aim to illustrate how electromagnetic phenomena might be described without a time component, focusing on spatial causality instead.
-
 #### **Gravity**
 
 ![Gravity](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Causal%20Sphere%20Diagrams/Assets/g.PNG)​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
 
-Gravity shells represent gravity, or space curvature and its propagation outward at the speed of causation (c) relative to mass curvature.
 
 | Causal Geometry | Phenomenon                    | Theory                     | Original Equations                                      | Causal Relativity Equation                                    |
 |-----------------|-------------------------------|----------------------------|---------------------------------------------------------|---------------------------------------------------------------|
@@ -81,8 +72,6 @@ Gravity shells represent gravity, or space curvature and its propagation outward
 
 ![Light + Gravity](https://raw.githubusercontent.com/ENSpunks/Causal-Relativity-Public-/refs/heads/Quantum-Mechanics/Causal%20Sphere%20Diagrams/Assets/l%2Bg.PNG)​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
 
-This table summarizes how key aspects of electrodynamics, traditionally involving time, might be described in a framework where causality is expressed through spatial interactions as a "Light + Gravity" pair in Causal Geometry and Causal Relativity:
-
 | Causal Geometry   | Phenomenon                | Theory              | Original Equations                                                                 | Causal Relativity Equation                                                                                             |
 |-------------------|---------------------------|---------------------|------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
 | Light + Gravity   | Electromagnetic Wave Propagation | Electrodynamics     | \(\nabla \times \mathbf{E} = -\frac{\partial \mathbf{B}}{\partial t}\)              | \(\nabla \times \mathbf{E} = -\kappa \nabla \cdot \mathbf{B}\)                                                          |
@@ -90,11 +79,6 @@ This table summarizes how key aspects of electrodynamics, traditionally involvin
 | Light + Gravity   | Light Wave Equation in Vacuum | Electrodynamics     | \(\nabla^2 \mathbf{E} - \frac{1}{c^2} \frac{\partial^2 \mathbf{E}}{\partial t^2} = 0\) | \((1 - \kappa^2) \nabla^2 \mathbf{E} = 0\)                                                                              |
 | Light + Gravity   | Jefimenko's Equations     | Electrodynamics     | Complex and dependent on charge and current distribution                            | Spatial causality terms replacing temporal derivatives; exact form needs further derivation                            |
 | Light + Gravity   | Liénard–Wiechert Potentials | Electrodynamics    | \(\phi = \frac{q}{4\pi \epsilon_0} \frac{1}{\left| \mathbf{r} - \mathbf{r}_q(t_{\text{ret}}) \right| - \frac{\mathbf{v}_q(t_{\text{ret}})}{c} \cdot (\mathbf{r} - \mathbf{r}_q(t_{\text{ret}}))}\)<br> \(\mathbf{A} = \frac{\mu_0}{4\pi} \frac{q\mathbf{v}_q(t_{\text{ret}})}{\left| \mathbf{r} - \mathbf{r}_q(t_{\text{ret}}) \right| - \frac{\mathbf{v}_q(t_{\text{ret}})}{c} \cdot (\mathbf{r} - \mathbf{r}_q(t_{\text{ret}}))}\) | Spatial causality terms replacing retardation time; exact equations are speculative here                               |
-
-**Notes:**
-
-- **\(\kappa\)**: Represents a spatial causality coefficient, introduced to substitute for time derivatives in the equations, indicating how electromagnetic interactions might occur through spatial causality rather than temporal dynamics.
-- **Retardation**: In traditional physics, retardation accounts for the time light takes to travel from a source to an observer. In Causal Relativity, the concept of retardation would be reimagined as spatial causality, where effects of changes in charge or current are immediately felt spatially rather than delayed by time.
 
 ### **Mass + Light**
 
@@ -120,38 +104,24 @@ This table summarizes how key aspects of electrodynamics, traditionally involvin
 
 ![Mass + Light + Gravity](https://raw.githubusercontent.com/ENSpunks/Causal-Relativity-Public-/refs/heads/Quantum-Mechanics/Causal%20Sphere%20Diagrams/Assets/m%2Bl%2Bg.PNG)​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
 
-### **Causal Geometry Phenomena and Equations**
+| **Causal Geometry** | **Phenomenon**                   | **Theory**             | **Original Equations**                                                                                       | **Causal Relativity Equation**                                                                                                                                              |
+|---------------------|-----------------------------------|------------------------|-------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Quanta**           | Quantum State Evolution          | Quantum Mechanics      | \( i \hbar \frac{\partial \psi(\mathbf{r}, t)}{\partial t} = \hat{H} \psi(\mathbf{r}, t) \)                   | \( \hat{H}_{\text{causal}} \psi(\mathbf{r}) = E_{\text{causal}} \psi(\mathbf{r}) \)                                                                                       |
+| **Quanta**           | Particle in Spherical Well       | Quantum Mechanics      | \( E_n = \frac{\hbar^2}{2m} \left(\frac{n\pi}{R}\right)^2 \)                                                 | \( E_{n,\text{causal}} = \frac{\hbar^2}{2m} \left(\frac{n\pi}{R_{\text{causal}}}\right)^2 \), where \( R_{\text{causal}} = R \cdot \left(1 + \frac{\Delta R}{R}\right) \)    |
+| **Quanta**           | Time-Dependent Harmonic Oscillator | Quantum Mechanics      | \( i\hbar \frac{\partial \psi(x,t)}{\partial t} = \left[ -\frac{\hbar^2}{2m} \frac{\partial^2}{\partial x^2} + \frac{1}{2} m \omega^2 x^2 + \lambda x \cos(\omega_0 t) \right] \psi(x,t) \) | \( \hat{H}_{\text{causal}} \psi(\mathbf{r}) = E_{\text{causal}} \psi(\mathbf{r}) \), where \( \hat{H} = \frac{-\hbar^2}{2m} \frac{\partial^2}{\partial x^2} + \frac{1}{2} m \omega^2 x^2 + \lambda x \cos(kx) \)   |
+| **Quanta**           | Energy Eigenvalue Problem        | Quantum Mechanics      | \( \hat{H} \psi(x) = E \psi(x) \)                                                                                                                                            | \( \hat{H}_{\text{causal}} \psi(\mathbf{r}) = E_{\text{causal}} \psi(\mathbf{r}) \), where \( \hat{H} = \frac{-\hbar^2}{2m} \frac{\partial^2}{\partial x^2} + \frac{1}{2} m \omega^2 x^2 + \lambda x \cos(kx) \)  |
+| **Quanta**           | Spatial Oscillatory Potential     | Quantum Mechanics      | \( \lambda x \cos(\omega_0 t) \)                                                                                                                                           | \( \lambda x \cos(kx) \)                                                                                                                            |
+| **Quanta**           | Wave Function Evolution          | Quantum Mechanics      | \( \psi(x,t) \)                                                                                                                                                              | \( \psi(\mathbf{r}) \)                                                                                                                              |
+| **Quanta**           | Heisenberg Uncertainty Principle | Quantum Mechanics      | \( \Delta x \Delta p \geq \frac{\hbar}{2} \)                                                                                                                                | \( \Delta x \Delta p \geq \frac{\hbar}{2} \) (Spatial distribution based uncertainty, same principle applied in space)                         |
+| **Quanta**           | Event Horizon Information        | General Relativity     | \( S_{BH} = \frac{A}{4l_P^2} \)                                                                              | \( S_{BH,\text{causal}} = \frac{A}{4l_P^2} \left(1 + \frac{\Delta A}{A}\right) \), where \( \Delta A \) accounts for curvature and boundary thickness.                     |
+| **Cosmology**        | Big Bang Initial Information     | Cosmology              | \( I_{\text{universe, initial}} = \frac{A}{4l_P^2} \)                                                        | \( I_{\text{universe, initial, causal}} = \frac{A_{\text{initial}}}{4l_P^2} \left(1 + f(K)\right) \), where \( f(K) \) is a function of curvature \( K \).                  |
+| **Quanta**           | Information Bound                | Holographic Principle  | \( I \leq \frac{A}{4l_P^2} \)                                                                                | \( I_{\text{causal}} = \frac{A}{4l_P^2} \left(1 + \frac{\Delta A}{A}\right) \)                                                                                            |
 
-| **Causal Geometry**    | **Phenomenon**             | **Theory**             | **Original Equations**                                                                                   | **Causal Relativity Equation**                                                                                                                              |
-|-------------------------|---------------------------|------------------------|----------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Mass+Light+Gravity      | Unification of SR and GR  | General Relativity     | \( ds^2 = -c^2 dt^2 + dx^2 + dy^2 + dz^2 \)                                                              | \( ds^2 = g_{ij} dx^i dx^j \)                                                                                                                              |
-| Mass+Light+Gravity      | Singularities (Black Holes) | General Relativity   | Einstein Field Equations                                                                                | \( ds^2 = \left(1 - \frac{r_s}{r} + \kappa \left(\frac{A_{\text{inner}} + A_{\text{outer}}}{A_{\text{total}}}\right)\right) dr^2 + r^2 (d\theta^2 + \sin^2\theta d\phi^2) \) |
-| Mass+Light+Gravity      | Singularities (Big Bang)  | General Relativity     | Einstein Field Equations                                                                                | \( ds^2 = \left(1 - \frac{r_s}{r} + \kappa \left(\frac{A_{\text{initial}}}{A_{\text{current}}}\right)\right) dr^2 + r^2 (d\theta^2 + \sin^2\theta d\phi^2) \)               |
-| Mass+Light+Gravity      | Conservation of Energy    | Thermodynamics         | \( \Delta U = Q - W \)                                                                                  | \( \Delta U = \Delta Q_{\text{space}} - \Delta W_{\text{space}} \)                                                                                         |
-| Mass+Light+Gravity      | Increase in Entropy       | Thermodynamics         | \( dS = \frac{dQ}{T} \)                                                                                 | \( dS = \Delta S_{\text{space}} \)                                                                                                                          |
-| Mass+Light+Gravity      | Minimum Entropy at 0K     | Thermodynamics         | \( S \rightarrow 0 \) as \( T \rightarrow 0 \)                                                          | \( S_{\text{space}} \rightarrow S_{\text{min}} \) as spatial activity \( \rightarrow 0 \)                                                                 |
-
-**Notes:**
-- The inclusion of thermodynamics in this table reflects the idea that these laws apply universally to systems involving mass, light, and gravity within your theory of Causal Relativity.
-- \(\Delta Q_{\text{space}}\) and \(\Delta W_{\text{space}}\) represent the spatial analogs of heat and work transfer, where energy is redistributed spatially rather than temporally.
-- \(\Delta S_{\text{space}}\) reflects the change in entropy as a measure of spatial energy distribution homogeneity.
-- The third law's spatial interpretation suggests that as spatial activity (akin to molecular motion) approaches zero, the system's entropy reaches a minimum, reflecting the idea of absolute zero in spatial terms.
+---
 
 ### **Causal Sphere Diagram**
 
 ![Causal Sphere Diagram](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Causal%20Sphere%20Diagrams/Assets/Causal%20Shell%20Diagram.PNG)​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
-
----
-
-### **Quantum Causal Spheres**
-
-| **Causal Geometry** | **Phenomenon**                   | **Theory**             | **Original Equations**                                                                                       | **Causal Relativity Equation**                                                                                                                                              |
-|----------------------|-----------------------------------|------------------------|-------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Quanta**           | Quantum State Evolution          | Quantum Mechanics      | \( i\hbar \frac{\partial \psi(\mathbf{r}, t)}{\partial t} = \hat{H} \psi(\mathbf{r}, t) \)                   | \( \hat{H}_{\text{causal}} \psi(\mathbf{r}) = E_{\text{causal}} \psi(\mathbf{r}) \)                                                                                       |
-| **Quanta**           | Particle in Spherical Well       | Quantum Mechanics      | \( E_n = \frac{\hbar^2}{2m} \left(\frac{n\pi}{R}\right)^2 \)                                                 | \( E_{n,\text{causal}} = \frac{\hbar^2}{2m} \left(\frac{n\pi}{R_{\text{causal}}}\right)^2 \), where \( R_{\text{causal}} = R \cdot \left(1 + \frac{\Delta R}{R}\right) \)    |
-| **Quanta**           | Event Horizon Information        | General Relativity     | \( S_{BH} = \frac{A}{4l_P^2} \)                                                                              | \( S_{BH,\text{causal}} = \frac{A}{4l_P^2} \left(1 + \frac{\Delta A}{A}\right) \), where \( \Delta A \) accounts for curvature and boundary thickness.                     |
-| **Quanta**           | Information Bound                | Holographic Principle  | \( I \leq \frac{A}{4l_P^2} \)                                                                                | \( I_{\text{causal}} = \frac{A}{4l_P^2} \left(1 + \frac{\Delta A}{A}\right) \)                                                                                            |
-| **Cosmology**        | Big Bang Initial Information     | Cosmology              | \( I_{\text{universe, initial}} = \frac{A}{4l_P^2} \)                                                        | \( I_{\text{universe, initial, causal}} = \frac{A_{\text{initial}}}{4l_P^2} \left(1 + f(K)\right) \), where \( f(K) \) is a function of curvature \( K \).                  |
 
 ---
 
