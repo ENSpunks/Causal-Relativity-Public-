@@ -44,8 +44,6 @@ The **Causal Relativity** framework is developed on the **Causal Relativity Equa
 
 ![Mass](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Causal%20Sphere%20Diagrams/Assets/m.PNG)​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
 
-Mass Cores represent mass in space including its quantized properties.
-
 | Causal Geometry | Phenomenon                    | Theory                     | Original Equations                                      | Causal Relativity Equation                                    |
 |-----------------|-------------------------------|----------------------------|---------------------------------------------------------|---------------------------------------------------------------|
 | Mass            | Newton's Gravitational Force | Classical Mechanics        | \( F = \frac{Gm_1 m_2}{r^2} \)                          | \( K = \frac{GM}{r^2} \)                                       |
@@ -71,7 +69,6 @@ Mass Cores represent mass in space including its quantized properties.
 
 ![Gravity](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Causal%20Sphere%20Diagrams/Assets/g.PNG)​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
 
-Gravity shells represent gravity, or space curvature and its propagation outward at the speed of causation (c) relative to mass curvature.
 
 | Causal Geometry | Phenomenon                    | Theory                     | Original Equations                                      | Causal Relativity Equation                                    |
 |-----------------|-------------------------------|----------------------------|---------------------------------------------------------|---------------------------------------------------------------|
@@ -81,8 +78,6 @@ Gravity shells represent gravity, or space curvature and its propagation outward
 
 ![Light + Gravity](https://raw.githubusercontent.com/ENSpunks/Causal-Relativity-Public-/refs/heads/Quantum-Mechanics/Causal%20Sphere%20Diagrams/Assets/l%2Bg.PNG)​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
 
-This table summarizes how key aspects of electrodynamics, traditionally involving time, might be described in a framework where causality is expressed through spatial interactions as a "Light + Gravity" pair in Causal Geometry and Causal Relativity:
-
 | Causal Geometry   | Phenomenon                | Theory              | Original Equations                                                                 | Causal Relativity Equation                                                                                             |
 |-------------------|---------------------------|---------------------|------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
 | Light + Gravity   | Electromagnetic Wave Propagation | Electrodynamics     | \(\nabla \times \mathbf{E} = -\frac{\partial \mathbf{B}}{\partial t}\)              | \(\nabla \times \mathbf{E} = -\kappa \nabla \cdot \mathbf{B}\)                                                          |
@@ -90,11 +85,6 @@ This table summarizes how key aspects of electrodynamics, traditionally involvin
 | Light + Gravity   | Light Wave Equation in Vacuum | Electrodynamics     | \(\nabla^2 \mathbf{E} - \frac{1}{c^2} \frac{\partial^2 \mathbf{E}}{\partial t^2} = 0\) | \((1 - \kappa^2) \nabla^2 \mathbf{E} = 0\)                                                                              |
 | Light + Gravity   | Jefimenko's Equations     | Electrodynamics     | Complex and dependent on charge and current distribution                            | Spatial causality terms replacing temporal derivatives; exact form needs further derivation                            |
 | Light + Gravity   | Liénard–Wiechert Potentials | Electrodynamics    | \(\phi = \frac{q}{4\pi \epsilon_0} \frac{1}{\left| \mathbf{r} - \mathbf{r}_q(t_{\text{ret}}) \right| - \frac{\mathbf{v}_q(t_{\text{ret}})}{c} \cdot (\mathbf{r} - \mathbf{r}_q(t_{\text{ret}}))}\)<br> \(\mathbf{A} = \frac{\mu_0}{4\pi} \frac{q\mathbf{v}_q(t_{\text{ret}})}{\left| \mathbf{r} - \mathbf{r}_q(t_{\text{ret}}) \right| - \frac{\mathbf{v}_q(t_{\text{ret}})}{c} \cdot (\mathbf{r} - \mathbf{r}_q(t_{\text{ret}}))}\) | Spatial causality terms replacing retardation time; exact equations are speculative here                               |
-
-**Notes:**
-
-- **\(\kappa\)**: Represents a spatial causality coefficient, introduced to substitute for time derivatives in the equations, indicating how electromagnetic interactions might occur through spatial causality rather than temporal dynamics.
-- **Retardation**: In traditional physics, retardation accounts for the time light takes to travel from a source to an observer. In Causal Relativity, the concept of retardation would be reimagined as spatial causality, where effects of changes in charge or current are immediately felt spatially rather than delayed by time.
 
 ### **Mass + Light**
 
@@ -119,8 +109,6 @@ This table summarizes how key aspects of electrodynamics, traditionally involvin
 ### **Mass + Light + Gravity**
 
 ![Mass + Light + Gravity](https://raw.githubusercontent.com/ENSpunks/Causal-Relativity-Public-/refs/heads/Quantum-Mechanics/Causal%20Sphere%20Diagrams/Assets/m%2Bl%2Bg.PNG)​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
-
-### **Quantum Causal Spheres**
 
 | **Causal Geometry** | **Phenomenon**                   | **Theory**             | **Original Equations**                                                                                       | **Causal Relativity Equation**                                                                                                                                              |
 |---------------------|-----------------------------------|------------------------|-------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
