@@ -116,7 +116,7 @@ The **Causal Relativity** framework is developed on the **Causal Relativity Equa
 
 ![Mass + Light + Gravity](https://raw.githubusercontent.com/ENSpunks/Causal-Relativity-Public-/refs/heads/Quantum-Mechanics/Causal%20Sphere%20Diagrams/Assets/m%2Bl%2Bg.PNG)​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
 
-[Electrodynamics Equation Derivations]()
+[Electrodynamics Equation Derivations](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Papers/Electrodynamics/Derivation%20of%20Electrodynamic%20Laws%20in%20Causal%20Relativity.md#title-derivation-of-electrodynamic-laws-in-causal-relativity)
 [Thermodynamics Equation Derivations](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Papers/Thermodynamics/Derivation%20of%20Thermodynamic%20Laws%20in%20Causal%20Relativity.md#title-derivation-of-thermodynamic-laws-in-causal-relativity)
 [Quantum Equation Derivations](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Papers/Causal%20Relativity/Derivations%20of%20Equations%3A%20Mass%2BLight%2BGravity.md#mass--light--gravity)
 
