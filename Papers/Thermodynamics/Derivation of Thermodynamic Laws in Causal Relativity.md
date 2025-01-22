@@ -78,6 +78,5 @@ We have derived versions of the thermodynamic laws within Causal Relativity, sug
 
 #### **References:**
 
-- Standard references on thermodynamics, Causal Relativity, and related physical concepts.
 
-This paper provides a conceptual framework for rethinking thermodynamics in terms of spatial causality, offering a novel perspective on fundamental physical laws.
+---
