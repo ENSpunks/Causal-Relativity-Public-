@@ -120,10 +120,23 @@ This paper presents a spatial-only interpretation of black holes within Causal R
 
 ---
 
-**References:**  
+**References:** 
+
+- Euclid. (~300 BCE). Elements. Translated by T. L. Heath (1908). Cambridge University Press.
+
+- Newton, I. (1687). Philosophiæ Naturalis Principia Mathematica. London: Royal Society.
+  
+- Abbott, E. A. (1884). Flatland: A Romance of Many Dimensions. London: Seeley & Co.
+  
+- Einstein, A. (1916). "Die Grundlage der allgemeinen Relativitätstheorie" (The Foundation of the General Theory of Relativity). Annalen der Physik, 354(7), 769-822.
+  
+- Schwarzschild, K. (1916). "Über das Gravitationsfeld eines Massenpunktes nach der Einsteinschen Theorie" (On the Gravitational Field of a Mass Point According to Einstein's Theory). Sitzungsberichte der Königlich Preussischen Akademie der Wissenschaften, 189-196.
+  
 - Hawking, S. W. (1974). "Black hole explosions?". *Nature*, 248(5443), 30-31.
-- Schwarzschild, K. (1916). "Über das Gravitationsfeld eines Massenpunktes nach der Einsteinschen Theorie". *Sitzungsberichte der Königlich Preussischen Akademie der Wissenschaften*, 189-196.
+
 - Susskind, L. (1995). "The World as a Hologram". *Journal of Mathematical Physics*, 36(11), 6377-6396.
+  
+- Susskind, L. (2008). The Black Hole War: My Battle with Stephen Hawking to Make the World Safe for Quantum Mechanics. Little, Brown and Company.
 
 ---
 
