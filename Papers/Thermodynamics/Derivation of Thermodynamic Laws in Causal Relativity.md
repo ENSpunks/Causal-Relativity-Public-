@@ -1,10 +1,10 @@
 ### **Title: Derivation of Thermodynamic Laws in Causal Relativity**
 
 **Authors:**  
-[Your Name]
+Will Brown
 
 **Date:**  
-[Current Date]
+January 21, 2025
 
 #### **Abstract:**
 
