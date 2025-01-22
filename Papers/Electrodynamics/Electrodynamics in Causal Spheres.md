@@ -1,10 +1,10 @@
 ### **Title: Electrodynamics in Causal Spheres: Alice and Bob's Experiment**
 
 **Authors:**  
-[Your Name]
+Will Brown
 
 **Date:**  
-[Current Date]
+January 21, 2025
 
 #### **Abstract:**
 
