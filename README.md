@@ -67,9 +67,9 @@ The **Causal Relativity** framework is developed on the **Causal Relativity Equa
 
 [Equation Derivations](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Papers/Causal%20Relativity/Derivations%20of%20Equations%3A%20Mass%2C%20Light%2C%20Gravity.md#gravity)
 
-| Causal Geometry | Phenomenon                    | Theory                     | Original Equations                                      | Causal Relativity Equation                                    |
-|-----------------|-------------------------------|----------------------------|---------------------------------------------------------|---------------------------------------------------------------|
-| Gravity         | Spacetime Curvature           | General Relativity         | \( ds^2 = -c^2 dt^2 + dx^2 + dy^2 + dz^2 \)              | \( ds^2 = g_{ij} dx^i dx^j \)                                  |
+| Causal Geometry | Phenomenon        | Theory             | Original Equations                                              | Causal Relativity Equation                   | Derivation Paper                                                                                      |
+|-----------------|-------------------|--------------------|-----------------------------------------------------------------|----------------------------------------------|-----------------------------------------------------------------------------------------------------|
+| Gravity         | Spacetime Curvature | General Relativity | ds² = -c² dt² + dx² + dy² + dz²                                 | ds² = gᵢⱼ dxⁱ dxʲ                           | [Newton's Gravitational Force Derivation](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Derivations/Newton's%20Gravitational%20Force.md) |
 
 ### **Light + Gravity**
 
