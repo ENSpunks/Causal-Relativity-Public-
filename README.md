@@ -141,6 +141,13 @@ The **Causal Relativity** framework is developed on the **Causal Relativity Equa
 | **Black Hole Causal Sphere**           | Event Horizon Information        | General Relativity     | \( S_{BH} = \frac{A}{4l_P^2} \)                                                                              | \( S_{BH,\text{causal}} = \frac{A}{4l_P^2} \left(1 + \frac{\Delta A}{A}\right) \), where \( \Delta A \) accounts for curvature and boundary thickness.                     |
 | **Big Bang Causal Sphere**        | Big Bang Initial Information     | Cosmology              | \( I_{\text{universe, initial}} = \frac{A}{4l_P^2} \)                                                        | \( I_{\text{universe, initial, causal}} = \frac{A_{\text{initial}}}{4l_P^2} \left(1 + f(K)\right) \), where \( f(K) \) is a function of curvature \( K \).                  |
 
+### **Big Bang**
+
+![](https://raw.githubusercontent.com/ENSpunks/Causal-Relativity-Public-/refs/heads/Quantum-Mechanics/Causal%20Sphere%20Diagrams/Assets/m%2Bl%2Bg.PNG)​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
+
+### **Black Hole + Light Core**
+
+![](https://raw.githubusercontent.com/ENSpunks/Causal-Relativity-Public-/refs/heads/Quantum-Mechanics/Causal%20Sphere%20Diagrams/Assets/m%2Bl%2Bg.PNG)​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
 
 ---
 
