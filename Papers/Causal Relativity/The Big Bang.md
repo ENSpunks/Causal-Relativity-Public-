@@ -1,27 +1,27 @@
-**Title:**  
-*The Big Bang: A Spatial Interpretation in Causal Relativity*
+# Title:  
+**The Big Bang: A Spatial Interpretation in Causal Relativity**
 
 ---
 
-**Author:**  
+## Author:  
 *Will Brown*
 
-**Date:**  
+## Date:  
 *January 20, 2025*
 
 ---
 
-**Abstract:**  
+## Abstract:  
 This paper revisits the Big Bang theory through the lens of Causal Relativity, where traditional temporal concepts are replaced by spatial interactions. By employing a novel spatial metric, we propose that the universe's origin can be understood without invoking a temporal singularity, instead suggesting an initial spatial state of extreme curvature where all mass-energy is distributed. We utilize a new equation for spatial curvature to describe the Big Bang, providing insights into the initial conditions and evolution of the cosmos.
 
 ---
 
-**Introduction:**  
+## Introduction:  
 The Big Bang theory posits that the universe began from an infinitely hot and dense point, expanding over time. In Causal Relativity, we propose to view this event not as a moment in time but as a configuration in space where all matter and energy were initially compressed into a highly curved spatial geometry, which then expanded. This paper explores how this model redefines the beginning of the universe, using a new equation to describe the initial state and evolution of the cosmos.
 
 ---
 
-**Theoretical Background:**  
+## Theoretical Background:  
 In traditional cosmology, the Big Bang is modeled with:
 
 - **Singularity:** An initial point of infinite density and temperature from which the universe expands.
@@ -48,7 +48,7 @@ Here, we examine the Big Bang through the interactions of Causal Spheres:
 
   - **Expansion as Spatial Unfolding:** The expansion of the universe is seen as the spatial geometry relaxing from this highly curved state to a more uniform, less curved state, akin to inflation but without needing an initial temporal singularity.
 
-  - **Using the Causal Relativity Equation:** 
+  - **Using the Causal Relativity Equation:**  
     \[
     ds^2 = \left(1 - \frac{r_s}{r} + \kappa \left(\frac{A_{\text{initial}}}{A_{\text{current}}}\right)\right) dr^2 + r^2 (d\theta^2 + \sin^2\theta \, d\phi^2)
     \]
@@ -67,7 +67,7 @@ Here, we examine the Big Bang through the interactions of Causal Spheres:
 
 ---
 
-**Reinterpretation in Causal Relativity:**
+## Reinterpretation in Causal Relativity:
 
 - **Mathematical Derivation:**
 
@@ -87,36 +87,36 @@ Here, we examine the Big Bang through the interactions of Causal Spheres:
 
 ---
 
-**Comparison with Observations:**  
+## Comparison with Observations:  
 - This model should account for the uniformity of the CMB, the observed expansion of the universe, and the large-scale structure formation, all as spatial phenomena.
 
 - The distribution of matter and energy at the "beginning" would need to explain the observed anisotropies in the CMB in spatial terms.
 
 ---
 
-**Implications:**  
+## Implications:  
 - Offers a new approach to understanding cosmic inflation and the initial conditions of the universe without invoking time.
 - Might simplify or alter our understanding of dark energy, dark matter, and cosmic microwave background radiation in terms of spatial interactions.
 
 ---
 
-**Challenges and Critiques:**  
+## Challenges and Critiques:  
 - Reconciling this model with the observed dynamics of the universe, especially how time evolves in physical processes if there's no temporal dimension at the start.
 - Validating this spatial Big Bang with cosmological observations currently interpreted through time-dependent models.
 
 ---
 
-**Conclusion:**  
+## Conclusion:  
 This paper introduces a spatial-only interpretation of the Big Bang within Causal Relativity, where the universe's origin is described by a state of maximal spatial curvature rather than a temporal singularity. By proposing that all mass-energy was initially distributed on a spatial shell, we offer a new perspective on cosmic evolution, potentially resolving some paradoxes of the traditional Big Bang model. Further theoretical work and observational evidence are needed to explore this spatial description of cosmology.
 
 ---
 
-**References:**  
+## References:  
 - Guth, A. H. (1981). "Inflationary universe: A possible solution to the horizon and flatness problems". *Physical Review D*, 23(2), 347-356.
 - Penzias, A. A., & Wilson, R. W. (1965). "A Measurement of Excess Antenna Temperature at 4080 Mc/s". *The Astrophysical Journal*, 142, 419-421.
 - Weinberg, S. (1972). *Gravitation and Cosmology: Principles and Applications of the General Theory of Relativity*. John Wiley & Sons.
 
 ---
 
-**Appendices:**  
+## Appendices:  
 - [Theory of Causal Relativity: Unifying Relativity without Time](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Papers/Causal%20Relativity/Theory%20of%20Causal%20Relativity%20(Published%2001-20-25))
