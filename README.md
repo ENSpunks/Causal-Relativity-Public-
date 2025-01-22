@@ -40,9 +40,11 @@ The **Causal Relativity** framework is developed on the **Causal Relativity Equa
 
 **Causal Geometry** creates an intrinsic 4th spatial coordinate relative to any observer in space without needing time as a dimension.  Even in traditional spacetime **Causal Geometry** creates an intrinsic spatial coordinates for an inertial frame relative to itself and any other causally connected frame, or the light+gravity from Alice's mass (collectively "Alice's Causal Sphere") relative to Bob's mass+light+gravity (Bob's Causal Sphere) that can scale in 3D space without time for any n-body system relative to any other Causal Sphere frame of reference.
 
-### **Mass**
+### **Mass Equations**
 
 ![Mass](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Causal%20Sphere%20Diagrams/Assets/m.PNG)​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
+
+[Equation Derivations](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Papers/Causal%20Relativity/Derivations%20of%20Equations%3A%20Mass%2C%20Light%2C%20Gravity.md#mass)
 
 | Causal Geometry | Phenomenon                    | Theory                     | Original Equations                                      | Causal Relativity Equation                                    |
 |-----------------|-------------------------------|----------------------------|---------------------------------------------------------|---------------------------------------------------------------|
