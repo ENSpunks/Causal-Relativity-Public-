@@ -1,135 +1,706 @@
 ### Derivations of Equations: Mass+Light+Gravity
 
-Here's a quick and dirty derivation and explanation of the key ideas behind the transformations and equations presented in your table, especially focusing on how causal effects modify classical and quantum mechanical equations. We'll look at how basic equations are adapted to incorporate "causal" effects, such as curvature, boundaries, and relativistic factors.
+1. Quantum State Evolution (No Time)
+Theory: Quantum Mechanics
+Original Equation (with time):
 
----
+i
+ℏ
+∂
+ψ
+(
+r
+,
+t
+)
+∂
+t
+=
+H
+^
+ψ
+(
+r
+,
+t
+)
+iℏ 
+∂t
+∂ψ(r,t)
+​	
+ = 
+H
+^
+ ψ(r,t)
+Causal Relativity Equation (No time):
 
-### 1. **Quantum State Evolution**
-   **Theory**: Quantum Mechanics  
-   **Original Equation**:  
-   \[
-   i \hbar \frac{\partial \psi(\mathbf{r}, t)}{\partial t} = \hat{H} \psi(\mathbf{r}, t)
-   \]
-   **Causal Relativity Equation**:  
-   \[
-   \hat{H}_{\text{causal}} \psi(\mathbf{r}) = E_{\text{causal}} \psi(\mathbf{r})
-   \]
-   
-   **Derivation**:  
-   The Schrodinger equation governing quantum evolution is modified in the "causal" framework, where the Hamiltonian \( \hat{H} \) might be affected by spacetime curvature or other relativistic effects. This is captured by introducing a modified Hamiltonian \( \hat{H}_{\text{causal}} \), which leads to a different energy eigenvalue \( E_{\text{causal}} \). This can be related to the curvature of spacetime.
+H
+^
+causal
+ψ
+(
+r
+)
+=
+E
+causal
+ψ
+(
+r
+)
+H
+^
+  
+causal
+​	
+ ψ(r)=E 
+causal
+​	
+ ψ(r)
+Interpretation:
+Without time evolution, the state function 
+ψ
+(
+r
+)
+ψ(r) becomes a spatially localized function, and the Hamiltonian 
+H
+^
+causal
+H
+^
+  
+causal
+​	
+  still governs the spatial distribution of the wave function. The energy eigenvalue 
+E
+causal
+E 
+causal
+​	
+  reflects a spatially-dependent effect, perhaps influenced by the geometry of the space itself, but time is not a factor in this equation anymore.
 
----
+2. Particle in Spherical Well (No Time)
+Theory: Quantum Mechanics
+Original Equation (with time):
 
-### 2. **Particle in Spherical Well**
-   **Theory**: Quantum Mechanics  
-   **Original Equation**:  
-   \[
-   E_n = \frac{\hbar^2}{2m} \left(\frac{n\pi}{R}\right)^2
-   \]
-   **Causal Relativity Equation**:  
-   \[
-   E_{n,\text{causal}} = \frac{\hbar^2}{2m} \left(\frac{n\pi}{R_{\text{causal}}}\right)^2, \quad R_{\text{causal}} = R \left(1 + \frac{\Delta R}{R}\right)
-   \]
-   
-   **Derivation**:  
-   In a spherical potential well, the radius \( R \) affects the energy levels. When considering relativistic or causal effects, such as space curvature, the radius \( R_{\text{causal}} \) may differ slightly due to such perturbations. \( \Delta R \) represents the deviation due to these effects, making the energy eigenvalue \( E_{n,\text{causal}} \) differ from the standard case.
+E
+n
+=
+ℏ
+2
+2
+m
+(
+n
+π
+R
+)
+2
+E 
+n
+​	
+ = 
+2m
+ℏ 
+2
+ 
+​	
+ ( 
+R
+nπ
+​	
+ ) 
+2
+ 
+Causal Relativity Equation (No time):
 
----
+E
+n
+,
+causal
+=
+ℏ
+2
+2
+m
+(
+n
+π
+R
+causal
+)
+2
+,
+R
+causal
+=
+R
+(
+1
++
+Δ
+R
+R
+)
+E 
+n,causal
+​	
+ = 
+2m
+ℏ 
+2
+ 
+​	
+ ( 
+R 
+causal
+​	
+ 
+nπ
+​	
+ ) 
+2
+ ,R 
+causal
+​	
+ =R(1+ 
+R
+ΔR
+​	
+ )
+Interpretation:
+This spatial-only equation models a particle's energy in a static potential well. Without time, we only care about the spatial configuration and the curvature of the well itself. The "causal" adjustment here would modify the radius 
+R
+causal
+R 
+causal
+​	
+  based on spatial curvature effects, but time is not involved in the modification.
 
-### 3. **Time-Dependent Harmonic Oscillator**
-   **Theory**: Quantum Mechanics  
-   **Original Equation**:  
-   \[
-   i \hbar \frac{\partial \psi(x,t)}{\partial t} = \left[ -\frac{\hbar^2}{2m} \frac{\partial^2}{\partial x^2} + \frac{1}{2} m \omega^2 x^2 + \lambda x \cos(\omega_0 t) \right] \psi(x,t)
-   \]
-   **Causal Relativity Equation**:  
-   \[
-   \hat{H}_{\text{causal}} \psi(\mathbf{r}) = E_{\text{causal}} \psi(\mathbf{r}), \quad \hat{H} = \frac{-\hbar^2}{2m} \frac{\partial^2}{\partial x^2} + \frac{1}{2} m \omega^2 x^2 + \lambda x \cos(kx)
-   \]
-   
-   **Derivation**:  
-   In the causal framework, the harmonic potential may also experience perturbations due to the geometry of space-time, which affects the oscillatory potential. The frequency term \( \lambda x \cos(kx) \) replaces \( \lambda x \cos(\omega_0 t) \) to account for a spatial, rather than temporal, perturbation.
+3. Time-Dependent Harmonic Oscillator (No Time)
+Theory: Quantum Mechanics
+Original Equation (with time):
 
----
+i
+ℏ
+∂
+ψ
+(
+x
+,
+t
+)
+∂
+t
+=
+[
+−
+ℏ
+2
+2
+m
+∂
+2
+∂
+x
+2
++
+1
+2
+m
+ω
+2
+x
+2
++
+λ
+x
+cos
+⁡
+(
+ω
+0
+t
+)
+]
+ψ
+(
+x
+,
+t
+)
+iℏ 
+∂t
+∂ψ(x,t)
+​	
+ =[− 
+2m
+ℏ 
+2
+ 
+​	
+  
+∂x 
+2
+ 
+∂ 
+2
+ 
+​	
+ + 
+2
+1
+​	
+ mω 
+2
+ x 
+2
+ +λxcos(ω 
+0
+​	
+ t)]ψ(x,t)
+Causal Relativity Equation (No time):
 
-### 4. **Energy Eigenvalue Problem**
-   **Theory**: Quantum Mechanics  
-   **Original Equation**:  
-   \[
-   \hat{H} \psi(x) = E \psi(x)
-   \]
-   **Causal Relativity Equation**:  
-   \[
-   \hat{H}_{\text{causal}} \psi(\mathbf{r}) = E_{\text{causal}} \psi(\mathbf{r}), \quad \hat{H} = \frac{-\hbar^2}{2m} \frac{\partial^2}{\partial x^2} + \frac{1}{2} m \omega^2 x^2 + \lambda x \cos(kx)
-   \]
-   
-   **Derivation**:  
-   The energy eigenvalue equation is adjusted by introducing a modified Hamiltonian, incorporating the effects of curvature or causality that modify the effective potential or space in which the particle exists.
+H
+^
+causal
+ψ
+(
+r
+)
+=
+E
+causal
+ψ
+(
+r
+)
+,
+H
+^
+=
+−
+ℏ
+2
+2
+m
+∂
+2
+∂
+x
+2
++
+1
+2
+m
+ω
+2
+x
+2
++
+λ
+x
+cos
+⁡
+(
+k
+x
+)
+H
+^
+  
+causal
+​	
+ ψ(r)=E 
+causal
+​	
+ ψ(r), 
+H
+^
+ = 
+2m
+−ℏ 
+2
+ 
+​	
+  
+∂x 
+2
+ 
+∂ 
+2
+ 
+​	
+ + 
+2
+1
+​	
+ mω 
+2
+ x 
+2
+ +λxcos(kx)
+Interpretation:
+In this spatial-only version, the time-dependent oscillatory term 
+cos
+⁡
+(
+ω
+0
+t
+)
+cos(ω 
+0
+​	
+ t) is removed and replaced with a spatial term
+cos
+⁡
+(
+k
+x
+)
+cos(kx), making the potential function depend only on spatial coordinates. The Hamiltonian is purely spatial, and causal effects could modify the potential, but there’s no time evolution in this framework.
 
----
+4. Energy Eigenvalue Problem (No Time)
+Theory: Quantum Mechanics
+Original Equation (with time):
 
-### 5. **Heisenberg Uncertainty Principle**
-   **Theory**: Quantum Mechanics  
-   **Original Equation**:  
-   \[
-   \Delta x \Delta p \geq \frac{\hbar}{2}
-   \]
-   **Causal Relativity Equation**:  
-   \[
-   \Delta x \Delta p \geq \frac{\hbar}{2}
-   \]
-   
-   **Derivation**:  
-   The Heisenberg uncertainty principle remains unaltered, even in causal relativity. However, the spatial uncertainty \( \Delta x \) may be influenced by the underlying spacetime curvature, resulting in shifts in the effective distribution of particles in space.
+H
+^
+ψ
+(
+x
+)
+=
+E
+ψ
+(
+x
+)
+H
+^
+ ψ(x)=Eψ(x)
+Causal Relativity Equation (No time):
 
----
+H
+^
+causal
+ψ
+(
+r
+)
+=
+E
+causal
+ψ
+(
+r
+)
+,
+H
+^
+=
+−
+ℏ
+2
+2
+m
+∂
+2
+∂
+x
+2
++
+1
+2
+m
+ω
+2
+x
+2
++
+λ
+x
+cos
+⁡
+(
+k
+x
+)
+H
+^
+  
+causal
+​	
+ ψ(r)=E 
+causal
+​	
+ ψ(r), 
+H
+^
+ = 
+2m
+−ℏ 
+2
+ 
+​	
+  
+∂x 
+2
+ 
+∂ 
+2
+ 
+​	
+ + 
+2
+1
+​	
+ mω 
+2
+ x 
+2
+ +λxcos(kx)
+Interpretation:
+This remains a spatial-only equation where the Hamiltonian describes the energy distribution of the particle in a given spatial potential. The key difference is that the Hamiltonian could now be modified to account for spatial curvature or other causal effects, but there's no temporal evolution involved.
 
-### 6. **Event Horizon Information (Black Hole Entropy)**
-   **Theory**: General Relativity  
-   **Original Equation**:  
-   \[
-   S_{\text{BH}} = \frac{A}{4l_P^2}
-   \]
-   **Causal Relativity Equation**:  
-   \[
-   S_{\text{BH}, \text{causal}} = \frac{A}{4l_P^2} \left(1 + \frac{\Delta A}{A}\right)
-   \]
-   
-   **Derivation**:  
-   The entropy of a black hole is related to the area of its event horizon. In the causal framework, the area \( A \) may experience variations due to spacetime fluctuations, curvature, or boundary effects, leading to a modified entropy formula.
+5. Heisenberg Uncertainty Principle (No Time)
+Theory: Quantum Mechanics
+Original Equation (with time):
 
----
+Δ
+x
+Δ
+p
+≥
+ℏ
+2
+ΔxΔp≥ 
+2
+ℏ
+​	
+ 
+Causal Relativity Equation (No time):
 
-### 7. **Cosmology and Big Bang Initial Information**
-   **Theory**: Cosmology  
-   **Original Equation**:  
-   \[
-   I_{\text{universe, initial}} = \frac{A}{4l_P^2}
-   \]
-   **Causal Relativity Equation**:  
-   \[
-   I_{\text{universe, initial, causal}} = \frac{A_{\text{initial}}}{4l_P^2} \left(1 + f(K)\right)
-   \]
-   
-   **Derivation**:  
-   The information content in the universe's initial state is related to the area of the universe's boundary. Causal effects and spacetime curvature \( K \) modify the initial boundary, altering the calculated information.
+Δ
+x
+Δ
+p
+≥
+ℏ
+2
+ΔxΔp≥ 
+2
+ℏ
+​	
+ 
+Interpretation:
+The Heisenberg Uncertainty Principle still applies in the absence of time, as it concerns the spatial uncertainty in position and momentum. In a timeless framework, this could be interpreted as a spatial distribution-based uncertainty, where 
+Δ
+x
+Δx and 
+Δ
+p
+Δp reflect the spatial properties of the system rather than any dynamic evolution over time.
 
----
+6. Event Horizon Information (Black Hole Entropy)
+Theory: General Relativity
+Original Equation (with time):
 
-### 8. **Information Bound (Holographic Principle)**
-   **Theory**: Holographic Principle  
-   **Original Equation**:  
-   \[
-   I \leq \frac{A}{4l_P^2}
-   \]
-   **Causal Relativity Equation**:  
-   \[
-   I_{\text{causal}} = \frac{A}{4l_P^2} \left(1 + \frac{\Delta A}{A}\right)
-   \]
-   
-   **Derivation**:  
-   The holographic principle suggests that information content is proportional to the area, not volume. Causal effects that influence the area can modify this bound by introducing factors that reflect curvature or spacetime dynamics.
+S
+BH
+=
+A
+4
+l
+P
+2
+S 
+BH
+​	
+ = 
+4l 
+P
+2
+​	
+ 
+A
+​	
+ 
+Causal Relativity Equation (No time):
 
----
+S
+BH
+,
+causal
+=
+A
+4
+l
+P
+2
+(
+1
++
+Δ
+A
+A
+)
+S 
+BH,causal
+​	
+ = 
+4l 
+P
+2
+​	
+ 
+A
+​	
+ (1+ 
+A
+ΔA
+​	
+ )
+Interpretation:
+The entropy of a black hole, traditionally associated with a horizon that evolves over time, is instead modified by the area of the event horizon in this timeless context. 
+Δ
+A
+ΔA reflects any perturbations in the area due to spacetime curvature, and the information content is a spatially-dependent measure.
 
-This paper briefly summarizes how fundamental equations in quantum mechanics, general relativity, and cosmology are modified under causal relativistic transformations. 
+7. Cosmology and Big Bang Initial Information (No Time)
+Theory: Cosmology
+Original Equation (with time):
+
+I
+universe, initial
+=
+A
+4
+l
+P
+2
+I 
+universe, initial
+​	
+ = 
+4l 
+P
+2
+​	
+ 
+A
+​	
+ 
+Causal Relativity Equation (No time):
+
+I
+universe, initial, causal
+=
+A
+initial
+4
+l
+P
+2
+(
+1
++
+f
+(
+K
+)
+)
+I 
+universe, initial, causal
+​	
+ = 
+4l 
+P
+2
+​	
+ 
+A 
+initial
+​	
+ 
+​	
+ (1+f(K))
+Interpretation:
+The initial state of the universe is described purely by spatial geometry. The information content 
+I
+I is tied to the area 
+A
+initial
+A 
+initial
+​	
+ , but now it's modified by curvature effects 
+f
+(
+K
+)
+f(K), reflecting spatial geometry rather than a time-evolving process.
+
+8. Information Bound (Holographic Principle)
+Theory: Holographic Principle
+Original Equation (with time):
+
+I
+≤
+A
+4
+l
+P
+2
+I≤ 
+4l 
+P
+2
+​	
+ 
+A
+​	
+ 
+Causal Relativity Equation (No time):
+
+I
+causal
+=
+A
+4
+l
+P
+2
+(
+1
++
+Δ
+A
+A
+)
+I 
+causal
+​	
+ = 
+4l 
+P
+2
+​	
+ 
+A
+​	
+ (1+ 
+A
+ΔA
+​	
+ )
+Interpretation:
+In the absence of time, the holographic bound is modified by spatial geometry. The curvature effects 
+Δ
+A
+ΔA affect the area and, hence, the information content, but there’s no temporal component to the equation.
+
+Conclusion:
+In this timeless or spatial-only framework, the core concept is that spatial geometry and causal effects (like curvature or boundary conditions) influence the systems, but time evolution is either absent or considered emergent. The equations from quantum mechanics and general relativity adapt to this context by focusing solely on spatial parameters, and any time dependence (like in the wavefunction evolution or harmonic oscillator) is removed or replaced with purely spatial interactions.
