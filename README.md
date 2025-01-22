@@ -119,9 +119,6 @@ The **Causal Relativity** framework is developed on the **Causal Relativity Equa
 [Electrodynamics Equation Derivations](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Papers/Electrodynamics/Derivation%20of%20Electrodynamic%20Laws%20in%20Causal%20Relativity.md#title-derivation-of-electrodynamic-laws-in-causal-relativity)
 [Thermodynamics Equation Derivations](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Papers/Thermodynamics/Derivation%20of%20Thermodynamic%20Laws%20in%20Causal%20Relativity.md#title-derivation-of-thermodynamic-laws-in-causal-relativity)
 [Quantum Equation Derivations](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Papers/Causal%20Relativity/Derivations%20of%20Equations%3A%20Mass%2BLight%2BGravity.md#mass--light--gravity)
-[Big Bang](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Papers/Causal%20Relativity/The%20Big%20Bang.md)
-[Black Hole/Light Core](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Papers/Causal%20Relativity/Black%20Holes%3A%20Event%20Horizons%20and%20Singularities%20in%20Spatial%20Terms.md)
-
 
 | **Causal Geometry** | **Phenomenon**                   | **Theory**             | **Original Equations**                                                                                       | **Causal Relativity Equation**                                                                                                                                              |
 |---------------------|-----------------------------------|------------------------|-------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -138,16 +135,27 @@ The **Causal Relativity** framework is developed on the **Causal Relativity Equa
 | **Quanta**           | Spatial Oscillatory Potential     | Quantum Mechanics      | \( \lambda x \cos(\omega_0 t) \)                                                                                                                                           | \( \lambda x \cos(kx) \)                                                                                                                            |
 | **Quanta**           | Wave Function Evolution          | Quantum Mechanics      | \( \psi(x,t) \)                                                                                                                                                              | \( \psi(\mathbf{r}) \)                                                                                                                              |
 | **Quanta**           | Heisenberg Uncertainty Principle | Quantum Mechanics      | \( \Delta x \Delta p \geq \frac{\hbar}{2} \)                                                                                                                                | \( \Delta x \Delta p \geq \frac{\hbar}{2} \) (Spatial distribution based uncertainty, same principle applied in space)                         || **Quanta**           | Information Bound                | Holographic Principle  | \( I \leq \frac{A}{4l_P^2} \)                                                                                | \( I_{\text{causal}} = \frac{A}{4l_P^2} \left(1 + \frac{\Delta A}{A}\right) \)                                                                                            |
-| **Black Hole Causal Sphere**           | Event Horizon Information        | General Relativity     | \( S_{BH} = \frac{A}{4l_P^2} \)                                                                              | \( S_{BH,\text{causal}} = \frac{A}{4l_P^2} \left(1 + \frac{\Delta A}{A}\right) \), where \( \Delta A \) accounts for curvature and boundary thickness.                     |
-| **Big Bang Causal Sphere**        | Big Bang Initial Information     | Cosmology              | \( I_{\text{universe, initial}} = \frac{A}{4l_P^2} \)                                                        | \( I_{\text{universe, initial, causal}} = \frac{A_{\text{initial}}}{4l_P^2} \left(1 + f(K)\right) \), where \( f(K) \) is a function of curvature \( K \).                  |
+
 
 ### **Big Bang**
 
 ![](https://raw.githubusercontent.com/ENSpunks/Causal-Relativity-Public-/refs/heads/main/Causal%20Sphere%20Diagrams/Assets/Big%20Bang.PNG)​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
 
+| **Causal Geometry** | **Phenomenon**                   | **Theory**             | **Original Equations**                                                                                       | **Causal Relativity Equation**                                                                                                                                              |
+|---------------------|-----------------------------------|------------------------|-------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Black Hole Causal Sphere**           | Event Horizon Information        | General Relativity     | \( S_{BH} = \frac{A}{4l_P^2} \)                                                                              | \( S_{BH,\text{causal}} = \frac{A}{4l_P^2} \left(1 + \frac{\Delta A}{A}\right) \), where \( \Delta A \) accounts for curvature and boundary thickness.                     |
+
+[Big Bang](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Papers/Causal%20Relativity/The%20Big%20Bang.md)
+
 ### **Black Hole + Light Core**
 
 ![Black Hole + Light Core](https://raw.githubusercontent.com/ENSpunks/Causal-Relativity-Public-/refs/heads/main/Causal%20Sphere%20Diagrams/Assets/Black%20Hole.PNG)​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
+
+| **Causal Geometry** | **Phenomenon**                   | **Theory**             | **Original Equations**                                                                                       | **Causal Relativity Equation**                                                                                                                                              |
+|---------------------|-----------------------------------|------------------------|-------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Big Bang Causal Sphere**        | Big Bang Initial Information     | Cosmology              | \( I_{\text{universe, initial}} = \frac{A}{4l_P^2} \)                                                        | \( I_{\text{universe, initial, causal}} = \frac{A_{\text{initial}}}{4l_P^2} \left(1 + f(K)\right) \), where \( f(K) \) is a function of curvature \( K \).                  |
+
+[Black Hole/Light Core](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Papers/Causal%20Relativity/Black%20Holes%3A%20Event%20Horizons%20and%20Singularities%20in%20Spatial%20Terms.md)
 
 ---
 
