@@ -1,4 +1,4 @@
-# Quantum Mechanics and General Relativity Equations in a Timeless Context
+# Mass + Light + Gravity
 
 ## 1. Quantum State Evolution (No Time)
 **Theory:** Quantum Mechanics  
