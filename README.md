@@ -44,12 +44,10 @@ The **Causal Relativity** framework is developed on the **Causal Relativity Equa
 
 ![Mass](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Causal%20Sphere%20Diagrams/Assets/m.PNG)​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
 
-[Equation Derivations](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Papers/Causal%20Relativity/Derivations%20of%20Equations%3A%20Mass%2C%20Light%2C%20Gravity.md#mass)
-
-| Causal Geometry | Phenomenon                    | Theory                     | Original Equations                                      | Causal Relativity Equation                                    |
-|-----------------|-------------------------------|----------------------------|---------------------------------------------------------|---------------------------------------------------------------|
-| Mass            | Newton's Gravitational Force | Classical Mechanics        | \( F = \frac{Gm_1 m_2}{r^2} \)                          | \( K = \frac{GM}{r^2} \)                                       |
-| Mass            | Gravitational Curvature (GR)  | General Relativity         | \( R_{\mu\nu} - \frac{1}{2}g_{\mu\nu}R = \frac{8 \pi G}{c^4}T_{\mu\nu} \) | \( K = \frac{GM}{r^2} \)                                   |
+| **Causal Geometry** | **Phenomenon**               | **Theory**           | **Original Equations**                                               | **Causal Relativity Equation**                                 | **Derivation Paper**                                                                                                                         |
+|----------------------|------------------------------|-----------------------|-----------------------------------------------------------------------|----------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
+| **Mass**            | Newton's Gravitational Force | Classical Mechanics   | \( F = \frac{Gm_1 m_2}{r^2} \)                                       | \( K = \frac{GM}{r^2} \)                                         | [Newton's Gravitational Force Derivation](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Derivations/Newton's%20Gravitational%20Force.md) |
+| **Mass**            | Gravitational Curvature (GR) | General Relativity    | \( R_{\mu\nu} - \frac{1}{2}g_{\mu\nu}R = \frac{8 \pi G}{c^4}T_{\mu\nu} \) | \( K = \frac{GM}{r^2} \)                                         | [Gravitational Curvature in General Relativity Derivation](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Derivations/Gravitational%20Curvature%20in%20General%20Relativity.md) |
 
 ### **Light**
 
