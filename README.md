@@ -127,8 +127,6 @@ The **Causal Relativity** framework is developed on the **Causal Relativity Equa
 
 ### **Conclusion**
 
-Causal Relativity is a mathematical framework consistent with Relativity, unifies Special and General Relativity dilations into a single spatial phenomena, and predicts  resolutions to Black Hole and the Big Bang singularities in a Timeless Space.
-
 ---
 
 ### **Appendix**
