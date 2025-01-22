@@ -114,21 +114,20 @@ This paper introduces a spatial-only interpretation of black holes within Causal
 
 **References:** 
 
+Here's the updated list including Maxwell's publication on his equations and Schrödinger's on the uncertainty principle:
+
 - Euclid. (~300 BCE). *Elements*. Translated by T. L. Heath (1908). Cambridge University Press.
-
 - Newton, I. (1687). *Philosophiæ Naturalis Principia Mathematica*. London: Royal Society.
-  
 - Abbott, E. A. (1884). *Flatland: A Romance of Many Dimensions*. London: Seeley & Co.
-  
+- Maxwell, J. C. (1865). "A Dynamical Theory of the Electromagnetic Field". *Philosophical Transactions of the Royal Society of London*, 155, 459-512.
+- Einstein, A. (1905). "Zur Elektrodynamik bewegter Körper" (On the Electrodynamics of Moving Bodies). *Annalen der Physik*, 322(10), 891-921.
 - Einstein, A. (1916). "Die Grundlage der allgemeinen Relativitätstheorie" (The Foundation of the General Theory of Relativity). *Annalen der Physik*, 354(7), 769-822.
-  
+- Lorentz, H. A., Einstein, A., Minkowski, H., & Weyl, H. (1952). *The Principle of Relativity: A Collection of Original Memoirs on the Special and General Theory of Relativity*. Dover Publications.
 - Schwarzschild, K. (1916). "Über das Gravitationsfeld eines Massenpunktes nach der Einsteinschen Theorie" (On the Gravitational Field of a Mass Point According to Einstein's Theory). *Sitzungsberichte der Königlich Preussischen Akademie der Wissenschaften*, 189-196.
-  
-- Hawking, S. W. (1974). "Black hole explosions?". *Nature*, 248(5443), 30-31.
-
+- Schrödinger, E. (1935). "Die gegenwärtige Situation in der Quantenmechanik" (The Present Situation in Quantum Mechanics). *Naturwissenschaften*, 23(48), 807-812, 823-828, 844-849. (This paper discusses aspects of quantum mechanics including what would later be known as the uncertainty principle in broader context)
+- Feynman, R. P., Leighton, R. B., & Sands, M. (1963). *The Feynman Lectures on Physics*. Addison-Wesley.
 - Susskind, L. (1995). "The World as a Hologram". *Journal of Mathematical Physics*, 36(11), 6377-6396.
-  
-- Susskind, L. (2008). *The Black Hole War: My Battle with Stephen Hawking to Make the World Safe for Quantum Mechanics*. Little, Brown and Company.
+- Weinberg, S. (2015). *To Explain the World: The Discovery of Modern Science*. HarperCollins.
 
 ---
 
