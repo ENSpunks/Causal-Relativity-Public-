@@ -7,63 +7,60 @@
 *Will Brown*
 
 ## Date:  
-*January 20, 2025*
+*January 21, 2025*
 
 ---
 
 ## Abstract:  
-This paper revisits the Big Bang theory through the lens of Causal Relativity, where traditional temporal concepts are replaced by spatial interactions. By employing a novel spatial metric, we propose that the universe's origin can be understood without invoking a temporal singularity, instead suggesting an initial spatial state of extreme curvature where all mass-energy is distributed. We utilize a new equation for spatial curvature to describe the Big Bang, providing insights into the initial conditions and evolution of the cosmos.
+This paper reinterprets the Big Bang through Causal Relativity, where the traditional temporal framework is replaced by spatial interactions. We propose that the universe's origin is an initial state of extreme spatial curvature without a temporal singularity, using a new equation for spatial curvature to describe this cosmic inception and evolution.
 
 ---
 
 ## Introduction:  
-The Big Bang theory posits that the universe began from an infinitely hot and dense point, expanding over time. In Causal Relativity, we propose to view this event not as a moment in time but as a configuration in space where all matter and energy were initially compressed into a highly curved spatial geometry, which then expanded. This paper explores how this model redefines the beginning of the universe, using a new equation to describe the initial state and evolution of the cosmos.
+The conventional Big Bang theory describes the universe expanding from a singularity. In Causal Relativity, we suggest the universe began from a state of maximal spatial curvature, which then expanded spatially. This paper redefines the Big Bang's beginning and evolution, employing an equation that reflects this spatial perspective.
 
 ---
 
 ## Theoretical Background:  
-In traditional cosmology, the Big Bang is modeled with:
+In traditional cosmology:
 
-- **Singularity:** An initial point of infinite density and temperature from which the universe expands.
+- **Singularity:** The universe starts at an infinitely dense point in time.
 
-- **Inflation:** A rapid expansion phase that smooths out initial inhomogeneities.
+- **Inflation:** A rapid expansion to explain uniformity.
 
-Causal Relativity introduces:
+Causal Relativity proposes:
 
-- **Causal Geometry:** A spatial framework where the Big Bang represents the initial condition of extreme spatial curvature, which then evolves, suggesting no need for a temporal singularity.
+- **Causal Geometry:** Where the Big Bang is the initial spatial configuration of extreme curvature, evolving without a temporal singularity.
 
 ---
 
 ### **Causal Geometry Consistent with the Big Bang**
 
-Here, we examine the Big Bang through the interactions of Causal Spheres:
+Here, we explore the Big Bang through Causal Spheres:
 
 - **Initial State of the Universe:**
 
-  - **Spatial Confinement:** Instead of a temporal beginning, we consider the universe starting in a state of maximal spatial curvature where all mass-energy is distributed across an initial spatial volume.
-
-  - **Mass-Energy Distribution:** The mass-energy of the universe, which would traditionally be at a singularity, is here distributed over what could be considered an "initial spatial shell" or boundary.
+  - **Maximal Spatial Curvature:** The universe starts with all mass-energy distributed over an initial spatial configuration.
 
 - **Evolution from Initial State:**
 
-  - **Expansion as Spatial Unfolding:** The expansion of the universe is seen as the spatial geometry relaxing from this highly curved state to a more uniform, less curved state, akin to inflation but without needing an initial temporal singularity.
+  - **Spatial Expansion:** Seen as the unfolding of space from high to lower curvature, akin to inflation but as a spatial phenomenon.
 
-  - **Using the Causal Relativity Equation:**  
+  - **New Causal Relativity Equation:**  
     \[
-    ds^2 = \left(1 - \frac{r_s}{r} + \kappa \left(\frac{A_{\text{initial}}}{A_{\text{current}}}\right)\right) dr^2 + r^2 (d\theta^2 + \sin^2\theta \, d\phi^2)
+    I_{\text{universe, initial, causal}} = \frac{A_{\text{initial}}}{4l_P^2} \left(1 + f(K)\right)
     \]
-    Here, \( r_s \) represents a scale related to the initial curvature, \( \kappa = 1 \) for simplicity, \( A_{\text{initial}} \) represents the area of this initial spatial configuration, and \( A_{\text{current}} \) is the expanding area of the universe.
+    Where \( A_{\text{initial}} \) is the initial spatial configuration's area, \( l_P \) the Planck length, and \( f(K) \) a function of curvature \( K \):
 
-    - **At the "Beginning":** When \( r \to r_s \), the spatial metric suggests finite curvature, avoiding the concept of infinite density:
-      \[
-      ds^2 = dr^2 + r_s^2 (d\theta^2 + \sin^2\theta \, d\phi^2)
-      \]
+    - **Function \( f(K) \):** Reflects how curvature influences the distribution of initial information or energy, possibly \( f(K) = \frac{A_{\text{inner}} + A_{\text{outer}}}{4A_{\text{total}}} (1 + K) \) where \( A_{\text{inner}} \) and \( A_{\text{outer}} \) are areas within and beyond the initial state, and \( A_{\text{total}} \) is the total area.
 
-    - **As the Universe Expands:** The term \(\left(\frac{A_{\text{initial}}}{A_{\text{current}}}\right)\) decreases, reflecting the expansion of space, reducing the curvature.
+    - **At the "Beginning":** This equation suggests a finite distribution of information rather than an infinite density.
+
+    - **During Expansion:** As the universe expands, \( A_{\text{initial}} \) becomes less significant compared to the growing universe's area, reducing \( K \)'s influence.
 
 - **Cosmic Microwave Background (CMB):** 
 
-  - The CMB, a remnant of the Big Bang, can be seen as a spatial distribution of light from this initial state, which, due to the spatial expansion, becomes redshifted and uniform across our observable universe.
+  - The CMB is interpreted as light from this initial spatial state, distributed and redshifted due to spatial expansion.
 
 ---
 
@@ -71,50 +68,60 @@ Here, we examine the Big Bang through the interactions of Causal Spheres:
 
 - **Mathematical Derivation:**
 
-  - The spatial metric above provides a new way to conceptualize the Big Bang as a spatial event, where the universe starts from a highly curved state and evolves to a flatter geometry.
+  - This equation provides a spatial-only description of the Big Bang's initial conditions.
 
 - **Conceptual Explanation:**
 
-  - **No Temporal Singularity:** The universe begins in a spatial configuration of maximum curvature, not at a point in time.
+  - **Avoiding Temporal Singularity:** The universe's origin is a spatial state, not a point in time.
 
-  - **Resolving the Singularity Issue:** By distributing mass-energy across space initially, we avoid the problem of infinite density at a singular point.
+  - **Resolving the Singularity:** Mass-energy starts distributed across space, not concentrated at a point.
 
 - **Potential Interpretation:**
 
-  - **Initial Spatial State:** The Big Bang is the unfolding of space from a highly curved initial state, where all mass-energy was "encoded" or distributed.
+  - **Initial Spatial State:** The Big Bang is the spatial unfolding from a highly curved state.
 
-  - **Inflation as Spatial Expansion:** What we term inflation can be interpreted as the rapid expansion of this spatial geometry to a less curved state, smoothing out the universe.
+  - **Inflation as Spatial Expansion:** Inflation is the rapid spatial relaxation to a less curved universe.
 
 ---
 
 ## Comparison with Observations:  
-- This model should account for the uniformity of the CMB, the observed expansion of the universe, and the large-scale structure formation, all as spatial phenomena.
+- This spatial model should explain the CMB's uniformity, universe's expansion, and structure formation without time.
 
-- The distribution of matter and energy at the "beginning" would need to explain the observed anisotropies in the CMB in spatial terms.
+- It must account for CMB anisotropies through spatial variations in initial curvature or mass-energy distribution.
 
 ---
 
 ## Implications:  
-- Offers a new approach to understanding cosmic inflation and the initial conditions of the universe without invoking time.
-- Might simplify or alter our understanding of dark energy, dark matter, and cosmic microwave background radiation in terms of spatial interactions.
+- Offers a time-less explanation for cosmic inflation and initial conditions.
+- Could reshape our understanding of dark energy, matter, and CMB in spatial terms.
 
 ---
 
 ## Challenges and Critiques:  
-- Reconciling this model with the observed dynamics of the universe, especially how time evolves in physical processes if there's no temporal dimension at the start.
-- Validating this spatial Big Bang with cosmological observations currently interpreted through time-dependent models.
+- Explaining dynamic cosmic processes without time.
+- Matching spatial-only predictions with time-based cosmological observations.
 
 ---
 
 ## Conclusion:  
-This paper introduces a spatial-only interpretation of the Big Bang within Causal Relativity, where the universe's origin is described by a state of maximal spatial curvature rather than a temporal singularity. By proposing that all mass-energy was initially distributed on a spatial shell, we offer a new perspective on cosmic evolution, potentially resolving some paradoxes of the traditional Big Bang model. Further theoretical work and observational evidence are needed to explore this spatial description of cosmology.
+This paper presents the Big Bang as an initial spatial curvature state within Causal Relativity, potentially resolving traditional singularities and offering new views on cosmic evolution. Further theoretical and observational work is required to validate this spatial interpretation of cosmology.
 
 ---
 
-## References:  
-- Guth, A. H. (1981). "Inflationary universe: A possible solution to the horizon and flatness problems". *Physical Review D*, 23(2), 347-356.
-- Penzias, A. A., & Wilson, R. W. (1965). "A Measurement of Excess Antenna Temperature at 4080 Mc/s". *The Astrophysical Journal*, 142, 419-421.
-- Weinberg, S. (1972). *Gravitation and Cosmology: Principles and Applications of the General Theory of Relativity*. John Wiley & Sons.
+## References:
+
+- Euclid. (~300 BCE). *Elements*. Translated by T. L. Heath (1908). Cambridge University Press.  
+  
+- Newton, I. (1687). *Philosophiæ Naturalis Principia Mathematica*. London: Royal Society.
+
+- Abbott, E. A. (1884). *Flatland: A Romance of Many Dimensions*. London: Seeley & Co.
+
+- Einstein, A. (1916). "Die Grundlage der allgemeinen Relativitätstheorie" (The Foundation of the General Theory of Relativity). *Annalen der Physik*, 354(7), 769-822.
+
+- Schwarzschild, K. (1916). "Über das Gravitationsfeld eines Massenpunktes nach der Einsteinschen Theorie" (On the Gravitational Field of a Mass Point According to Einstein's Theory). *Sitzungsberichte der Königlich Preussischen Akademie der Wissenschaften*, 189-196.
+
+- Susskind, L. (2008). *The Black Hole War: My Battle with Stephen Hawking to Make the World Safe for Quantum Mechanics*. Little, Brown and Company.
+
 
 ---
 
