@@ -119,6 +119,9 @@ The **Causal Relativity** framework is developed on the **Causal Relativity Equa
 [Electrodynamics Equation Derivations](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Papers/Electrodynamics/Derivation%20of%20Electrodynamic%20Laws%20in%20Causal%20Relativity.md#title-derivation-of-electrodynamic-laws-in-causal-relativity)
 [Thermodynamics Equation Derivations](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Papers/Thermodynamics/Derivation%20of%20Thermodynamic%20Laws%20in%20Causal%20Relativity.md#title-derivation-of-thermodynamic-laws-in-causal-relativity)
 [Quantum Equation Derivations](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Papers/Causal%20Relativity/Derivations%20of%20Equations%3A%20Mass%2BLight%2BGravity.md#mass--light--gravity)
+[Big Bang](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Papers/Causal%20Relativity/The%20Big%20Bang.md)
+[Black Hole/Light Core](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Papers/Causal%20Relativity/Black%20Holes%3A%20Event%20Horizons%20and%20Singularities%20in%20Spatial%20Terms.md)
+
 
 | **Causal Geometry** | **Phenomenon**                   | **Theory**             | **Original Equations**                                                                                       | **Causal Relativity Equation**                                                                                                                                              |
 |---------------------|-----------------------------------|------------------------|-------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
