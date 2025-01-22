@@ -1,5 +1,6 @@
 
-## **Causal Relativity Equations**  
+## **Causal Relativity Equation:** [Insert Original Equation Name here]
+
 *Author: Will Brown*  
 
 ---
@@ -9,8 +10,6 @@
 **Phenomenon:** [Insert info here]  
 **Theory:** [Insert info here]  
 **Original Equation:** [Insert info here]  
-**Causal Relativity Equation:** [Insert info here]  
-
 ---
 
 ### **1. Causal Geometry**  
