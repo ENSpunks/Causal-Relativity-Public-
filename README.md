@@ -55,11 +55,11 @@ The **Causal Relativity** framework is developed on the **Causal Relativity Equa
 
 [Equation Derivations](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Papers/Causal%20Relativity/Derivations%20of%20Equations%3A%20Mass%2C%20Light%2C%20Gravity.md#light)
 
-| Causal Geometry | Phenomenon                    | Theory                     | Original Equations                                      | Causal Relativity Equation                                    |
-|-----------------|-------------------------------|----------------------------|---------------------------------------------------------|---------------------------------------------------------------|
-| Light           | Electromagnetic Wave Propagation | Classical Electromagnetism | \(\nabla \times \mathbf{E} = -\frac{\partial \mathbf{B}}{\partial t}\) | \(\nabla \times \mathbf{E} = -\kappa \nabla \cdot \mathbf{B}\) |
-| Light           | Electromagnetic Induction      | Classical Electromagnetism | \(\nabla \times \mathbf{B} = \mu_0 \mathbf{J} + \mu_0 \epsilon_0 \frac{\partial \mathbf{E}}{\partial t}\) | \(\nabla \times \mathbf{B} = \mu_0 \mathbf{J} + \mu_0 \epsilon_0 \kappa \nabla \cdot \mathbf{E}\) |
-| Light           | Light Wave Equation in Vacuum  | Classical Electromagnetism | \(\nabla^2 \mathbf{E} - \frac{1}{c^2} \frac{\partial^2 \mathbf{E}}{\partial t^2} = 0\) | \((1 - \kappa^2) \nabla^2 \mathbf{E} = 0\)                    |
+| Causal Geometry | Phenomenon                | Theory                   | Original Equations                                  | Causal Relativity Equation                               | Derivation Paper                                                                 |
+|-----------------|---------------------------|--------------------------|----------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------------------------------|
+| Light           | Electromagnetic Wave Propagation | Classical Electromagnetism | ∇×E = -∂B/∂t                                      | ∇×E = -κ ∇⋅B                                              | [Electromagnetic Wave Propagation Derivation](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Derivations/Electromagnetic%20Wave%20Propagation%20in%20Gravitational%20Fields.md) |
+| Light           | Electromagnetic Induction  | Classical Electromagnetism | ∇×B = μ₀J + μ₀ϵ₀ ∂E/∂t                           | ∇×B = μ₀J + μ₀ϵ₀κ ∇⋅E                                 | [Electromagnetic Induction Derivation](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Derivations/Electromagnetic%20Wave%20Propagation%20in%20Gravitational%20Fields.md) |
+| Light           | Light Wave Equation in Vacuum | Classical Electromagnetism | ∇²E - (1/c²) ∂²E/∂t² = 0                           | (1 - κ²) ∇²E = 0                                           | [Light Wave Equation in Vacuum Derivation](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Derivations/Electromagnetic%20Wave%20Propagation%20in%20Gravitational%20Fields.md) |
 
 ### **Gravity**
 
