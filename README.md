@@ -160,7 +160,11 @@ The **Causal Relativity** framework is developed on the **Causal Relativity Equa
 
 ### **Conclusion**
 
-#### **t=0**
+#### **Physics are the same everywhere independent of time.
+
+#### **
+
+hysics are relative to itself independent of time.**
 
 ---
 
