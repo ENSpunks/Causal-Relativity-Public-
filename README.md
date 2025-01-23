@@ -29,9 +29,9 @@ Try any physics problem, even time dependent Relativity and Quantum Mechanics eq
 
 #### **Causal Relativity Postulates**:
 
-1. Laws of physics are independent of time.
-2. Mass, light, and gravity are causally unified relative to its own frame of reference and causally interacts with itself in space. 
-3. Mass, light, and gravity are causally unified relative to, and interacts with, other frames of reference of mass, light, and gravity, in space.
+1. Laws of physics are the same independent of time.
+2. Frames are relative to all other frames. 
+3. All frames are relative to themselves.
 
 ---
 
