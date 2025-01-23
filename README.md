@@ -1,4 +1,4 @@
-## **Theory of Causal Relativity:  Relativity without Time**
+## **Theory of Causal Relativity:  Time Independent Relativity**
 
 **Will Brown**  
 **January 20, 2025**
@@ -7,9 +7,9 @@
 
 ### **Abstract**
 
-The **Theory of Causal Relativity** is a theory interpreted from **Causal Relativity Equations** derived for t=0 unifying Classical Mechanics, Special Relativity, Thermodynamics, Electrodynamics and Quantum Mechanics. 
+The **Theory of Causal Relativity** is a theory interpreted from **Causal Relativity Equations** derived for time independent equations unifying Classical Mechanics, Special Relativity, Thermodynamics, Electrodynamics and Quantum Mechanics. 
 
-Try any physics problem that is "Spacetime dependent", even time dependent Quantum Mechanics and use **Causal Relativity Equations** to solve it in a simplified 3D spatial equation without Spacetime, or any time dimension.
+Try any physics problem, even time dependent Relativity and Quantum Mechanics equations and use **Causal Relativity Equations** the time indeoendent equations solve it in a simplified equation independent of time.
 
 ---
 
