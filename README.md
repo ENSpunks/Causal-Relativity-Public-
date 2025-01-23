@@ -30,8 +30,8 @@ Try any physics problem that is "Spacetime dependent", even time dependent Quant
 #### **Causal Relativity Postulates**:
 
 1. Laws of physics are the same every where in space.
-2. Mass, light, and gravity are causally unified relative to any frame of reference and interact with other frames of reference.
-3. Mass, light, and gravity are causally unified relative to its own frame of reference.
+2. Mass, light, and gravity are causally unified relative to its own frame of reference.
+3. Mass, light, and gravity are causally unified relative to other frames of reference.
 
 ---
 
