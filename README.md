@@ -55,8 +55,6 @@ The **Causal Relativity** framework is developed on the **Causal Relativity Equa
 
 ![Light](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Causal%20Sphere%20Diagrams/Assets/l.PNG)​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
 
-[Equation Derivations](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Papers/Causal%20Relativity/Derivations%20of%20Equations%3A%20Mass%2C%20Light%2C%20Gravity.md#light)
-
 | Causal Geometry | Phenomenon                | Theory                   | Original Equations                                  | Causal Relativity Equation                               | Derivation Paper                                                                 |
 |-----------------|---------------------------|--------------------------|----------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------------------------------|
 | Light           | Electromagnetic Wave Propagation | Classical Electromagnetism | ∇×E = -∂B/∂t                                      | ∇×E = -κ ∇⋅B                                              | [Electromagnetic Wave Propagation Derivation](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Derivations/Electromagnetic%20Wave%20Propagation%20in%20Gravitational%20Fields.md) |
@@ -67,8 +65,6 @@ The **Causal Relativity** framework is developed on the **Causal Relativity Equa
 
 ![Gravity](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Causal%20Sphere%20Diagrams/Assets/g.PNG)​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
 
-[Equation Derivations](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Papers/Causal%20Relativity/Derivations%20of%20Equations%3A%20Mass%2C%20Light%2C%20Gravity.md#gravity)
-
 | Causal Geometry | Phenomenon        | Theory             | Original Equations                                              | Causal Relativity Equation                   | Derivation Paper                                                                                      |
 |-----------------|-------------------|--------------------|-----------------------------------------------------------------|----------------------------------------------|-----------------------------------------------------------------------------------------------------|
 | Gravity         | Spacetime Curvature | General Relativity | ds² = -c² dt² + dx² + dy² + dz²                                 | ds² = gᵢⱼ dxⁱ dxʲ                           | [Newton's Gravitational Force Derivation](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Derivations/Newton's%20Gravitational%20Force.md) |
@@ -76,8 +72,6 @@ The **Causal Relativity** framework is developed on the **Causal Relativity Equa
 ### **Light + Gravity**
 
 ![Light + Gravity](https://raw.githubusercontent.com/ENSpunks/Causal-Relativity-Public-/refs/heads/Quantum-Mechanics/Causal%20Sphere%20Diagrams/Assets/l%2Bg.PNG)​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
-
-[Equation Derivations](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Papers/Causal%20Relativity/Derivations%20of%20Equations%3A%20Light%2BGravity%2C%20Mass%2BLight%2C%20Mass%2BGravity.md)
 
 | Causal Geometry | Phenomenon               | Theory            | Original Equations                                                                                   | Causal Relativity Equation                                                                 | Derivation Paper                                                                                                                |
 |-----------------|--------------------------|-------------------|------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
@@ -92,8 +86,6 @@ The **Causal Relativity** framework is developed on the **Causal Relativity Equa
 
 ![Mass + Light](https://raw.githubusercontent.com/ENSpunks/Causal-Relativity-Public-/refs/heads/Quantum-Mechanics/Causal%20Sphere%20Diagrams/Assets/m%2Bl.PNG)​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
 
-[Equation Derivations](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Papers/Causal%20Relativity/Derivations%20of%20Equations%3A%20Light%2BGravity%2C%20Mass%2BLight%2C%20Mass%2BGravity.md#mass--light)
-
 | Causal Geometry | Phenomenon              | Theory            | Original Equations                                                                                         | Causal Relativity Equation                                                                                         | Derivation Paper                                                                                                               |
 |-----------------|-------------------------|-------------------|------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
 | Mass + Light    | Precession              | General Relativity | Δφ = (6πGM) / (c²a(1 - e²))                                                                                | Δφ = (6πGM) / (c²a(1 - e²))                                                                                         | [Precession Derivation](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Derivations/Precession.md) |
@@ -104,8 +96,6 @@ The **Causal Relativity** framework is developed on the **Causal Relativity Equa
 
 ![Mass + Gravity](https://raw.githubusercontent.com/ENSpunks/Causal-Relativity-Public-/refs/heads/Quantum-Mechanics/Causal%20Sphere%20Diagrams/Assets/m%2Bg.PNG)​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
 
-[Equation Derivations](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Papers/Causal%20Relativity/Derivations%20of%20Equations%3A%20Light%2BGravity%2C%20Mass%2BLight%2C%20Mass%2BGravity.md#mass--light)
-
 | Causal Geometry | Phenomenon                    | Theory            | Original Equations                                                                                         | Causal Relativity Equation                                                                                         | Derivation Paper                                                                                                                   |
 |-----------------|-------------------------------|-------------------|------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
 | Mass + Gravity  | Mass-Energy Equivalence        | Special Relativity | E = mc²                                                                                                    | E = mc²                                                                                                            | [Mass-Energy Equivalence Derivation](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Derivations/Mass-Energy%20Equivalence.md) |
@@ -115,10 +105,6 @@ The **Causal Relativity** framework is developed on the **Causal Relativity Equa
 ### **Mass + Light + Gravity**
 
 ![Mass + Light + Gravity](https://raw.githubusercontent.com/ENSpunks/Causal-Relativity-Public-/refs/heads/Quantum-Mechanics/Causal%20Sphere%20Diagrams/Assets/m%2Bl%2Bg.PNG)​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
-
-[Electrodynamics Equation Derivations](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Papers/Electrodynamics/Derivation%20of%20Electrodynamic%20Laws%20in%20Causal%20Relativity.md#title-derivation-of-electrodynamic-laws-in-causal-relativity)
-[Thermodynamics Equation Derivations](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Papers/Thermodynamics/Derivation%20of%20Thermodynamic%20Laws%20in%20Causal%20Relativity.md#title-derivation-of-thermodynamic-laws-in-causal-relativity)
-[Quantum Equation Derivations](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Papers/Causal%20Relativity/Derivations%20of%20Equations%3A%20Mass%2BLight%2BGravity.md#mass--light--gravity)
 
 | Causal Geometry     | Phenomenon                          | Theory          | Original Equations                                                                                         | Causal Relativity Equation                                                                                         | Derivation Paper                                                                                                                   |
 |---------------------|-------------------------------------|-----------------|------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
