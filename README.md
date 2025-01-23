@@ -29,10 +29,10 @@ Try any physics problem that is "Spacetime dependent", even time dependent Quant
 
 #### **Causal Relativity Postulates**:
 
-1. Laws of physics are the same relative to all frames of reference.
-2. Mass causes space to curve, relative to the location of mass space, and curvature propagtes outward at a constant speed.
-3. Entropy causes quantized mass to emit light that propagates outward from mass curvature in space at a constant the speed.
-4. Mass, light, and gravity unifiy in space relative to any frame of reference and relative to its own frame creating a fourth spatial coordinate relative to all causal interactions in space.
+1. Laws of physics are the same in all frames of reference.
+2. Mass relative to itself causes curvature in space that propagtes outward from the mass curvature at a constant speed and interacts with other frames relative to itself.
+3. Quantized mass relative to a mass in space causes light to be released and propagate outward relative to the mass curvature at a constant speed and interacts with other frames.
+4. Mass, light, and gravity causally unifiy in space relative to any frame of reference and relative to its own frame creating a fourth spatial coordinate for all frames.
 
 ---
 
