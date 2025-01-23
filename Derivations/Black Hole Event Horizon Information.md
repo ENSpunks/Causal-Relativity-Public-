@@ -5,6 +5,7 @@
 ---
 
 ### **t = 0**  
+
 **Causal Geometry:** Black Hole Event Horizon, causal surface, information bound.  
 **Phenomenon:** Information at the event horizon of a black hole.  
 **Theory:** General Relativity and the holographic principle applied to black holes.  
