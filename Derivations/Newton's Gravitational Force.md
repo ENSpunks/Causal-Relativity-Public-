@@ -4,11 +4,24 @@
 
 ---
 
-### **t = 0**  
 **Causal Geometry:** Mass  
 **Phenomenon:** Newton's Gravitational Force  
 **Theory:** Classical Mechanics  
 **Original Equation:** \( F = \frac{Gm_1m_2}{r^2} \)  
+
+---
+
+To redefine ( K ) in the context of Causal Relativity as a time-independent quantity, let's focus on its spatial implications. Here's how you might do it:
+
+Redefinition of ( K ):
+
+( K ): Represents the Spatial Curvature Influence due to mass ( M ). It quantifies how much space is "curved" or influenced by the presence of mass at a distance ( r ). This curvature dictates the spatial geometry around the mass, influencing how other objects or light would behave within this curvature, without explicit reference to temporal dynamics.
+
+Interpretation: Instead of acceleration, ( K ) here describes a static spatial property, a measure of how space itself is configured due to the mass's presence. It reflects the gravitational influence as a geometric feature of space.
+
+Propagation: The effect of this curvature propagates outward at the speed of light ( c ), defining how far the influence of the mass extends in space, but this is about spatial causality rather than temporal evolution.
+
+Inverse Proportionality: The strength of this curvature decreases with distance from the mass, illustrating how gravity's influence diminishes spatially, not temporally.
 
 ---
 
