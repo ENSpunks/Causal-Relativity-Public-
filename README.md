@@ -209,11 +209,6 @@ The equations are derived on the principle that all physics can be described in 
 
 ### **Conclusion**
 
-#### **Physics are the same everywhere independent of time.
-
-#### **
-
-hysics are relative to itself independent of time.**
 
 ---
 
