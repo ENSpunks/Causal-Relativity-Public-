@@ -88,7 +88,7 @@ The Causal Relativity framework is developed on the theory that all frames are r
   
 ___
 
-### **Causal Relativity Equations*
+### **Causal Relativity Equations**
 
 The equations are derived on the principle that all physics can be described in a time-independent manner, maintaining consistency with traditional equations but reinterpreting them spatially.
 
