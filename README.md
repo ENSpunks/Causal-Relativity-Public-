@@ -1,4 +1,4 @@
-## **Theory of Causal Relativity:  Time Independent Relativity**
+## **Theory of Causal Relativity**
 
 **Will Brown**  
 **January 20, 2025**
