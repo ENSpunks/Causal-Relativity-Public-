@@ -37,11 +37,11 @@ Try any physics problem, even time dependent Relativity and Quantum Mechanics eq
 
 ### **Causal Relativity Equations**
 
-The **Causal Relativity** framework is developed on the theory that all frames are relative to not just other frsmes but relative to themselves in space. **Causal Relativity Equations** are equations derived by modifying existing equations to be time independent. 
+The **Causal Relativity** framework is developed on the theory that all frames are relative, not just other frames, but relative to themselves independent of time. 
 
-Start with an n=1 universe, the assumption is the n=1 mass is at rest without any forces acting on it relative to all inertial frames and its own frame.  That this mass flows through a temporal dimension but not in space relative to itself.
+Start with an n=1 universe, the relativistic assumption is that the mass is at rest without any forces acting on therefore at rest relative to all inertial frames and its own frame.  That the mass flows through a temporal dimension but does not move in n=1 space relative to itself.
 
-**Causal Relativity** challenges this assumption on the proposition that no mass is ever at rest or inertial relative to itself.
+**Causal Geometry** challenges this assumption on the proposition that no mass is ever at rest or inertial relative to itself.
 
 Here's how this scenario could play out in an n=1 universe, considering both the effects of general relativity and quantum mechanics:
 
@@ -73,9 +73,9 @@ Here's how this scenario could play out in an n=1 universe, considering both the
 
 **Conclusion**:
 
-- Mass through its quantum particles, are in continuous motion in space relative to the mass in an inertial frame, even in an n=1 universe. Mass in an inertial frame has a self-referential system of coordinates of gravity and light.  
+- Mass through its quantum particles, are in continuous motion in space relative to the mass in an inertial frame, even in an n=1 universe. Mass in an inertial frame has a self-referential system of coordinates of gravity and light.
 
-**Causal Geometry**:
+**Causal Relativity Equations** are equations derived on this principle and maintain consistency with original equations but modify them to be time independent. 
 
 ### **Mass**
 
