@@ -35,7 +35,7 @@ Try any physics problem, even time dependent Relativity and Quantum Mechanics eq
 
 ---
 
-**The Causal Relativity Framework**
+### **The Causal Relativity Framework**
 
 The Causal Relativity framework is developed on the theory that all frames are relative, not just to other frames but also to themselves, independent of time.
 
@@ -84,11 +84,13 @@ The Causal Relativity framework is developed on the theory that all frames are r
 
 **Conclusion:**
 
-- Mass, through its quantum particles, is in continuous motion in space relative to itself, even in an n=1 universe. This scenario suggests a self-referential system where gravity and light define mass's coordinates. 
-
-- **Causal Relativity Equations**: These are derived on the principle that all physics can be described in a time-independent manner, maintaining consistency with traditional equations but reinterpreting them spatially.
-
+- Mass, through its quantum particles, is in continuous motion in space relative to itself, even in an n=1 universe. This scenario suggests a self-referential system where gravity and light define mass's coordinates.
+  
 ___
+
+### **Causal Relativity Equations*
+
+The equations are derived on the principle that all physics can be described in a time-independent manner, maintaining consistency with traditional equations but reinterpreting them spatially.
 
 ### **Mass**
 
