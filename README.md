@@ -107,9 +107,7 @@ The equations are derived on the principle that all physics can be described in 
 |----------------------------|----------------------------|------------------------------|-------------------------------------------------|-----------------------------------------------------|------------------------------------------------|
 | Light                     | Electromagnetic Wave Propagation | Classical Electromagnetism   | ∇×E = -∂B/∂t                                    | ∇×E = -κ ∇⋅B                                       | [Electromagnetic Wave Propagation Derivation](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Derivations/Electromagnetic%20Wave%20Propagation.md)    |
 | Light                     | Electromagnetic Induction  | Classical Electromagnetism   | ∇×B = μ₀J + μ₀ϵ₀ ∂E/∂t                         | 
-   \[
-   \nabla \times \mathbf{B} = \mu_0 \mathbf{J} + \mu_0 \epsilon_0 \kappa \nabla \cdot \mathbf{E}
-   \]                             | [Electromagnetic Induction Derivation](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Derivations/Electromagnetic%20Induction%20(Light).md)           |
+                                | [Electromagnetic Induction Derivation](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Derivations/Electromagnetic%20Induction%20(Light).md)           |
 | Light                     | Light Wave Equation in Vacuum | Classical Electromagnetism   | ∇²E - (1/c²) ∂²E/∂t² = 0                        | (1 - κ²) ∇²E = 0                                   | [Light Wave Equation in Vacuum Derivation](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Derivations/Light%20Wave%20Propagation%20in%20Vacuum.md)       |
 
 ### **Gravity**
