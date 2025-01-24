@@ -7,7 +7,7 @@
 
 ### **Abstract**
 
-The **Theory of Causal Relativity** is a theory interpreted from **Causal Relativity Equations** derived for time independent equations unifying Classical Mechanics, Special Relativity, Thermodynamics, Electrodynamics and Quantum Mechanics. 
+The **Theory of Causal Relativity** is a theory interpreted from **Causal Relativity Equations** a series of equation transformations for Classical Mechanics, Special Relativity, Thermodynamics, Electrodynamics and Quantum Mechanics. 
 
 ---
 
