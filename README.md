@@ -1,4 +1,4 @@
-## **Theory of Causal Relativity:  Time Independent**
+## **Theory of Causal Relativity:  Time Independent Relativity**
 
 **Will Brown**  
 **January 20, 2025**
@@ -28,8 +28,8 @@ The **Theory of Causal Relativity** is a theory interpreted from **Causal Relati
 #### **Causal Relativity Postulates**:
 
 1. Laws of physics are the same independent of time.
-2. All Frames are relative to all other frames. 
-3. All frames are relative to themselves.
+2. Frames are relative to all other frames. 
+3. Frames are relative to themselves.
 
 ---
 
@@ -103,13 +103,21 @@ The equations are derived on the principle that all physics can be described in 
 
 ![Light](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Causal%20Sphere%20Diagrams/Assets/l.PNG)​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
 
+1 file changed
+
+ 
+‎README.md
++4
+-1
+
+
+Original file line number	Diff line number	Diff line change
+@@ -106,7 +106,10 @@ The equations are derived on the principle that all physics can be described in
 | **Causal Geometry**       | **Phenomenon**             | **Theory**                   | **Original Equations**                          | **Causal Relativity Equation**                       | **Derivation Paper**                           |
 |----------------------------|----------------------------|------------------------------|-------------------------------------------------|-----------------------------------------------------|------------------------------------------------|
 | Light                     | Electromagnetic Wave Propagation | Classical Electromagnetism   | ∇×E = -∂B/∂t                                    | ∇×E = -κ ∇⋅B                                       | [Electromagnetic Wave Propagation Derivation](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Derivations/Electromagnetic%20Wave%20Propagation.md)    |
-| Light                     | Electromagnetic Induction  | Classical Electromagnetism   | ∇×B = μ₀J + μ₀ϵ₀ ∂E/∂t                         | 
-                                | [Electromagnetic Induction Derivation](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Derivations/Electromagnetic%20Induction%20(Light).md)           |
+| Light                     | Electromagnetic Induction  | Classical Electromagnetism   | ∇×B = μ₀J + μ₀ϵ₀ ∂E/∂t                         | ∇×B = μ₀J + μ₀ϵ₀κ ∇⋅E                             | [Electromagnetic Induction Derivation](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Derivations/Electromagnetic%20Induction%20(Light).md)           | 
 | Light                     | Light Wave Equation in Vacuum | Classical Electromagnetism   | ∇²E - (1/c²) ∂²E/∂t² = 0                        | (1 - κ²) ∇²E = 0                                   | [Light Wave Equation in Vacuum Derivation](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Derivations/Light%20Wave%20Propagation%20in%20Vacuum.md)       |
-
 ### **Gravity**
 
 ![Gravity](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Causal%20Sphere%20Diagrams/Assets/g.PNG)​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
