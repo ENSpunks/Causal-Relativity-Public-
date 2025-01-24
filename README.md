@@ -103,16 +103,6 @@ The equations are derived on the principle that all physics can be described in 
 
 ![Light](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Causal%20Sphere%20Diagrams/Assets/l.PNG)​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
 
-1 file changed
-
- 
-‎README.md
-+4
--1
-
-
-Original file line number	Diff line number	Diff line change
-@@ -106,7 +106,10 @@ The equations are derived on the principle that all physics can be described in
 | **Causal Geometry**       | **Phenomenon**             | **Theory**                   | **Original Equations**                          | **Causal Relativity Equation**                       | **Derivation Paper**                           |
 |----------------------------|----------------------------|------------------------------|-------------------------------------------------|-----------------------------------------------------|------------------------------------------------|
 | Light                     | Electromagnetic Wave Propagation | Classical Electromagnetism   | ∇×E = -∂B/∂t                                    | ∇×E = -κ ∇⋅B                                       | [Electromagnetic Wave Propagation Derivation](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Derivations/Electromagnetic%20Wave%20Propagation.md)    |
