@@ -3,20 +3,7 @@
  
 
 ---
-**t = 0** 
 Light
----
-
-Here's a revision of the paper to emphasize the time-independent aspect of the new equation and to clarify definitions:
-
-# **Causal Relativity Equation: Electromagnetic Induction in Causal Geometry**  
-**Author:** Will Brown  
-
----
-
-**t = 0**  
-**Causal Geometry:** Light  
-
 ---
 
 ## **Causal Geometry**  
