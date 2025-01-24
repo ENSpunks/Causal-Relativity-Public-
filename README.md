@@ -9,8 +9,6 @@
 
 The **Theory of Causal Relativity** is a theory interpreted from **Causal Relativity Equations** derived for time independent equations unifying Classical Mechanics, Special Relativity, Thermodynamics, Electrodynamics and Quantum Mechanics. 
 
-Try any physics problem, even dependent Relativity and Quantum Mechanics problems usings time independent **Causal Relativity Equations**.
-
 ---
 
 ### **Introduction**
@@ -30,7 +28,7 @@ Try any physics problem, even dependent Relativity and Quantum Mechanics problem
 #### **Causal Relativity Postulates**:
 
 1. Laws of physics are the same independent of time.
-2. All frames are relative to all other frames. 
+2. All Frames are relative to all other frames. 
 3. All frames are relative to themselves.
 
 ---
