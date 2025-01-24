@@ -30,16 +30,52 @@ Try any physics problem, even time dependent Relativity and Quantum Mechanics eq
 #### **Causal Relativity Postulates**:
 
 1. Laws of physics are the same independent of time.
-2. Frames are relative to all other frames. 
+2. All frames are relative to all other frames. 
 3. All frames are relative to themselves.
 
 ---
 
 ### **Causal Relativity Equations**
 
-The **Causal Relativity** framework is developed on the **Causal Relativity Equations**, a set of equations unifying mass, light and gravity into geometric constructs called **Causal Spheres** that unify all known laws into **Causal Geometry**. 
+The **Causal Relativity** framework is developed on the theory that all frames are relative to not just other frsmes but relative to themselves in space. **Causal Relativity Equations** are equations derived by modifying existing equations to be time independent. 
 
-**Causal Geometry** creates an intrinsic 4th spatial coordinate relative to any observer in space without needing time as a dimension.  Even in traditional spacetime **Causal Geometry** creates an intrinsic spatial coordinates for an inertial frame relative to itself and any other causally connected frame, or the light+gravity from Alice's mass (collectively "Alice's Causal Sphere") relative to Bob's mass+light+gravity (Bob's Causal Sphere) that can scale in 3D space without time for any n-body system relative to any other Causal Sphere frame of reference.
+Start with an n=1 universe, the assumption is the n=1 mass is at rest without any forces acting on it relative to all inertial frames and its own frame.  That this mass flows through a temporal dimension but not in space relative to itself.
+
+**Causal Relativity** challenges this assumption on the proposition that no mass is ever at rest or inertial relative to itself.
+
+Here's how this scenario could play out in an n=1 universe, considering both the effects of general relativity and quantum mechanics:
+
+1. **Space Curvature by Mass**:
+   - **Assumption**: The mass curves space around itself, creating a gravitational field that extends indefinitely in all directions. This curvature is relative to the location of the mass, with stronger curvature closer to the mass and diminishing as you move away.
+
+2. **Propagation of Curvature**:
+   - **Assumption**: The influence of this curvature propagates outward at the speed of light. Although there's no other mass to interact with, this curvature is an intrinsic property of space around the mass, defining a "grid" or gravitational coordinate system where the mass is the origin.
+
+3. **Quantum Mechanics and Energy Emission**:
+   - **Assumption**: Relative to the the space curvature by the mass, quantum particles within the mass are never truly at rest due to quantum fluctuations and the Heisenberg Uncertainty Principle. These particles can transition to lower energy states or interact in ways that lead to the emission of photons:
+     - **Photon Emission**: Photons, carrying energy and information about the quantum state of the mass, are emitted. These photons interact with other quantized particles relative to the curvature of the mass and propagate outward at the speed of light relative to the curved space created by the mass.
+
+4. **Photons as Information Carriers**:
+   - **Assumption**: Although there's no other mass to interact with, these photons still carry information about the mass from which they were emitted. Their path and properties (like redshift due to gravitational influence) would be determined by the distance in spacethe photons travel:
+     - **Coordinate in Space**: Each photon, as it travels, can be considered a point or coordinate in space relative to the mass, carrying information about the mass's state at the time of emission. The further the photon travels, the more it tells us about the mass.
+
+5. **Energy Loss and Mass Change**:
+   - **Assumption**: As the mass emits energy in the form of photons, it loses energy. This could potentially:
+     - **Change Mass Density**: If the mass is losing energy, its mass density might decrease over time, depending on how significant the energy loss is relative to its total mass.
+     - **Alter Size**: If energy loss is significant, it might affect the size of the mass, particularly if the mass is something like a star where energy production influences its physical structure.
+
+6. **Feedback on Space Curvature**:
+   - **Assumption**: As the mass changes due to energy loss, the curvature of space around it would also change:
+     - **Shifting Curvature**: The "location" of the curvature relative to the mass would shift, reflecting the new state of the mass. This new curvature still propagates outward, continuously causing the mass's influence on space to change relative to the distance from the mass.
+
+7. **Intrinsic Coordinate System**: 
+   - **Assumption**: The mass and its emitted photons form an intrinsic coordinate system where the mass is the origin. The curvature of space around it, along with the paths of photons, provides a dynamic map of the mass's gravitational influence.
+
+**Conclusion**:
+
+- Mass through its quantum particles, are in continuous motion in space relative to the mass in an inertial frame, even in an n=1 universe. Mass in an inertial frame has a self-referential system of coordinates of gravity and light.  
+
+**Causal Geometry**:
 
 ### **Mass**
 
