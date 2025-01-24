@@ -108,6 +108,7 @@ The equations are derived on the principle that all physics can be described in 
 | Light                     | Electromagnetic Wave Propagation | Classical Electromagnetism   | ∇×E = -∂B/∂t                                    | ∇×E = -κ ∇⋅B                                       | [Electromagnetic Wave Propagation Derivation](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Derivations/Electromagnetic%20Wave%20Propagation.md)    |
 | Light                     | Electromagnetic Induction  | Classical Electromagnetism   | ∇×B = μ₀J + μ₀ϵ₀ ∂E/∂t                         | ∇×B = μ₀J + μ₀ϵ₀κ ∇⋅E                             | [Electromagnetic Induction Derivation](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Derivations/Electromagnetic%20Induction%20(Light).md)           | 
 | Light                     | Light Wave Equation in Vacuum | Classical Electromagnetism   | ∇²E - (1/c²) ∂²E/∂t² = 0                        | (1 - κ²) ∇²E = 0                                   | [Light Wave Equation in Vacuum Derivation](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Derivations/Light%20Wave%20Propagation%20in%20Vacuum.md)       |
+
 ### **Gravity**
 
 ![Gravity](https://github.com/ENSpunks/Causal-Relativity-Public-/blob/main/Causal%20Sphere%20Diagrams/Assets/g.PNG)​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
