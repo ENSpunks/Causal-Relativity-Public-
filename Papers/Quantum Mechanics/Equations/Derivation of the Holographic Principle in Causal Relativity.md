@@ -1,6 +1,3 @@
-Here’s the updated version of your paper with the refined approach to the encoding factor based on curvature and boundary thickness. I've adjusted the derivations and explanations accordingly. Let me know if further refinements are needed!
-
----
 
 ### **Title: Derivation of the Holographic Principle in Causal Relativity**
 
